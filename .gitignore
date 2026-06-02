@@ -1,0 +1,6 @@
+# Salesforce
+.sfdx/
+.sf/
+*.log
+node_modules/
+.env
