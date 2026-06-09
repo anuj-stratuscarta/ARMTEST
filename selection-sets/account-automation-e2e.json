@@ -1,0 +1,21 @@
+{
+  "name": "ACCOUNT-AUTOMATION-E2E",
+  "slug": "account-automation-e2e",
+  "tags": [
+    "e2e",
+    "account"
+  ],
+  "author": "e2e",
+  "createdAt": "2026-06-09T10:44:29.929Z",
+  "updatedAt": "2026-06-09T10:44:29.929Z",
+  "components": [
+    {
+      "type": "ApexClass",
+      "fullName": "AccountController"
+    },
+    {
+      "type": "CustomObject",
+      "fullName": "Account"
+    }
+  ]
+}
