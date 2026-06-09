@@ -7,7 +7,7 @@
   ],
   "author": "e2e",
   "createdAt": "2026-06-09T10:44:29.929Z",
-  "updatedAt": "2026-06-09T10:44:29.929Z",
+  "updatedAt": "2026-06-09T10:44:33.301Z",
   "components": [
     {
       "type": "ApexClass",
@@ -16,6 +16,10 @@
     {
       "type": "CustomObject",
       "fullName": "Account"
+    },
+    {
+      "type": "ApexClass",
+      "fullName": "AccountTriggerHandler"
     }
   ]
 }
