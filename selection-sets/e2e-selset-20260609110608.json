@@ -1,0 +1,21 @@
+{
+  "name": "E2E-SELSET-20260609110608",
+  "slug": "e2e-selset-20260609110608",
+  "tags": [
+    "e2e",
+    "account"
+  ],
+  "author": "e2e-gate",
+  "createdAt": "2026-06-09T11:06:09.754Z",
+  "updatedAt": "2026-06-09T11:06:09.754Z",
+  "components": [
+    {
+      "type": "ApexClass",
+      "fullName": "AccountController"
+    },
+    {
+      "type": "CustomObject",
+      "fullName": "Account"
+    }
+  ]
+}
