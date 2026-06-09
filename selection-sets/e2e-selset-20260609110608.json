@@ -7,11 +7,15 @@
   ],
   "author": "e2e-gate",
   "createdAt": "2026-06-09T11:06:09.754Z",
-  "updatedAt": "2026-06-09T11:06:09.754Z",
+  "updatedAt": "2026-06-09T11:06:12.968Z",
   "components": [
     {
       "type": "ApexClass",
       "fullName": "AccountController"
+    },
+    {
+      "type": "ApexClass",
+      "fullName": "AccountTriggerHandler"
     },
     {
       "type": "CustomObject",
