@@ -1,0 +1,176 @@
+{
+  "object": "AttributePicklist",
+  "records": [
+    {
+      "Code": "INTERNET_SPEED_OPTIONS",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "10e98b43-6263-4294-89ac-a572581bdacb",
+      "Name": "Internet Speed Options",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "STPICK002",
+      "DataType": "Text",
+      "Description": "Subscription Type",
+      "GlobalKey__c": "1efba2cf-726d-4375-a2fa-b58b9fec3a12",
+      "Name": "Subscription Type",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "GRA001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "317b28b3-3fbc-43b6-aa19-7061a0d17d7b",
+      "Name": "Graphics Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "PRI001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "3a2edd96-e575-46fc-a0d0-77c8b66d2c84",
+      "Name": "Printer Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "GEL00903",
+      "DataType": "Number",
+      "Description": null,
+      "GlobalKey__c": "516afe75-8602-4da2-ae62-b58205ce784a",
+      "Name": "Gel Quantity",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "PSIZE001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "55441a76-0a75-4139-a7b5-06ed363d17ff",
+      "Name": "Paper Size Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "POS0001",
+      "DataType": "Text",
+      "Description": "POS Type",
+      "GlobalKey__c": "5bc6bb05-df72-4c1c-827f-125897e12cf2",
+      "Name": "POS Type",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "TRA001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "5ccd7e10-f6c6-4c32-b08b-dc08c9b81032",
+      "Name": "Training Type Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "CW00902",
+      "DataType": "Number",
+      "Description": null,
+      "GlobalKey__c": "68956bb7-fcc6-496e-9c82-9f0797069cad",
+      "Name": "Compound Weight",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "DIS001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "6d6d52e4-ee1b-4546-be87-02a7f96873d9",
+      "Name": "Display Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "SP001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "6fd80412-87c3-49a8-85ad-26de909b120b",
+      "Name": "Support Level Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "PRO001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "79efa45c-9ec9-4403-a9d5-a883f85071f1",
+      "Name": "Processor Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "S0001",
+      "DataType": "Text",
+      "Description": "Scanner Type",
+      "GlobalKey__c": "8be22f2a-009a-407e-8086-d9904c62f87c",
+      "Name": "Scanner Type",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "RG0001",
+      "DataType": "Text",
+      "Description": "Region",
+      "GlobalKey__c": "b8a87f4d-b6a5-48a4-8b15-4f48c945e10b",
+      "Name": "Region",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "PCR0090345",
+      "DataType": "Number",
+      "Description": null,
+      "GlobalKey__c": "d06c6826-4d5d-48fb-8fb7-edc2821bfa46",
+      "Name": "Paste Color Ratio",
+      "OwnerId": null,
+      "Status": "Active"
+    },
+    {
+      "Code": "STR001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "e6be0d1d-f785-48ed-9e64-8049c9af6686",
+      "Name": "Storage Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "MEM001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "ea6069fe-9cc5-4e10-9374-119fe3f4a734",
+      "Name": "Memory Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "DISSIZE001",
+      "DataType": "Text",
+      "Description": null,
+      "GlobalKey__c": "f4ff2c5e-addd-4704-9bb5-0426528fdc98",
+      "Name": "Display Size Picklist",
+      "OwnerId": null,
+      "Status": "Draft"
+    },
+    {
+      "Code": "R0001",
+      "DataType": "Text",
+      "Description": "Register Type",
+      "GlobalKey__c": "f903c7f7-ac49-4115-bea0-c44d94592e49",
+      "Name": "Register Type",
+      "OwnerId": null,
+      "Status": "Active"
+    }
+  ]
+}
