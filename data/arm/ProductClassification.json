@@ -1,0 +1,13 @@
+{
+  "object": "ProductClassification",
+  "records": [
+    {
+      "Code": "CLS_RES_INTERNET",
+      "GlobalKey__c": "bb37a205-afcd-42e0-bbb3-9ed53fda90e0",
+      "Name": "Residential Internet",
+      "OwnerId": null,
+      "ParentProductClassification.GlobalKey__c": null,
+      "Status": "Active"
+    }
+  ]
+}
