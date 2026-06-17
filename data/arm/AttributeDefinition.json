@@ -1,0 +1,23 @@
+{
+  "object": "AttributeDefinition",
+  "records": [
+    {
+      "Code": null,
+      "DataType": "Picklist",
+      "DefaultHelpText": null,
+      "DefaultValue": null,
+      "Description": null,
+      "DeveloperName": "INTERNET_SPEED_RES",
+      "GlobalKey__c": "9092022d-7737-4ff1-b6a1-42c8a50e4cbe",
+      "IsActive": "true",
+      "IsRequired": "false",
+      "Label": "Internet Speed",
+      "Name": "Internet Speed",
+      "OwnerId": null,
+      "Picklist.GlobalKey__c": "10e98b43-6263-4294-89ac-a572581bdacb",
+      "SourceSystemIdentifier": null,
+      "UnitOfMeasure.GlobalKey__c": null,
+      "ValueDescription": null
+    }
+  ]
+}
