@@ -1,0 +1,10 @@
+{
+  "object": "ProductClassification",
+  "records": [
+    {
+      "Code": "E2E_ARM_34119833",
+      "GlobalKey__c": "829dd1fc-3a43-4039-b604-fa9eb49891b0",
+      "Name": "E2E ARM PC 34119833"
+    }
+  ]
+}
