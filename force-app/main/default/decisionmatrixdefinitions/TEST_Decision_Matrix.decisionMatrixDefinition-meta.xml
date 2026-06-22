@@ -4,7 +4,7 @@
     <processType>Bre</processType>
     <type>Standard</type>
     <versions>
-        <fullName>TEST_Decision_Matrix_V1</fullName>
+        <fullName>TEST_Decision_Matrix_V2</fullName>
         <columns>
             <columnType>Input</columnType>
             <dataType>Text</dataType>
@@ -35,9 +35,9 @@
         </columns>
         <decisionMatrixDefinition>TEST_Decision_Matrix</decisionMatrixDefinition>
         <label>TEST Decision Matrix V1</label>
-        <rank>1</rank>
+        <rank>2</rank>
         <startDate>2026-06-19T20:58:34.000Z</startDate>
-        <status>Active</status>
-        <versionNumber>1</versionNumber>
+        <status>Draft</status>
+        <versionNumber>2</versionNumber>
     </versions>
 </DecisionMatrixDefinition>
