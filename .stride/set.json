@@ -1,0 +1,33 @@
+{
+  "slug": "arm-demo-residential-internet",
+  "name": "ARM Demo — Residential Internet",
+  "createdAt": "2026-06-24T14:44:17.099Z",
+  "updatedAt": "2026-06-24T14:44:17.099Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDemoBundle"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "AttributeDefinition",
+          "AttributePicklist",
+          "AttributePicklistValue",
+          "Product2",
+          "ProductClassification",
+          "ProductClassificationAttr"
+        ]
+      }
+    }
+  },
+  "branch": "feature/arm-demo-residential-internet"
+}
