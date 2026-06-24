@@ -1,0 +1,18 @@
+{
+  "slug": "decitionmatrix",
+  "name": "DecitionMatrix",
+  "createdAt": "2026-06-24T14:44:22.229Z",
+  "updatedAt": "2026-06-24T14:44:22.229Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "DecisionMatrixDefinition",
+          "fullName": "TEST_Decision_Matrix"
+        }
+      ]
+    }
+  },
+  "branch": "feature/decitionmatrix"
+}
