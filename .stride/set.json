@@ -1,0 +1,18 @@
+{
+  "slug": "md-apex",
+  "name": "MD_Apex",
+  "createdAt": "2026-06-24T23:58:56.215Z",
+  "updatedAt": "2026-06-24T23:58:56.215Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDemoBundle"
+        }
+      ]
+    }
+  },
+  "branch": "feature/md-apex"
+}
