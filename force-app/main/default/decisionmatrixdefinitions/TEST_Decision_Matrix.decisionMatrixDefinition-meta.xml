@@ -4,7 +4,7 @@
     <processType>Bre</processType>
     <type>Standard</type>
     <versions>
-        <fullName>TEST_Decision_Matrix_V2</fullName>
+        <fullName>TEST_Decision_Matrix_V3</fullName>
         <columns>
             <columnType>Input</columnType>
             <dataType>Text</dataType>
@@ -34,10 +34,10 @@
             <name>NRC</name>
         </columns>
         <decisionMatrixDefinition>TEST_Decision_Matrix</decisionMatrixDefinition>
-        <label>TEST Decision Matrix V1</label>
-        <rank>2</rank>
+        <label>TEST Decision Matrix V3</label>
+        <rank>3</rank>
         <startDate>2026-06-19T20:58:34.000Z</startDate>
         <status>Draft</status>
-        <versionNumber>2</versionNumber>
+        <versionNumber>3</versionNumber>
     </versions>
 </DecisionMatrixDefinition>
