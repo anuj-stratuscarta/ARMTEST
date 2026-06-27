@@ -1,0 +1,1455 @@
+{
+  "component": "laptop-basic-bundle",
+  "componentGlobalKey": "12023500-cd5a-4917-9689-9dd5372a38c6",
+  "componentObject": "Product2",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:1a7a8ff0-988f-46c8-8854-482796c90590",
+      "required": true,
+      "to": "AttributeCategory:0790c495-0d73-40e1-938e-b34325b009ec"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:1a7a8ff0-988f-46c8-8854-482796c90590",
+      "required": true,
+      "to": "AttributeCategory:0790c495-0d73-40e1-938e-b34325b009ec"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:1a7a8ff0-988f-46c8-8854-482796c90590",
+      "required": true,
+      "to": "AttributeDefinition:0e8061ed-531e-4906-92f3-240cef3f23f1"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:6358e2c6-412f-4112-a687-62255c359be4",
+      "required": true,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:6358e2c6-412f-4112-a687-62255c359be4",
+      "required": true,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:6358e2c6-412f-4112-a687-62255c359be4",
+      "required": true,
+      "to": "AttributeDefinition:48da6660-4afc-4e4f-8c09-55f679358ef7"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:b1fffb85-ddae-4675-b370-8385a0e09394",
+      "required": true,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:b1fffb85-ddae-4675-b370-8385a0e09394",
+      "required": true,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:b1fffb85-ddae-4675-b370-8385a0e09394",
+      "required": true,
+      "to": "AttributeDefinition:c2803b03-d8c3-4f83-9dd0-8fe34005d55e"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:ba62443e-959c-4c3a-9463-482cc8a9f04e",
+      "required": true,
+      "to": "AttributeCategory:f329edc5-0f40-46f4-a0ce-5ea23199212d"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:ba62443e-959c-4c3a-9463-482cc8a9f04e",
+      "required": true,
+      "to": "AttributeCategory:f329edc5-0f40-46f4-a0ce-5ea23199212d"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:ba62443e-959c-4c3a-9463-482cc8a9f04e",
+      "required": true,
+      "to": "AttributeDefinition:c7802ef9-9395-4c97-87db-6c6b6a1e88e0"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:c8bf22df-7d6b-408f-b11a-ef79ff56cbf1",
+      "required": true,
+      "to": "AttributeCategory:9ee8f7b0-cebc-43e1-b4bd-0ec3bfe1bd39"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:c8bf22df-7d6b-408f-b11a-ef79ff56cbf1",
+      "required": true,
+      "to": "AttributeCategory:9ee8f7b0-cebc-43e1-b4bd-0ec3bfe1bd39"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:c8bf22df-7d6b-408f-b11a-ef79ff56cbf1",
+      "required": true,
+      "to": "AttributeDefinition:5bc16ffc-7bed-4338-aa22-a297bfdfc7e8"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:f95a871a-59d8-48b9-8358-cdea0108fd5e",
+      "required": true,
+      "to": "AttributeCategory:abc25e34-6813-4c04-b389-71721dc06f52"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:f95a871a-59d8-48b9-8358-cdea0108fd5e",
+      "required": true,
+      "to": "AttributeCategory:abc25e34-6813-4c04-b389-71721dc06f52"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:f95a871a-59d8-48b9-8358-cdea0108fd5e",
+      "required": true,
+      "to": "AttributeDefinition:5804840c-5a65-428d-ba17-365cc3d344cf"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:0e8061ed-531e-4906-92f3-240cef3f23f1",
+      "required": false,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:48da6660-4afc-4e4f-8c09-55f679358ef7",
+      "required": false,
+      "to": "AttributePicklist:6d6d52e4-ee1b-4546-be87-02a7f96873d9"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:5804840c-5a65-428d-ba17-365cc3d344cf",
+      "required": false,
+      "to": "AttributePicklist:317b28b3-3fbc-43b6-aa19-7061a0d17d7b"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:5bc16ffc-7bed-4338-aa22-a297bfdfc7e8",
+      "required": false,
+      "to": "AttributePicklist:79efa45c-9ec9-4403-a9d5-a883f85071f1"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:c2803b03-d8c3-4f83-9dd0-8fe34005d55e",
+      "required": false,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:c7802ef9-9395-4c97-87db-6c6b6a1e88e0",
+      "required": false,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:04ddf678-9920-4560-8777-07d251877a63",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:04ddf678-9920-4560-8777-07d251877a63",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:2ce52743-6f4d-4275-b657-462d93605899",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:2ce52743-6f4d-4275-b657-462d93605899",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:2df076a8-2357-4db4-8d28-255c6c61f9d0",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:2df076a8-2357-4db4-8d28-255c6c61f9d0",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:3619076a-49a2-4e7b-bc4f-aac9c5852cf7",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:3619076a-49a2-4e7b-bc4f-aac9c5852cf7",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:400d0143-eb4a-4ee4-a132-be8bc751f695",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:400d0143-eb4a-4ee4-a132-be8bc751f695",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:629564b2-8f72-4156-911d-b1171b6093da",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:629564b2-8f72-4156-911d-b1171b6093da",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:6a0136c5-9555-4fe8-a92f-9435a8e41e24",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:6a0136c5-9555-4fe8-a92f-9435a8e41e24",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:7d7861bc-9b22-4e73-9f64-c058693dca1f",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:7d7861bc-9b22-4e73-9f64-c058693dca1f",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:87a782bf-ae8a-4383-88e7-5a6928c60a14",
+      "required": true,
+      "to": "AttributePicklist:79efa45c-9ec9-4403-a9d5-a883f85071f1"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:87a782bf-ae8a-4383-88e7-5a6928c60a14",
+      "required": true,
+      "to": "AttributePicklist:79efa45c-9ec9-4403-a9d5-a883f85071f1"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:8af0181f-372f-456c-b625-1eb3ef40b60a",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:8af0181f-372f-456c-b625-1eb3ef40b60a",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:947ff132-ff9b-4c8b-8f76-8e5f05b5cc91",
+      "required": true,
+      "to": "AttributePicklist:6d6d52e4-ee1b-4546-be87-02a7f96873d9"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:947ff132-ff9b-4c8b-8f76-8e5f05b5cc91",
+      "required": true,
+      "to": "AttributePicklist:6d6d52e4-ee1b-4546-be87-02a7f96873d9"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:99c48f5c-14ae-4a17-b8c5-3733b889f862",
+      "required": true,
+      "to": "AttributePicklist:317b28b3-3fbc-43b6-aa19-7061a0d17d7b"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:99c48f5c-14ae-4a17-b8c5-3733b889f862",
+      "required": true,
+      "to": "AttributePicklist:317b28b3-3fbc-43b6-aa19-7061a0d17d7b"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:9f1d3c34-7b9c-4861-bab1-89775b515849",
+      "required": true,
+      "to": "AttributePicklist:6d6d52e4-ee1b-4546-be87-02a7f96873d9"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:9f1d3c34-7b9c-4861-bab1-89775b515849",
+      "required": true,
+      "to": "AttributePicklist:6d6d52e4-ee1b-4546-be87-02a7f96873d9"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:b1c68391-38fc-4506-93e2-f93bd624e35c",
+      "required": true,
+      "to": "AttributePicklist:79efa45c-9ec9-4403-a9d5-a883f85071f1"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:b1c68391-38fc-4506-93e2-f93bd624e35c",
+      "required": true,
+      "to": "AttributePicklist:79efa45c-9ec9-4403-a9d5-a883f85071f1"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:ba3885ff-77e2-4c6a-b7a9-ec8fba7bbd2d",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:ba3885ff-77e2-4c6a-b7a9-ec8fba7bbd2d",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d42e9477-c46b-4264-b3ee-8c0c29b0d36b",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d42e9477-c46b-4264-b3ee-8c0c29b0d36b",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d4dd3285-31b4-47b7-a052-f2889d980907",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d4dd3285-31b4-47b7-a052-f2889d980907",
+      "required": true,
+      "to": "AttributePicklist:f4ff2c5e-addd-4704-9bb5-0426528fdc98"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d9d18473-c2fe-41b7-a62e-1e5c2a1efbb4",
+      "required": true,
+      "to": "AttributePicklist:317b28b3-3fbc-43b6-aa19-7061a0d17d7b"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d9d18473-c2fe-41b7-a62e-1e5c2a1efbb4",
+      "required": true,
+      "to": "AttributePicklist:317b28b3-3fbc-43b6-aa19-7061a0d17d7b"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:e6c00f2b-772d-4f70-a850-ecc372ba0e14",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:e6c00f2b-772d-4f70-a850-ecc372ba0e14",
+      "required": true,
+      "to": "AttributePicklist:e6be0d1d-f785-48ed-9e64-8049c9af6686"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:ed298262-7790-4d03-bb51-d5f55d3a8bcf",
+      "required": true,
+      "to": "AttributePicklist:79efa45c-9ec9-4403-a9d5-a883f85071f1"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:ed298262-7790-4d03-bb51-d5f55d3a8bcf",
+      "required": true,
+      "to": "AttributePicklist:79efa45c-9ec9-4403-a9d5-a883f85071f1"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f4c40e8e-8bda-42d7-a41a-4db5248a999b",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f4c40e8e-8bda-42d7-a41a-4db5248a999b",
+      "required": true,
+      "to": "AttributePicklist:ea6069fe-9cc5-4e10-9374-119fe3f4a734"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:ffb49468-e62b-4080-8077-11b55a02deec",
+      "required": true,
+      "to": "AttributePicklist:6d6d52e4-ee1b-4546-be87-02a7f96873d9"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:ffb49468-e62b-4080-8077-11b55a02deec",
+      "required": true,
+      "to": "AttributePicklist:6d6d52e4-ee1b-4546-be87-02a7f96873d9"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultBillingTreatmentId",
+      "from": "BillingPolicy:f7eca54d-9db9-4a84-bede-cf2c791f3c2b",
+      "required": true,
+      "to": "BillingTreatment:845f0bfa-35c7-45c4-86da-ae22ab12c603"
+    },
+    {
+      "direction": "forward",
+      "field": "BillingPolicyId",
+      "from": "BillingTreatment:845f0bfa-35c7-45c4-86da-ae22ab12c603",
+      "required": false,
+      "to": "BillingPolicy:f7eca54d-9db9-4a84-bede-cf2c791f3c2b"
+    },
+    {
+      "direction": "reverse",
+      "field": "BillingPolicyId",
+      "from": "BillingTreatment:845f0bfa-35c7-45c4-86da-ae22ab12c603",
+      "required": true,
+      "to": "BillingPolicy:f7eca54d-9db9-4a84-bede-cf2c791f3c2b"
+    },
+    {
+      "direction": "forward",
+      "field": "LegalEntityId",
+      "from": "BillingTreatment:845f0bfa-35c7-45c4-86da-ae22ab12c603",
+      "required": false,
+      "to": "LegalEntity:360b1a10-9513-48cc-ab05-ecdeff28bdd9"
+    },
+    {
+      "direction": "forward",
+      "field": "BillingPolicyId",
+      "from": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6",
+      "required": false,
+      "to": "BillingPolicy:f7eca54d-9db9-4a84-bede-cf2c791f3c2b"
+    },
+    {
+      "direction": "forward",
+      "field": "TaxPolicyId",
+      "from": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6",
+      "required": false,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    },
+    {
+      "direction": "forward",
+      "field": "BillingPolicyId",
+      "from": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359",
+      "required": false,
+      "to": "BillingPolicy:f7eca54d-9db9-4a84-bede-cf2c791f3c2b"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359",
+      "required": false,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "forward",
+      "field": "TaxPolicyId",
+      "from": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359",
+      "required": false,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    },
+    {
+      "direction": "forward",
+      "field": "BillingPolicyId",
+      "from": "Product2:ba7bd44c-a2ee-4e57-bdf4-26a99d3c0424",
+      "required": false,
+      "to": "BillingPolicy:f7eca54d-9db9-4a84-bede-cf2c791f3c2b"
+    },
+    {
+      "direction": "forward",
+      "field": "TaxPolicyId",
+      "from": "Product2:ba7bd44c-a2ee-4e57-bdf4-26a99d3c0424",
+      "required": false,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:19c48935-87cb-4b8a-8ea7-0183db32a599",
+      "required": false,
+      "to": "AttributeCategory:0790c495-0d73-40e1-938e-b34325b009ec"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:19c48935-87cb-4b8a-8ea7-0183db32a599",
+      "required": true,
+      "to": "AttributeDefinition:0e8061ed-531e-4906-92f3-240cef3f23f1"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:19c48935-87cb-4b8a-8ea7-0183db32a599",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:19c48935-87cb-4b8a-8ea7-0183db32a599",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:19c48935-87cb-4b8a-8ea7-0183db32a599",
+      "required": true,
+      "to": "ProductClassificationAttr:84c559c1-0547-40d7-95c4-d40da4e11907"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:1d31d7f6-fe63-4704-97ae-e513afad3e1c",
+      "required": false,
+      "to": "AttributeCategory:f329edc5-0f40-46f4-a0ce-5ea23199212d"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:1d31d7f6-fe63-4704-97ae-e513afad3e1c",
+      "required": true,
+      "to": "AttributeDefinition:c7802ef9-9395-4c97-87db-6c6b6a1e88e0"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:1d31d7f6-fe63-4704-97ae-e513afad3e1c",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:1d31d7f6-fe63-4704-97ae-e513afad3e1c",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:1d31d7f6-fe63-4704-97ae-e513afad3e1c",
+      "required": true,
+      "to": "ProductClassificationAttr:860fb155-6118-46f1-b9a2-05aad7c3efc1"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:93a9eb29-ea97-43a3-aed3-708aab2d666b",
+      "required": false,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:93a9eb29-ea97-43a3-aed3-708aab2d666b",
+      "required": true,
+      "to": "AttributeDefinition:48da6660-4afc-4e4f-8c09-55f679358ef7"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:93a9eb29-ea97-43a3-aed3-708aab2d666b",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:93a9eb29-ea97-43a3-aed3-708aab2d666b",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:93a9eb29-ea97-43a3-aed3-708aab2d666b",
+      "required": true,
+      "to": "ProductClassificationAttr:d454fd8f-f093-457d-b455-e0773f5d69a9"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:a36901ad-e200-46d9-82e0-41fa8e3ed562",
+      "required": false,
+      "to": "AttributeCategory:abc25e34-6813-4c04-b389-71721dc06f52"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:a36901ad-e200-46d9-82e0-41fa8e3ed562",
+      "required": true,
+      "to": "AttributeDefinition:5804840c-5a65-428d-ba17-365cc3d344cf"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:a36901ad-e200-46d9-82e0-41fa8e3ed562",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:a36901ad-e200-46d9-82e0-41fa8e3ed562",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:a36901ad-e200-46d9-82e0-41fa8e3ed562",
+      "required": true,
+      "to": "ProductClassificationAttr:5244e842-4fe7-44ab-9d8d-eb03ccb007fc"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:d2823406-5a95-4734-87e0-1e3e031f5542",
+      "required": false,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:d2823406-5a95-4734-87e0-1e3e031f5542",
+      "required": true,
+      "to": "AttributeDefinition:c2803b03-d8c3-4f83-9dd0-8fe34005d55e"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:d2823406-5a95-4734-87e0-1e3e031f5542",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:d2823406-5a95-4734-87e0-1e3e031f5542",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:d2823406-5a95-4734-87e0-1e3e031f5542",
+      "required": true,
+      "to": "ProductClassificationAttr:b4ec5693-727f-4cfb-aeeb-782757cef91b"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:fd30ce41-e860-48c0-984e-67f715bd2952",
+      "required": false,
+      "to": "AttributeCategory:9ee8f7b0-cebc-43e1-b4bd-0ec3bfe1bd39"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:fd30ce41-e860-48c0-984e-67f715bd2952",
+      "required": true,
+      "to": "AttributeDefinition:5bc16ffc-7bed-4338-aa22-a297bfdfc7e8"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:fd30ce41-e860-48c0-984e-67f715bd2952",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:fd30ce41-e860-48c0-984e-67f715bd2952",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:fd30ce41-e860-48c0-984e-67f715bd2952",
+      "required": true,
+      "to": "ProductClassificationAttr:1f913cfa-abfd-4f67-a828-b347346dd183"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:1f913cfa-abfd-4f67-a828-b347346dd183",
+      "required": false,
+      "to": "AttributeCategory:9ee8f7b0-cebc-43e1-b4bd-0ec3bfe1bd39"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:1f913cfa-abfd-4f67-a828-b347346dd183",
+      "required": true,
+      "to": "AttributeDefinition:5bc16ffc-7bed-4338-aa22-a297bfdfc7e8"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:1f913cfa-abfd-4f67-a828-b347346dd183",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:1f913cfa-abfd-4f67-a828-b347346dd183",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:5244e842-4fe7-44ab-9d8d-eb03ccb007fc",
+      "required": false,
+      "to": "AttributeCategory:abc25e34-6813-4c04-b389-71721dc06f52"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:5244e842-4fe7-44ab-9d8d-eb03ccb007fc",
+      "required": true,
+      "to": "AttributeDefinition:5804840c-5a65-428d-ba17-365cc3d344cf"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:5244e842-4fe7-44ab-9d8d-eb03ccb007fc",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:5244e842-4fe7-44ab-9d8d-eb03ccb007fc",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:84c559c1-0547-40d7-95c4-d40da4e11907",
+      "required": false,
+      "to": "AttributeCategory:0790c495-0d73-40e1-938e-b34325b009ec"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:84c559c1-0547-40d7-95c4-d40da4e11907",
+      "required": true,
+      "to": "AttributeDefinition:0e8061ed-531e-4906-92f3-240cef3f23f1"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:84c559c1-0547-40d7-95c4-d40da4e11907",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:84c559c1-0547-40d7-95c4-d40da4e11907",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:860fb155-6118-46f1-b9a2-05aad7c3efc1",
+      "required": false,
+      "to": "AttributeCategory:f329edc5-0f40-46f4-a0ce-5ea23199212d"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:860fb155-6118-46f1-b9a2-05aad7c3efc1",
+      "required": true,
+      "to": "AttributeDefinition:c7802ef9-9395-4c97-87db-6c6b6a1e88e0"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:860fb155-6118-46f1-b9a2-05aad7c3efc1",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:860fb155-6118-46f1-b9a2-05aad7c3efc1",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:b4ec5693-727f-4cfb-aeeb-782757cef91b",
+      "required": false,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:b4ec5693-727f-4cfb-aeeb-782757cef91b",
+      "required": true,
+      "to": "AttributeDefinition:c2803b03-d8c3-4f83-9dd0-8fe34005d55e"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:b4ec5693-727f-4cfb-aeeb-782757cef91b",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:b4ec5693-727f-4cfb-aeeb-782757cef91b",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:d454fd8f-f093-457d-b455-e0773f5d69a9",
+      "required": false,
+      "to": "AttributeCategory:cdaf4981-eae9-4ccd-8a06-2fd26cbedb43"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:d454fd8f-f093-457d-b455-e0773f5d69a9",
+      "required": true,
+      "to": "AttributeDefinition:48da6660-4afc-4e4f-8c09-55f679358ef7"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:d454fd8f-f093-457d-b455-e0773f5d69a9",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:d454fd8f-f093-457d-b455-e0773f5d69a9",
+      "required": true,
+      "to": "ProductClassification:fdf53280-6817-475b-8246-c1e87a4723c2"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:5c3ad555-0331-4414-9dc5-a1a2a90f107e",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:5c3ad555-0331-4414-9dc5-a1a2a90f107e",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:7743d5da-4d91-4d44-9f21-e7faba488c1b",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:7743d5da-4d91-4d44-9f21-e7faba488c1b",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:62029081-43c2-4bde-894e-7bba6561673f",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:62029081-43c2-4bde-894e-7bba6561673f",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:62029081-43c2-4bde-894e-7bba6561673f",
+      "required": true,
+      "to": "Product2:ba7bd44c-a2ee-4e57-bdf4-26a99d3c0424"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:62029081-43c2-4bde-894e-7bba6561673f",
+      "required": false,
+      "to": "ProductComponentGroup:7743d5da-4d91-4d44-9f21-e7faba488c1b"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:62029081-43c2-4bde-894e-7bba6561673f",
+      "required": true,
+      "to": "ProductRelationshipType:d10adee2-e14b-4951-a8f7-e3707e94a120"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:e92a3ee8-d6c0-41b7-8d5d-f207eb052092",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:e92a3ee8-d6c0-41b7-8d5d-f207eb052092",
+      "required": true,
+      "to": "Product2:12023500-cd5a-4917-9689-9dd5372a38c6"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:e92a3ee8-d6c0-41b7-8d5d-f207eb052092",
+      "required": true,
+      "to": "Product2:a921f3c6-9191-4eae-bc72-4d2321ed1359"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:e92a3ee8-d6c0-41b7-8d5d-f207eb052092",
+      "required": false,
+      "to": "ProductComponentGroup:5c3ad555-0331-4414-9dc5-a1a2a90f107e"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:e92a3ee8-d6c0-41b7-8d5d-f207eb052092",
+      "required": true,
+      "to": "ProductRelationshipType:d10adee2-e14b-4951-a8f7-e3707e94a120"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultTaxTreatmentId",
+      "from": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd",
+      "required": true,
+      "to": "TaxTreatment:5c5e336b-72f8-4cc6-8ae8-af6fe9e17056"
+    },
+    {
+      "direction": "forward",
+      "field": "LegalEntityId",
+      "from": "TaxTreatment:5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "required": false,
+      "to": "LegalEntity:360b1a10-9513-48cc-ab05-ecdeff28bdd9"
+    },
+    {
+      "direction": "forward",
+      "field": "TaxPolicyId",
+      "from": "TaxTreatment:5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "required": false,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    },
+    {
+      "direction": "reverse",
+      "field": "TaxPolicyId",
+      "from": "TaxTreatment:5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "required": true,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "12023500-cd5a-4917-9689-9dd5372a38c6",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "a921f3c6-9191-4eae-bc72-4d2321ed1359",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "ba7bd44c-a2ee-4e57-bdf4-26a99d3c0424",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "0790c495-0d73-40e1-938e-b34325b009ec",
+      "label": "Memory",
+      "object": "AttributeCategory"
+    },
+    {
+      "globalKey": "9ee8f7b0-cebc-43e1-b4bd-0ec3bfe1bd39",
+      "label": "Processor",
+      "object": "AttributeCategory"
+    },
+    {
+      "globalKey": "abc25e34-6813-4c04-b389-71721dc06f52",
+      "label": "Graphics",
+      "object": "AttributeCategory"
+    },
+    {
+      "globalKey": "cdaf4981-eae9-4ccd-8a06-2fd26cbedb43",
+      "label": "Display",
+      "object": "AttributeCategory"
+    },
+    {
+      "globalKey": "f329edc5-0f40-46f4-a0ce-5ea23199212d",
+      "label": "Storage",
+      "object": "AttributeCategory"
+    },
+    {
+      "displayLabel": "Memory",
+      "globalKey": "1a7a8ff0-988f-46c8-8854-482796c90590",
+      "label": "ACA-0000006",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "displayLabel": "Display",
+      "globalKey": "6358e2c6-412f-4112-a687-62255c359be4",
+      "label": "ACA-0000008",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "displayLabel": "Display ↔ Screen Size",
+      "globalKey": "b1fffb85-ddae-4675-b370-8385a0e09394",
+      "label": "ACA-0000009",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "displayLabel": "Storage",
+      "globalKey": "ba62443e-959c-4c3a-9463-482cc8a9f04e",
+      "label": "ACA-0000010",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "displayLabel": "Processor",
+      "globalKey": "c8bf22df-7d6b-408f-b11a-ef79ff56cbf1",
+      "label": "ACA-0000007",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "displayLabel": "Graphics",
+      "globalKey": "f95a871a-59d8-48b9-8358-cdea0108fd5e",
+      "label": "ACA-0000003",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "globalKey": "0e8061ed-531e-4906-92f3-240cef3f23f1",
+      "label": "Memory",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "48da6660-4afc-4e4f-8c09-55f679358ef7",
+      "label": "Display",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "5804840c-5a65-428d-ba17-365cc3d344cf",
+      "label": "Graphics",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "5bc16ffc-7bed-4338-aa22-a297bfdfc7e8",
+      "label": "Processor",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "c2803b03-d8c3-4f83-9dd0-8fe34005d55e",
+      "label": "Screen Size",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "c7802ef9-9395-4c97-87db-6c6b6a1e88e0",
+      "label": "Storage",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "317b28b3-3fbc-43b6-aa19-7061a0d17d7b",
+      "label": "Graphics Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "6d6d52e4-ee1b-4546-be87-02a7f96873d9",
+      "label": "Display Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "79efa45c-9ec9-4403-a9d5-a883f85071f1",
+      "label": "Processor Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "e6be0d1d-f785-48ed-9e64-8049c9af6686",
+      "label": "Storage Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "ea6069fe-9cc5-4e10-9374-119fe3f4a734",
+      "label": "Memory Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "f4ff2c5e-addd-4704-9bb5-0426528fdc98",
+      "label": "Display Size Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "04ddf678-9920-4560-8777-07d251877a63",
+      "label": "Cloud Storage Enterprise - 2 TB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "2ce52743-6f4d-4275-b657-462d93605899",
+      "label": "RAM 8GB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "2df076a8-2357-4db4-8d28-255c6c61f9d0",
+      "label": "15 Inch",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "3619076a-49a2-4e7b-bc4f-aac9c5852cf7",
+      "label": "Cloud Storage Enterprise - 6 TB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "400d0143-eb4a-4ee4-a132-be8bc751f695",
+      "label": "SSD Hard Drive 2TB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "629564b2-8f72-4156-911d-b1171b6093da",
+      "label": "13 Inch",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "6a0136c5-9555-4fe8-a92f-9435a8e41e24",
+      "label": "RAM 16GB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "7d7861bc-9b22-4e73-9f64-c058693dca1f",
+      "label": "27 Inch",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "87a782bf-ae8a-4383-88e7-5a6928c60a14",
+      "label": "i7-CPU 4.7GHz",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "8af0181f-372f-456c-b625-1eb3ef40b60a",
+      "label": "RAM 64GB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "947ff132-ff9b-4c8b-8f76-8e5f05b5cc91",
+      "label": "4k Built-in Display",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "99c48f5c-14ae-4a17-b8c5-3733b889f862",
+      "label": "Intel Iris Xe Graphics",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "9f1d3c34-7b9c-4861-bab1-89775b515849",
+      "label": "1080p Built-in Display",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "b1c68391-38fc-4506-93e2-f93bd624e35c",
+      "label": "Intel Core i9 5.2 GHz",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "ba3885ff-77e2-4c6a-b7a9-ec8fba7bbd2d",
+      "label": "SSD Hard Drive 1TB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "d42e9477-c46b-4264-b3ee-8c0c29b0d36b",
+      "label": "SSD Hard Drive 256GB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "d4dd3285-31b4-47b7-a052-f2889d980907",
+      "label": "24 Inch",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "d9d18473-c2fe-41b7-a62e-1e5c2a1efbb4",
+      "label": "MSI Gaming GeForce RTX 3060",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "e6c00f2b-772d-4f70-a850-ecc372ba0e14",
+      "label": "SSD Hard Drive 512GB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "ed298262-7790-4d03-bb51-d5f55d3a8bcf",
+      "label": "i5-CPU 4.4GHz",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "f4c40e8e-8bda-42d7-a41a-4db5248a999b",
+      "label": "RAM 32GB",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "ffb49468-e62b-4080-8077-11b55a02deec",
+      "label": "2k Built-in Display",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "f7eca54d-9db9-4a84-bede-cf2c791f3c2b",
+      "label": "Billing Policy - Advance",
+      "object": "BillingPolicy"
+    },
+    {
+      "globalKey": "845f0bfa-35c7-45c4-86da-ae22ab12c603",
+      "label": "Billing Treatment - Advance",
+      "object": "BillingTreatment"
+    },
+    {
+      "globalKey": "360b1a10-9513-48cc-ab05-ecdeff28bdd9",
+      "label": "Default Legal Entity - US",
+      "object": "LegalEntity"
+    },
+    {
+      "globalKey": "12023500-cd5a-4917-9689-9dd5372a38c6",
+      "label": "Laptop Basic Bundle",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "a921f3c6-9191-4eae-bc72-4d2321ed1359",
+      "label": "Laptop",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "ba7bd44c-a2ee-4e57-bdf4-26a99d3c0424",
+      "label": "Antivirus",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "19c48935-87cb-4b8a-8ea7-0183db32a599",
+      "label": "Memory",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "1d31d7f6-fe63-4704-97ae-e513afad3e1c",
+      "label": "Storage",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "93a9eb29-ea97-43a3-aed3-708aab2d666b",
+      "label": "Display",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "a36901ad-e200-46d9-82e0-41fa8e3ed562",
+      "label": "Graphics",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "d2823406-5a95-4734-87e0-1e3e031f5542",
+      "label": "Screen Size",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "fd30ce41-e860-48c0-984e-67f715bd2952",
+      "label": "Processor",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "fdf53280-6817-475b-8246-c1e87a4723c2",
+      "label": "Computer",
+      "object": "ProductClassification"
+    },
+    {
+      "globalKey": "1f913cfa-abfd-4f67-a828-b347346dd183",
+      "label": "Processor",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "5244e842-4fe7-44ab-9d8d-eb03ccb007fc",
+      "label": "Graphics",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "84c559c1-0547-40d7-95c4-d40da4e11907",
+      "label": "Memory",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "860fb155-6118-46f1-b9a2-05aad7c3efc1",
+      "label": "Storage",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "b4ec5693-727f-4cfb-aeeb-782757cef91b",
+      "label": "Screen Size",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "d454fd8f-f093-457d-b455-e0773f5d69a9",
+      "label": "Display",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "5c3ad555-0331-4414-9dc5-a1a2a90f107e",
+      "label": "Laptop",
+      "object": "ProductComponentGroup"
+    },
+    {
+      "globalKey": "7743d5da-4d91-4d44-9f21-e7faba488c1b",
+      "label": "Computer Protection",
+      "object": "ProductComponentGroup"
+    },
+    {
+      "displayLabel": "Antivirus ↔ Laptop Basic Bundle ↔ Computer Protection ↔ Bundle to Bundle Component Relationship",
+      "globalKey": "62029081-43c2-4bde-894e-7bba6561673f",
+      "label": "PRC-000000007",
+      "object": "ProductRelatedComponent"
+    },
+    {
+      "displayLabel": "Laptop ↔ Laptop Basic Bundle ↔ Bundle to Bundle Component Relationship",
+      "globalKey": "e92a3ee8-d6c0-41b7-8d5d-f207eb052092",
+      "label": "PRC-000000008",
+      "object": "ProductRelatedComponent"
+    },
+    {
+      "globalKey": "d10adee2-e14b-4951-a8f7-e3707e94a120",
+      "label": "Bundle to Bundle Component Relationship",
+      "object": "ProductRelationshipType"
+    },
+    {
+      "globalKey": "ad663bba-ef96-4920-b586-8b24a3fab3dd",
+      "label": "Tax Policy for LE",
+      "object": "TaxPolicy"
+    },
+    {
+      "globalKey": "5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "label": "Tax Treatment for US LE",
+      "object": "TaxTreatment"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "12023500-cd5a-4917-9689-9dd5372a38c6",
+      "object": "Product2"
+    }
+  ]
+}

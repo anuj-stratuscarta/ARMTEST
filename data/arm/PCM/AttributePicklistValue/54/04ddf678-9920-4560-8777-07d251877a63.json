@@ -1,0 +1,16 @@
+{
+  "globalKey": "04ddf678-9920-4560-8777-07d251877a63",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CSE-TB",
+    "DisplayValue": "Cloud Storage Enterprise - 2 TB",
+    "GlobalKey__c": "04ddf678-9920-4560-8777-07d251877a63",
+    "IsDefault": false,
+    "Name": "Cloud Storage Enterprise - 2 TB",
+    "Picklist.GlobalKey__c": "e6be0d1d-f785-48ed-9e64-8049c9af6686",
+    "Sequence": 5,
+    "Status": "Draft",
+    "Value": "Cloud Storage Enterprise - 2 TB"
+  }
+}
