@@ -1,0 +1,19 @@
+{
+  "slug": "cml-branch-test",
+  "name": "cml-branch-test",
+  "createdAt": "2026-06-27T14:56:32.885Z",
+  "updatedAt": "2026-06-27T14:56:32.885Z",
+  "version": 1,
+  "lanes": {
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Residential_Internet",
+          "developerName": "Residential_Internet_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/cml-branch-test"
+}

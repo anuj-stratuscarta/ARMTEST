@@ -1,0 +1,46 @@
+{
+  "developerName": "Residential_Internet_V1",
+  "esdDeveloperName": "Residential_Internet",
+  "versionNumber": 1,
+  "expressionSet": {
+    "apiName": "Residential_Internet",
+    "name": "Residential Internet",
+    "description": null,
+    "interfaceSourceType": "Constraint",
+    "resourceInitializationType": "Off",
+    "usageType": "Constraint"
+  },
+  "contextDefinitionApiName": "SalesTransactionContextExt_256",
+  "constraints": [
+    {
+      "refKind": "component",
+      "naturalKey": "PRD_RES_INTERNET|PRD_ELITE_WIFI||Bundle to Bundle Component Relationship|20",
+      "constraintModelTag": "wifiAddons",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "component",
+      "naturalKey": "PRD_RES_INTERNET|PRD_HOME_WIFI||Bundle to Bundle Component Relationship|10",
+      "constraintModelTag": "wifiAddons",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "PRD_ELITE_WIFI",
+      "constraintModelTag": "EliteWifi",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "PRD_HOME_WIFI",
+      "constraintModelTag": "HomeWifi",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "PRD_RES_INTERNET",
+      "constraintModelTag": "ResidentialInternet",
+      "constraintModelTagType": "Type"
+    }
+  ]
+}

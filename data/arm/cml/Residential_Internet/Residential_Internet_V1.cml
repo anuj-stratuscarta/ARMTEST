@@ -1,0 +1,21 @@
+// External context
+@(contextPath = "SalesTransaction.SalesTransaction_InternetBandwidth__c")
+extern string InternetBandwidth;
+
+@(contextPath = "SalesTransaction.OriginalActionType")
+extern string OriginalActionType;
+
+// ----------- Cart-level auto-add -----------
+type LineItem;
+
+type ResidentialInternet : LineItem {
+    string INTERNET_SPEED_RES = ["500MB", "1G", "2G", "5G"];
+    relation wifiAddons : WifiOption[0..1];
+    require(INTERNET_SPEED_RES == "5G", wifiAddons[EliteWifi], "Elite Wifi is automatically included with 5G internet speed");
+    exclude(INTERNET_SPEED_RES != "5G", wifiAddons[EliteWifi]);
+}
+
+
+type WifiOption : LineItem {}
+type HomeWifi : WifiOption {}
+type EliteWifi : WifiOption {}
