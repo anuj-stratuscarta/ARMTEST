@@ -1,0 +1,345 @@
+{
+  "component": "manual-promote-test-bundle",
+  "componentGlobalKey": "6e42b01a-72ac-4cc2-b95e-d22e1fcafd63",
+  "componentObject": "Product2",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:365f0913-5377-4da3-b290-9547ea46360f",
+      "required": true,
+      "to": "Product2:1bb988bb-cb1e-4b52-960d-0fb15fc94295"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:365f0913-5377-4da3-b290-9547ea46360f",
+      "required": true,
+      "to": "Product2:1bb988bb-cb1e-4b52-960d-0fb15fc94295"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:365f0913-5377-4da3-b290-9547ea46360f",
+      "required": false,
+      "to": "ProductSellingModel:6351dc15-90e9-4de8-bdab-8b7eee009373"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:6081e29d-506f-4f5f-a10c-c4f60c1d92c6",
+      "required": true,
+      "to": "Product2:8dd3a40e-186b-46c8-9ee9-09c922bb95da"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:6081e29d-506f-4f5f-a10c-c4f60c1d92c6",
+      "required": true,
+      "to": "Product2:8dd3a40e-186b-46c8-9ee9-09c922bb95da"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:6081e29d-506f-4f5f-a10c-c4f60c1d92c6",
+      "required": false,
+      "to": "ProductSellingModel:6351dc15-90e9-4de8-bdab-8b7eee009373"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:955aa89f-7186-4158-b873-efb41049a16c",
+      "required": true,
+      "to": "Product2:a300dc79-7042-4bac-aaf1-3f755a9934fc"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:955aa89f-7186-4158-b873-efb41049a16c",
+      "required": true,
+      "to": "Product2:a300dc79-7042-4bac-aaf1-3f755a9934fc"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:955aa89f-7186-4158-b873-efb41049a16c",
+      "required": false,
+      "to": "ProductSellingModel:6351dc15-90e9-4de8-bdab-8b7eee009373"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:ac856ee3-d062-4dc8-9f2e-16d18e90b222",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:ac856ee3-d062-4dc8-9f2e-16d18e90b222",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:ac856ee3-d062-4dc8-9f2e-16d18e90b222",
+      "required": false,
+      "to": "ProductSellingModel:6351dc15-90e9-4de8-bdab-8b7eee009373"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:22ba5b73-a3bb-4e03-b2b1-a45ee1b70cc2",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:22ba5b73-a3bb-4e03-b2b1-a45ee1b70cc2",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:9ec18dab-d881-4375-84ee-e80c93cdad80",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:9ec18dab-d881-4375-84ee-e80c93cdad80",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:9ec18dab-d881-4375-84ee-e80c93cdad80",
+      "required": true,
+      "to": "Product2:8dd3a40e-186b-46c8-9ee9-09c922bb95da"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:9ec18dab-d881-4375-84ee-e80c93cdad80",
+      "required": false,
+      "to": "ProductComponentGroup:22ba5b73-a3bb-4e03-b2b1-a45ee1b70cc2"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:9ec18dab-d881-4375-84ee-e80c93cdad80",
+      "required": true,
+      "to": "ProductRelationshipType:d10adee2-e14b-4951-a8f7-e3707e94a120"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:b0fa08bc-5234-464f-a525-ec1b755d06f7",
+      "required": true,
+      "to": "Product2:1bb988bb-cb1e-4b52-960d-0fb15fc94295"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:b0fa08bc-5234-464f-a525-ec1b755d06f7",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:b0fa08bc-5234-464f-a525-ec1b755d06f7",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:b0fa08bc-5234-464f-a525-ec1b755d06f7",
+      "required": false,
+      "to": "ProductComponentGroup:22ba5b73-a3bb-4e03-b2b1-a45ee1b70cc2"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:b0fa08bc-5234-464f-a525-ec1b755d06f7",
+      "required": true,
+      "to": "ProductRelationshipType:d10adee2-e14b-4951-a8f7-e3707e94a120"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:f46956b5-7462-4f42-9b6b-27c5aa8cdd26",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:f46956b5-7462-4f42-9b6b-27c5aa8cdd26",
+      "required": true,
+      "to": "Product2:6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:f46956b5-7462-4f42-9b6b-27c5aa8cdd26",
+      "required": true,
+      "to": "Product2:a300dc79-7042-4bac-aaf1-3f755a9934fc"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:f46956b5-7462-4f42-9b6b-27c5aa8cdd26",
+      "required": false,
+      "to": "ProductComponentGroup:22ba5b73-a3bb-4e03-b2b1-a45ee1b70cc2"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:f46956b5-7462-4f42-9b6b-27c5aa8cdd26",
+      "required": true,
+      "to": "ProductRelationshipType:d10adee2-e14b-4951-a8f7-e3707e94a120"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "365f0913-5377-4da3-b290-9547ea46360f",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "6081e29d-506f-4f5f-a10c-c4f60c1d92c6",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "955aa89f-7186-4158-b873-efb41049a16c",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "ac856ee3-d062-4dc8-9f2e-16d18e90b222",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "1bb988bb-cb1e-4b52-960d-0fb15fc94295",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "6e42b01a-72ac-4cc2-b95e-d22e1fcafd63",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "8dd3a40e-186b-46c8-9ee9-09c922bb95da",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "a300dc79-7042-4bac-aaf1-3f755a9934fc",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "365f0913-5377-4da3-b290-9547ea46360f",
+      "label": "Mobile SIM 5G",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "6081e29d-506f-4f5f-a10c-c4f60c1d92c6",
+      "label": "TV Box 4K",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "955aa89f-7186-4158-b873-efb41049a16c",
+      "label": "Tech Support Plus",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "ac856ee3-d062-4dc8-9f2e-16d18e90b222",
+      "label": "Manual Promote Test Bundle",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "1bb988bb-cb1e-4b52-960d-0fb15fc94295",
+      "label": "Mobile SIM 5G",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "6e42b01a-72ac-4cc2-b95e-d22e1fcafd63",
+      "label": "Manual Promote Test Bundle",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "8dd3a40e-186b-46c8-9ee9-09c922bb95da",
+      "label": "TV Box 4K",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "a300dc79-7042-4bac-aaf1-3f755a9934fc",
+      "label": "Tech Support Plus",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "22ba5b73-a3bb-4e03-b2b1-a45ee1b70cc2",
+      "label": "Components",
+      "object": "ProductComponentGroup"
+    },
+    {
+      "displayLabel": "TV Box 4K ↔ Manual Promote Test Bundle ↔ Components ↔ Bundle to Bundle Component Relationship",
+      "globalKey": "9ec18dab-d881-4375-84ee-e80c93cdad80",
+      "label": "PRC-000000058",
+      "object": "ProductRelatedComponent"
+    },
+    {
+      "displayLabel": "Mobile SIM 5G ↔ Manual Promote Test Bundle ↔ Components ↔ Bundle to Bundle Component Relationship",
+      "globalKey": "b0fa08bc-5234-464f-a525-ec1b755d06f7",
+      "label": "PRC-000000056",
+      "object": "ProductRelatedComponent"
+    },
+    {
+      "displayLabel": "Tech Support Plus ↔ Manual Promote Test Bundle ↔ Components ↔ Bundle to Bundle Component Relationship",
+      "globalKey": "f46956b5-7462-4f42-9b6b-27c5aa8cdd26",
+      "label": "PRC-000000057",
+      "object": "ProductRelatedComponent"
+    },
+    {
+      "globalKey": "d10adee2-e14b-4951-a8f7-e3707e94a120",
+      "label": "Bundle to Bundle Component Relationship",
+      "object": "ProductRelationshipType"
+    },
+    {
+      "globalKey": "6351dc15-90e9-4de8-bdab-8b7eee009373",
+      "label": "Evergreen - Semi-Annual",
+      "object": "ProductSellingModel"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "6e42b01a-72ac-4cc2-b95e-d22e1fcafd63",
+      "object": "Product2"
+    }
+  ]
+}

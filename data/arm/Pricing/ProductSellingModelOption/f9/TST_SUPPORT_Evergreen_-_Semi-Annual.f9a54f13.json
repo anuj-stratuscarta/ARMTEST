@@ -1,0 +1,10 @@
+{
+  "globalKey": "TST_SUPPORT|Evergreen - Semi-Annual",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "a300dc79-7042-4bac-aaf1-3f755a9934fc",
+    "ProductSellingModel.GlobalKey__c": "6351dc15-90e9-4de8-bdab-8b7eee009373",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

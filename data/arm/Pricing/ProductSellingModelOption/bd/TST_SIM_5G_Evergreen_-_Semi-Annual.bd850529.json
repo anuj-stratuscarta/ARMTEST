@@ -1,0 +1,10 @@
+{
+  "globalKey": "TST_SIM_5G|Evergreen - Semi-Annual",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "1bb988bb-cb1e-4b52-960d-0fb15fc94295",
+    "ProductSellingModel.GlobalKey__c": "6351dc15-90e9-4de8-bdab-8b7eee009373",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}
