@@ -1,0 +1,11 @@
+{
+  "components": [
+    {
+      "component": "nk-e2e",
+      "componentGlobalKey": "12023500-cd5a-4917-9689-9dd5372a38c6",
+      "componentObject": "Product2",
+      "manifestPath": "data/arm/manifests/nk-e2e.12023500-cd5a-4917-9689-9dd5372a38c6.json",
+      "nodeCount": 78
+    }
+  ]
+}

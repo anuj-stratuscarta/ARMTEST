@@ -1,0 +1,16 @@
+{
+  "globalKey": "5c3ad555-0331-4414-9dc5-a1a2a90f107e",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "5c3ad555-0331-4414-9dc5-a1a2a90f107e",
+    "MaxBundleComponents": null,
+    "MinBundleComponents": null,
+    "Name": "Laptop",
+    "OwnerId": null,
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "12023500-cd5a-4917-9689-9dd5372a38c6",
+    "Sequence": 1
+  }
+}
