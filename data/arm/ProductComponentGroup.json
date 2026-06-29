@@ -304,6 +304,18 @@
     {
       "Code": null,
       "Description": null,
+      "GlobalKey__c": "fcbc1658-57ce-4ded-b443-b9e4a1057e80",
+      "MaxBundleComponents": "10",
+      "MinBundleComponents": "0",
+      "Name": "Components",
+      "OwnerId": null,
+      "ParentGroup.GlobalKey__c": null,
+      "ParentProduct.GlobalKey__c": "7df268b0-a45a-4b5c-9e4e-8caec5277660",
+      "Sequence": "10"
+    },
+    {
+      "Code": null,
+      "Description": null,
       "GlobalKey__c": "fed8d0b1-4f71-43c8-8d3f-bd3f181544de",
       "MaxBundleComponents": null,
       "MinBundleComponents": null,
