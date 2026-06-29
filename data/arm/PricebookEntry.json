@@ -112,6 +112,16 @@
       "UseStandardPrice": "false"
     },
     {
+      "GlobalKey__c": "2174400b-94bc-4bd3-b06e-295c53583a53",
+      "IsActive": "true",
+      "IsDerived": "false",
+      "Pricebook2.Name": "Standard Price Book",
+      "Product2.GlobalKey__c": "7df268b0-a45a-4b5c-9e4e-8caec5277660",
+      "ProductSellingModel.Name": "Evergreen - Semi-Annual",
+      "UnitPrice": "129.0",
+      "UseStandardPrice": "false"
+    },
+    {
       "GlobalKey__c": "237b06f2-348c-40eb-8cd1-f42abdaf361f",
       "IsActive": "true",
       "IsDerived": "false",
