@@ -1,0 +1,27 @@
+{
+  "slug": "e2e-arm-product-set-73543554",
+  "name": "E2E ARM Product Set 73543554",
+  "createdAt": "2026-06-29T22:53:38.227Z",
+  "updatedAt": "2026-06-29T22:53:38.227Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Pricebook2",
+          "PricebookEntry",
+          "Product2",
+          "ProductClassification",
+          "ProductComponentGroup",
+          "ProductRelatedComponent",
+          "ProductRelationshipType",
+          "ProductSellingModel"
+        ]
+      }
+    }
+  },
+  "branch": "feature/e2e-arm-product-set-73543554"
+}
