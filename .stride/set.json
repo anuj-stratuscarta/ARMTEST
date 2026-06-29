@@ -1,0 +1,25 @@
+{
+  "slug": "e2e-arm-product-set-28236228",
+  "name": "E2E ARM Product Set 28236228",
+  "createdAt": "2026-06-29T10:18:02.437Z",
+  "updatedAt": "2026-06-29T10:18:02.437Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2",
+          "ProductClassification",
+          "ProductComponentGroup",
+          "ProductRelatedComponent",
+          "ProductRelationshipType",
+          "ProductSellingModel"
+        ]
+      }
+    }
+  },
+  "branch": "feature/e2e-arm-product-set-28236228"
+}
