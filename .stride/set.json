@@ -1,0 +1,28 @@
+{
+  "slug": "manual-promote",
+  "name": "manual_promote",
+  "createdAt": "2026-06-29T23:48:50.153Z",
+  "updatedAt": "2026-06-29T23:48:50.153Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "6e42b01a-72ac-4cc2-b95e-d22e1fcafd63"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/manual-promote"
+}
