@@ -1,0 +1,16 @@
+{
+  "globalKey": "7743d5da-4d91-4d44-9f21-e7faba488c1b",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "7743d5da-4d91-4d44-9f21-e7faba488c1b",
+    "MaxBundleComponents": null,
+    "MinBundleComponents": null,
+    "Name": "Computer Protection",
+    "OwnerId": null,
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "12023500-cd5a-4917-9689-9dd5372a38c6",
+    "Sequence": 2
+  }
+}

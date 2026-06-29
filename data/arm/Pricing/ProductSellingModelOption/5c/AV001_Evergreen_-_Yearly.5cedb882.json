@@ -1,0 +1,10 @@
+{
+  "globalKey": "AV001|Evergreen - Yearly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "ba7bd44c-a2ee-4e57-bdf4-26a99d3c0424",
+    "ProductSellingModel.GlobalKey__c": "53f779c8-7443-4da0-948b-46433faead5a",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

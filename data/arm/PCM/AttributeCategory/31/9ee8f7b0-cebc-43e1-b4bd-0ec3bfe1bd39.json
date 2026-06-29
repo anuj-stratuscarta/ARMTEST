@@ -1,0 +1,11 @@
+{
+  "globalKey": "9ee8f7b0-cebc-43e1-b4bd-0ec3bfe1bd39",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "PRO",
+    "Description": null,
+    "GlobalKey__c": "9ee8f7b0-cebc-43e1-b4bd-0ec3bfe1bd39",
+    "Name": "Processor",
+    "OwnerId": null
+  }
+}
