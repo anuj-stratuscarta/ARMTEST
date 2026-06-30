@@ -1,0 +1,11 @@
+{
+  "components": [
+    {
+      "component": "manual-promo-demo-bundle",
+      "componentGlobalKey": "d6e3da9c-b3c8-4ba5-8342-6887eb07c406",
+      "componentObject": "Product2",
+      "manifestPath": "data/arm/manifests/manual-promo-demo-bundle.d6e3da9c-b3c8-4ba5-8342-6887eb07c406.json",
+      "nodeCount": 14
+    }
+  ]
+}
