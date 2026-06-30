@@ -1,0 +1,11 @@
+{
+  "globalKey": "f329edc5-0f40-46f4-a0ce-5ea23199212d",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "STO",
+    "Description": null,
+    "GlobalKey__c": "f329edc5-0f40-46f4-a0ce-5ea23199212d",
+    "Name": "Storage",
+    "OwnerId": null
+  }
+}
