@@ -1,0 +1,13 @@
+{
+  "globalKey": "53f779c8-7443-4da0-948b-46433faead5a",
+  "object": "ProductSellingModel",
+  "record": {
+    "DoesAutoRenewAssetByDefault": false,
+    "GlobalKey__c": "53f779c8-7443-4da0-948b-46433faead5a",
+    "Name": "Evergreen - Yearly",
+    "PricingTerm": 1,
+    "PricingTermUnit": "Annual",
+    "SellingModelType": "Evergreen",
+    "Status": "Active"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "globalKey": "d2823406-5a95-4734-87e0-1e3e031f5542",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "cdaf4981-eae9-4ccd-8a06-2fd26cbedb43",
+    "AttributeDefinition.GlobalKey__c": "c2803b03-d8c3-4f83-9dd0-8fe34005d55e",
+    "AttributeNameOverride": "Screen Size",
+    "DefaultValue": "13 Inch",
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "d2823406-5a95-4734-87e0-1e3e031f5542",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": true,
+    "IsReadOnly": false,
+    "IsRequired": true,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Screen Size",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "OwnerId": null,
+    "Product2.GlobalKey__c": "a921f3c6-9191-4eae-bc72-4d2321ed1359",
+    "ProductClassificationAttribute.GlobalKey__c": "b4ec5693-727f-4cfb-aeeb-782757cef91b",
+    "Sequence": 0,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

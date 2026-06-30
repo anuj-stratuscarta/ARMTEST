@@ -1,0 +1,14 @@
+{
+  "globalKey": "9677af92-adc8-4325-a747-88e5496e9402",
+  "object": "PricebookEntry",
+  "record": {
+    "GlobalKey__c": "9677af92-adc8-4325-a747-88e5496e9402",
+    "IsActive": true,
+    "IsDerived": false,
+    "Pricebook2.Name": "Standard Price Book",
+    "Product2.GlobalKey__c": "ba7bd44c-a2ee-4e57-bdf4-26a99d3c0424",
+    "ProductSellingModel.GlobalKey__c": "53f779c8-7443-4da0-948b-46433faead5a",
+    "UnitPrice": 99.99,
+    "UseStandardPrice": false
+  }
+}

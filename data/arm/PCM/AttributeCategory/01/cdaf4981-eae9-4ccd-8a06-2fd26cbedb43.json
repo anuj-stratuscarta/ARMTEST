@@ -1,0 +1,11 @@
+{
+  "globalKey": "cdaf4981-eae9-4ccd-8a06-2fd26cbedb43",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "DIS",
+    "Description": null,
+    "GlobalKey__c": "cdaf4981-eae9-4ccd-8a06-2fd26cbedb43",
+    "Name": "Display",
+    "OwnerId": null
+  }
+}
