@@ -1,0 +1,15 @@
+{
+  "developerName": "Fiber_Broadband_V1",
+  "esdDeveloperName": "Fiber_Broadband",
+  "versionNumber": 1,
+  "expressionSet": {
+    "apiName": "Fiber_Broadband",
+    "name": "Fiber Broadband",
+    "description": null,
+    "interfaceSourceType": "Constraint",
+    "resourceInitializationType": "Off",
+    "usageType": "Constraint"
+  },
+  "contextDefinitionApiName": "",
+  "constraints": []
+}
