@@ -1,0 +1,10 @@
+{
+  "globalKey": "TST_PHONE_LINE|Evergreen - Semi-Annual",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "6cc4d370-26f0-450d-8068-713ea02138b1",
+    "ProductSellingModel.GlobalKey__c": "6351dc15-90e9-4de8-bdab-8b7eee009373",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}
