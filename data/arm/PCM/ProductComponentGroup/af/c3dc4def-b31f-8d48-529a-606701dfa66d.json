@@ -1,0 +1,16 @@
+{
+  "globalKey": "c3dc4def-b31f-8d48-529a-606701dfa66d",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "c3dc4def-b31f-8d48-529a-606701dfa66d",
+    "MaxBundleComponents": 10,
+    "MinBundleComponents": 0,
+    "Name": "Components",
+    "OwnerId": null,
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "d6e3da9c-b3c8-4ba5-8342-6887eb07c406",
+    "Sequence": 10
+  }
+}

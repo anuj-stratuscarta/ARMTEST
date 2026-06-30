@@ -1,0 +1,28 @@
+{
+  "slug": "test-mp-bundle-demo",
+  "name": "TEST_MP_BUNDLE_DEMO",
+  "createdAt": "2026-06-30T21:01:19.961Z",
+  "updatedAt": "2026-06-30T21:01:19.961Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "d6e3da9c-b3c8-4ba5-8342-6887eb07c406"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/test-mp-bundle-demo"
+}
