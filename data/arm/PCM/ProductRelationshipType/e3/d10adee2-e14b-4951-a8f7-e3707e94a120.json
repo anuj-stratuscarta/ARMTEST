@@ -1,0 +1,10 @@
+{
+  "globalKey": "d10adee2-e14b-4951-a8f7-e3707e94a120",
+  "object": "ProductRelationshipType",
+  "record": {
+    "AssociatedProductRoleCat": "BundleComponent",
+    "GlobalKey__c": "d10adee2-e14b-4951-a8f7-e3707e94a120",
+    "MainProductRoleCat": "Bundle",
+    "Name": "Bundle to Bundle Component Relationship"
+  }
+}
