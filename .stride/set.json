@@ -1,0 +1,51 @@
+{
+  "slug": "e2e-mixed-set-11058517",
+  "name": "E2E Mixed Set 11058517",
+  "createdAt": "2026-06-30T09:18:05.392Z",
+  "updatedAt": "2026-06-30T09:18:05.392Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideE2EMixed"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "a4e5be56-31fc-4809-8ca5-f80673a61dcf"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "PricebookEntry",
+          "Product2",
+          "ProductComponentGroup",
+          "ProductRelatedComponent",
+          "ProductRelationshipType",
+          "ProductSellingModel",
+          "ProductSellingModelOption"
+        ]
+      }
+    },
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fiber_Broadband",
+          "developerName": "Fiber_Broadband_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-mixed-set-11058517"
+}
