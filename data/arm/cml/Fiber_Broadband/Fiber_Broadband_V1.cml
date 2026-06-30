@@ -1,0 +1,37 @@
+type fiberbroadband : LineItem {
+    relation enhancedsecurity : EnhancedSecurity;
+
+    relation instantconnect : InstantConnect;
+
+    relation constantconnect : ConstantConnect;
+
+    relation ddosmigration : DDosMigration;
+
+    relation installation : Installation;
+
+    relation cpe : CPE;
+
+    relation staticip : StaticIP;
+
+    require(enhancedsecurity[EnhancedSecurity].LineItemQuantity >= 1, installation[Installation] == 1, "Enhanced Security Auto-Adds Installation");
+
+}
+
+type EnhancedSecurity : LineItem {
+    int LineItemQuantity = this.quantity;
+
+}
+
+type InstantConnect : LineItem;
+
+type ConstantConnect : LineItem;
+
+type DDosMigration : LineItem;
+
+type Installation : LineItem;
+
+type CPE : LineItem;
+
+type StaticIP : LineItem;
+
+type LineItem;
