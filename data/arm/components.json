@@ -1,6 +1,13 @@
 {
   "components": [
     {
+      "component": "e2e-tst-bndl-triple",
+      "componentGlobalKey": "a4e5be56-31fc-4809-8ca5-f80673a61dcf",
+      "componentObject": "Product2",
+      "manifestPath": "data/arm/manifests/e2e-tst-bndl-triple.a4e5be56-31fc-4809-8ca5-f80673a61dcf.json",
+      "nodeCount": 14
+    },
+    {
       "component": "manual-promo-demo-bundle",
       "componentGlobalKey": "d6e3da9c-b3c8-4ba5-8342-6887eb07c406",
       "componentObject": "Product2",
