@@ -1,0 +1,10 @@
+{
+  "globalKey": "TST_TVBOX_4K|Evergreen - Semi-Annual",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "8dd3a40e-186b-46c8-9ee9-09c922bb95da",
+    "ProductSellingModel.GlobalKey__c": "6351dc15-90e9-4de8-bdab-8b7eee009373",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}
