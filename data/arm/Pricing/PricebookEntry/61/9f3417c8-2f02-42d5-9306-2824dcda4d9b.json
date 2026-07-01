@@ -1,0 +1,14 @@
+{
+  "globalKey": "9f3417c8-2f02-42d5-9306-2824dcda4d9b",
+  "object": "PricebookEntry",
+  "record": {
+    "GlobalKey__c": "9f3417c8-2f02-42d5-9306-2824dcda4d9b",
+    "IsActive": true,
+    "IsDerived": false,
+    "Pricebook2.Name": "Nonprofit",
+    "Product2.GlobalKey__c": "ba484e68-9e6f-4a22-83f4-7f36a2abd416",
+    "ProductSellingModel.GlobalKey__c": "6a7c79fc-2a9f-4747-b1dc-3732c8cae92b",
+    "UnitPrice": 799,
+    "UseStandardPrice": false
+  }
+}

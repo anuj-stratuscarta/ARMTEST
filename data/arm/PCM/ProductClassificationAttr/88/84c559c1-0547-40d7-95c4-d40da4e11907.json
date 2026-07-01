@@ -1,0 +1,30 @@
+{
+  "globalKey": "84c559c1-0547-40d7-95c4-d40da4e11907",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "0790c495-0d73-40e1-938e-b34325b009ec",
+    "AttributeDefinition.GlobalKey__c": "0e8061ed-531e-4906-92f3-240cef3f23f1",
+    "AttributeNameOverride": "Memory",
+    "DefaultValue": "RAM 32GB",
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "84c559c1-0547-40d7-95c4-d40da4e11907",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": true,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Memory",
+    "OverriddenInheritedAttribute": null,
+    "OwnerId": null,
+    "ProductClassification.GlobalKey__c": "fdf53280-6817-475b-8246-c1e87a4723c2",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "globalKey": "2113766c-47c1-47e3-b79a-be9cb7db3156",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "L001",
+    "DisplayValue": "Letter",
+    "GlobalKey__c": "2113766c-47c1-47e3-b79a-be9cb7db3156",
+    "IsDefault": false,
+    "Name": "Letter",
+    "Picklist.GlobalKey__c": "55441a76-0a75-4139-a7b5-06ed363d17ff",
+    "Sequence": 1,
+    "Status": "Draft",
+    "Value": "Letter"
+  }
+}

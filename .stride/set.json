@@ -1,0 +1,29 @@
+{
+  "slug": "test-deploymetn-bundle",
+  "name": "TEST_DEPLOYMETN_BUNDLE",
+  "createdAt": "2026-07-01T10:28:24.236Z",
+  "updatedAt": "2026-07-01T10:28:24.236Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "d6e3da9c-b3c8-4ba5-8342-6887eb07c406",
+            "ba484e68-9e6f-4a22-83f4-7f36a2abd416"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/test-deploymetn-bundle"
+}

@@ -1,0 +1,16 @@
+{
+  "globalKey": "2ce52743-6f4d-4275-b657-462d93605899",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "RAM 8GB",
+    "DisplayValue": "RAM 8GB",
+    "GlobalKey__c": "2ce52743-6f4d-4275-b657-462d93605899",
+    "IsDefault": false,
+    "Name": "RAM 8GB",
+    "Picklist.GlobalKey__c": "ea6069fe-9cc5-4e10-9374-119fe3f4a734",
+    "Sequence": 1,
+    "Status": "Draft",
+    "Value": "RAM 8GB"
+  }
+}
