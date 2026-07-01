@@ -1,0 +1,13 @@
+{
+  "globalKey": "6a7c79fc-2a9f-4747-b1dc-3732c8cae92b",
+  "object": "ProductSellingModel",
+  "record": {
+    "DoesAutoRenewAssetByDefault": false,
+    "GlobalKey__c": "6a7c79fc-2a9f-4747-b1dc-3732c8cae92b",
+    "Name": "One Time",
+    "PricingTerm": null,
+    "PricingTermUnit": null,
+    "SellingModelType": "OneTime",
+    "Status": "Active"
+  }
+}

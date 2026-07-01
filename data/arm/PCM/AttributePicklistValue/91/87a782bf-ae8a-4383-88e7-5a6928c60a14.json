@@ -1,0 +1,16 @@
+{
+  "globalKey": "87a782bf-ae8a-4383-88e7-5a6928c60a14",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "i7-CPU 4.7GHz",
+    "DisplayValue": "i7-CPU 4.7GHz",
+    "GlobalKey__c": "87a782bf-ae8a-4383-88e7-5a6928c60a14",
+    "IsDefault": false,
+    "Name": "i7-CPU 4.7GHz",
+    "Picklist.GlobalKey__c": "79efa45c-9ec9-4403-a9d5-a883f85071f1",
+    "Sequence": 2,
+    "Status": "Draft",
+    "Value": "i7-CPU 4.7GHz"
+  }
+}
