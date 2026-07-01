@@ -1,0 +1,22 @@
+{
+  "globalKey": "6eb2b288-f8cc-404a-9f55-e290909dc950",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Text",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "MIX_COLOR",
+    "GlobalKey__c": "6eb2b288-f8cc-404a-9f55-e290909dc950",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Color",
+    "Name": "Color",
+    "OwnerId": null,
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
