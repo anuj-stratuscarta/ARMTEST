@@ -1,0 +1,22 @@
+{
+  "globalKey": "f1de3c2a-20f7-491a-9161-0edc8d02f997",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "Paper_Size",
+    "GlobalKey__c": "f1de3c2a-20f7-491a-9161-0edc8d02f997",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Printer Paper",
+    "Name": "Paper Size",
+    "OwnerId": null,
+    "Picklist.GlobalKey__c": "55441a76-0a75-4139-a7b5-06ed363d17ff",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

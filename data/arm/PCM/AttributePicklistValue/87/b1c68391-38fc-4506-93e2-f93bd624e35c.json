@@ -1,0 +1,16 @@
+{
+  "globalKey": "b1c68391-38fc-4506-93e2-f93bd624e35c",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "IC5.2",
+    "DisplayValue": "Intel Core i9 5.2 GHz",
+    "GlobalKey__c": "b1c68391-38fc-4506-93e2-f93bd624e35c",
+    "IsDefault": false,
+    "Name": "Intel Core i9 5.2 GHz",
+    "Picklist.GlobalKey__c": "79efa45c-9ec9-4403-a9d5-a883f85071f1",
+    "Sequence": 3,
+    "Status": "Draft",
+    "Value": "Intel Core i9 5.2 GHz"
+  }
+}

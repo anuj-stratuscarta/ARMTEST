@@ -1,0 +1,14 @@
+{
+  "globalKey": "6d6d52e4-ee1b-4546-be87-02a7f96873d9",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "DIS001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "6d6d52e4-ee1b-4546-be87-02a7f96873d9",
+    "Name": "Display Picklist",
+    "OwnerId": null,
+    "Status": "Draft",
+    "UnitOfMeasure": null
+  }
+}

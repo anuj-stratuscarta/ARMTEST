@@ -1,0 +1,13 @@
+{
+  "globalKey": "723d735b-f14e-4308-b502-6b0fb14bab53",
+  "object": "ProductSellingModel",
+  "record": {
+    "DoesAutoRenewAssetByDefault": false,
+    "GlobalKey__c": "723d735b-f14e-4308-b502-6b0fb14bab53",
+    "Name": "Term Based - Yearly",
+    "PricingTerm": 1,
+    "PricingTermUnit": "Annual",
+    "SellingModelType": "TermDefined",
+    "Status": "Active"
+  }
+}

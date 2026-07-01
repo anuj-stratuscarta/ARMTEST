@@ -1,0 +1,14 @@
+{
+  "globalKey": "3a2edd96-e575-46fc-a0d0-77c8b66d2c84",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "PRI001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "3a2edd96-e575-46fc-a0d0-77c8b66d2c84",
+    "Name": "Printer Picklist",
+    "OwnerId": null,
+    "Status": "Draft",
+    "UnitOfMeasure": null
+  }
+}

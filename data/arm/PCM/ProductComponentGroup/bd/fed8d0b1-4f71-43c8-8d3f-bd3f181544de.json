@@ -1,0 +1,16 @@
+{
+  "globalKey": "fed8d0b1-4f71-43c8-8d3f-bd3f181544de",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "fed8d0b1-4f71-43c8-8d3f-bd3f181544de",
+    "MaxBundleComponents": null,
+    "MinBundleComponents": null,
+    "Name": "Printer",
+    "OwnerId": null,
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "7fd99fe1-40fd-4a71-888b-8ce270f8fc23",
+    "Sequence": 1
+  }
+}
