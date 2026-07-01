@@ -1,0 +1,22 @@
+{
+  "globalKey": "beafc4cc-cae6-4e12-867c-1caddd27568a",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "MIX_MAX_SPEED",
+    "GlobalKey__c": "beafc4cc-cae6-4e12-867c-1caddd27568a",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Max Speed (Mbps)",
+    "Name": "Max Speed Mbps",
+    "OwnerId": null,
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
