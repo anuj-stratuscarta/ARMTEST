@@ -1,0 +1,21 @@
+{
+  "globalKey": "41fcb266-74ef-4f70-b93b-a8b4fabf6dea",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "MIX_WARRANTY",
+    "GlobalKey__c": "41fcb266-74ef-4f70-b93b-a8b4fabf6dea",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Warranty (months)",
+    "Name": "Warranty Months",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

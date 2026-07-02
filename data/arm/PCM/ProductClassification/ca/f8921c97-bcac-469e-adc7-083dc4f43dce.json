@@ -1,0 +1,11 @@
+{
+  "globalKey": "f8921c97-bcac-469e-adc7-083dc4f43dce",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CLS_MIX_HARDWARE",
+    "GlobalKey__c": "f8921c97-bcac-469e-adc7-083dc4f43dce",
+    "Name": "Mix Hardware Products",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

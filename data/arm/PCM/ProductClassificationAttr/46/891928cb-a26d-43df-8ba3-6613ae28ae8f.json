@@ -1,0 +1,29 @@
+{
+  "globalKey": "891928cb-a26d-43df-8ba3-6613ae28ae8f",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "0323bc1b-1c27-46ea-af45-d9a010f72f0b",
+    "AttributeNameOverride": "Is Fiber",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "891928cb-a26d-43df-8ba3-6613ae28ae8f",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Is Fiber",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "d58e432f-8eeb-4afc-afad-b9d0ae846261",
+    "Sequence": 30,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

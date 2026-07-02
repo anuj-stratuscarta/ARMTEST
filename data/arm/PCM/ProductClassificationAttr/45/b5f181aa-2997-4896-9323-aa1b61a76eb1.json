@@ -1,0 +1,29 @@
+{
+  "globalKey": "b5f181aa-2997-4896-9323-aa1b61a76eb1",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "41fcb266-74ef-4f70-b93b-a8b4fabf6dea",
+    "AttributeNameOverride": "Warranty Months",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "b5f181aa-2997-4896-9323-aa1b61a76eb1",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Warranty Months",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "f8921c97-bcac-469e-adc7-083dc4f43dce",
+    "Sequence": 10,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

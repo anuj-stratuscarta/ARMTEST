@@ -1,0 +1,21 @@
+{
+  "globalKey": "ed4962c8-06e9-4c32-b0a1-15d7cd5dceee",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Text",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "MIX_CONNECTION_TYPE",
+    "GlobalKey__c": "ed4962c8-06e9-4c32-b0a1-15d7cd5dceee",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Connection Type",
+    "Name": "Connection Type",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

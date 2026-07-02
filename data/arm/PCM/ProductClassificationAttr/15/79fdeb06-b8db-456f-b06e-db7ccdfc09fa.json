@@ -1,0 +1,29 @@
+{
+  "globalKey": "79fdeb06-b8db-456f-b06e-db7ccdfc09fa",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "beafc4cc-cae6-4e12-867c-1caddd27568a",
+    "AttributeNameOverride": "Max Speed Mbps",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "79fdeb06-b8db-456f-b06e-db7ccdfc09fa",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Max Speed Mbps",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "d58e432f-8eeb-4afc-afad-b9d0ae846261",
+    "Sequence": 20,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

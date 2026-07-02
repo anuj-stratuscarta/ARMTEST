@@ -1,0 +1,11 @@
+{
+  "globalKey": "d58e432f-8eeb-4afc-afad-b9d0ae846261",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CLS_MIX_INTERNET",
+    "GlobalKey__c": "d58e432f-8eeb-4afc-afad-b9d0ae846261",
+    "Name": "Mix Internet Products",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
