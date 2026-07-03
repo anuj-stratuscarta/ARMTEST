@@ -20,7 +20,6 @@
     "MinimumValue": null,
     "Name": "Connection Type",
     "OverriddenInheritedAttribute": null,
-    "OwnerId": null,
     "ProductClassification.GlobalKey__c": "d58e432f-8eeb-4afc-afad-b9d0ae846261",
     "Sequence": 10,
     "Status": "Active",

@@ -13,7 +13,6 @@
     "IsRequired": false,
     "Label": "Connection Type",
     "Name": "Connection Type",
-    "OwnerId": null,
     "Picklist": null,
     "SourceSystemIdentifier": null,
     "UnitOfMeasure": null,

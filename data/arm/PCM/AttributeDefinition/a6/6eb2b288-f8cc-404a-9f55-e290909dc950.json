@@ -13,7 +13,6 @@
     "IsRequired": false,
     "Label": "Color",
     "Name": "Color",
-    "OwnerId": null,
     "Picklist": null,
     "SourceSystemIdentifier": null,
     "UnitOfMeasure": null,

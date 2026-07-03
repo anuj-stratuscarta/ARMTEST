@@ -20,7 +20,6 @@
     "MinimumValue": null,
     "Name": "Warranty Months",
     "OverriddenInheritedAttribute": null,
-    "OwnerId": null,
     "ProductClassification.GlobalKey__c": "f8921c97-bcac-469e-adc7-083dc4f43dce",
     "Sequence": 10,
     "Status": "Active",
