@@ -369,6 +369,13 @@
     },
     {
       "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PricebookEntry:021d887b-3359-43c9-8236-de949093a082",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    },
+    {
+      "direction": "forward",
       "field": "Product2Id",
       "from": "PricebookEntry:021d887b-3359-43c9-8236-de949093a082",
       "required": true,
@@ -380,6 +387,20 @@
       "from": "PricebookEntry:021d887b-3359-43c9-8236-de949093a082",
       "required": true,
       "to": "Product2:11ab7523-00dc-4f20-95d9-e40190c4cd6b"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:021d887b-3359-43c9-8236-de949093a082",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PricebookEntry:700784ef-5b7d-40d9-88df-a9c89b831c8f",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
     },
     {
       "direction": "forward",
@@ -397,6 +418,20 @@
     },
     {
       "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:700784ef-5b7d-40d9-88df-a9c89b831c8f",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PricebookEntry:ca7164e2-9519-496c-b563-90466a2312b7",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    },
+    {
+      "direction": "forward",
       "field": "Product2Id",
       "from": "PricebookEntry:ca7164e2-9519-496c-b563-90466a2312b7",
       "required": true,
@@ -411,6 +446,20 @@
     },
     {
       "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:ca7164e2-9519-496c-b563-90466a2312b7",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    },
+    {
+      "direction": "forward",
       "field": "Product2Id",
       "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
       "required": true,
@@ -422,6 +471,13 @@
       "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
       "required": true,
       "to": "Product2:cf65273c-07a1-4dc8-b5df-676834c06b6e"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
     },
     {
       "direction": "forward",
@@ -943,6 +999,13 @@
     },
     {
       "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:04dbf8eb-1a7d-4f14-910b-b24beb4975dd",
+      "required": true,
+      "to": "ProductRelationshipType:a9f85fef-9ccf-41c7-808c-8f89c77a0835"
+    },
+    {
+      "direction": "forward",
       "field": "ChildProductId",
       "from": "ProductRelatedComponent:b46ade34-16f5-49d8-a1dc-c774c46e8dc7",
       "required": true,
@@ -971,6 +1034,13 @@
     },
     {
       "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:b46ade34-16f5-49d8-a1dc-c774c46e8dc7",
+      "required": true,
+      "to": "ProductRelationshipType:a9f85fef-9ccf-41c7-808c-8f89c77a0835"
+    },
+    {
+      "direction": "forward",
       "field": "ParentProductId",
       "from": "ProductRelatedComponent:c52831af-91fb-4817-a9ef-9809846b0d9c",
       "required": true,
@@ -996,6 +1066,13 @@
       "from": "ProductRelatedComponent:c52831af-91fb-4817-a9ef-9809846b0d9c",
       "required": false,
       "to": "ProductComponentGroup:e360bed7-f105-4a0e-b926-1910b0651ed1"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductRelationshipTypeId",
+      "from": "ProductRelatedComponent:c52831af-91fb-4817-a9ef-9809846b0d9c",
+      "required": true,
+      "to": "ProductRelationshipType:a9f85fef-9ccf-41c7-808c-8f89c77a0835"
     }
   ],
   "leaves": [],
@@ -1188,6 +1265,11 @@
       "globalKey": "f883d6df-e19f-4ac3-b249-4a71ecdab768",
       "label": "Download Speed 600",
       "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+      "label": "Standard Price Book",
+      "object": "Pricebook2"
     },
     {
       "globalKey": "021d887b-3359-43c9-8236-de949093a082",
@@ -1404,29 +1486,35 @@
       "object": "ProductComponentGroup"
     },
     {
-      "displayLabel": "Whole-Home Mesh WiFi ↔ Fibre Broadband Ultra ↔ Ultra Add-ons",
+      "displayLabel": "Whole-Home Mesh WiFi ↔ Fibre Broadband Ultra ↔ Ultra Add-ons ↔ Bundle to Bundle Component Relationship",
       "globalKey": "04dbf8eb-1a7d-4f14-910b-b24beb4975dd",
       "label": "PRC-000000085",
       "object": "ProductRelatedComponent"
     },
     {
-      "displayLabel": "10Gbps Speed Tier ↔ Fibre Broadband Ultra ↔ Ultra Add-ons",
+      "displayLabel": "10Gbps Speed Tier ↔ Fibre Broadband Ultra ↔ Ultra Add-ons ↔ Bundle to Bundle Component Relationship",
       "globalKey": "b46ade34-16f5-49d8-a1dc-c774c46e8dc7",
       "label": "PRC-000000084",
       "object": "ProductRelatedComponent"
     },
     {
-      "displayLabel": "Priority Support ↔ Fibre Broadband Ultra ↔ Ultra Add-ons",
+      "displayLabel": "Priority Support ↔ Fibre Broadband Ultra ↔ Ultra Add-ons ↔ Bundle to Bundle Component Relationship",
       "globalKey": "c52831af-91fb-4817-a9ef-9809846b0d9c",
       "label": "PRC-000000086",
       "object": "ProductRelatedComponent"
+    },
+    {
+      "globalKey": "a9f85fef-9ccf-41c7-808c-8f89c77a0835",
+      "label": "Bundle to Bundle Component Relationship",
+      "object": "ProductRelationshipType"
+    },
+    {
+      "globalKey": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+      "label": "Evergreen - Monthly",
+      "object": "ProductSellingModel"
     }
   ],
   "roots": [
-    {
-      "globalKey": "5ca5659b-b4c6-4989-9c98-b16e6272e2e6",
-      "object": "AttributePicklist"
-    },
     {
       "globalKey": "2a4ef069-70be-49c3-b1cb-ae6652751c47",
       "object": "Product2"
@@ -1470,6 +1558,10 @@
     {
       "globalKey": "161f4eb2-201c-478e-bf37-5252b6489ea8",
       "object": "ProductClassification"
+    },
+    {
+      "globalKey": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+      "object": "ProductSellingModel"
     }
   ]
 }
