@@ -1,0 +1,21 @@
+{
+  "globalKey": "102be20f-d280-44c9-a624-2fffc8b45552",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_SHS_RESOLUTION",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_SHS_RESOLUTION",
+    "GlobalKey__c": "102be20f-d280-44c9-a624-2fffc8b45552",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Camera Resolution",
+    "Name": "SHS RESOLUTION",
+    "Picklist.GlobalKey__c": "164d0e37-d3ad-482c-8a0b-2aa623980103",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
