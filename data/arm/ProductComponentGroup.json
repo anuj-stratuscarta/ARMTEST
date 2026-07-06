@@ -86,18 +86,6 @@
       "Sequence": null
     },
     {
-      "Code": "CS001012",
-      "Description": null,
-      "GlobalKey__c": "40513cd8-9462-4d66-9c04-213651a3d3ae",
-      "MaxBundleComponents": null,
-      "MinBundleComponents": null,
-      "Name": "LLM Certifications",
-      "OwnerId": null,
-      "ParentGroup.GlobalKey__c": "d2fc8eb0-80bf-499c-bc1b-f27b1f1e3b6b",
-      "ParentProduct.GlobalKey__c": "d6278812-d493-4299-9bed-7456f732d88c",
-      "Sequence": "2"
-    },
-    {
       "Code": null,
       "Description": null,
       "GlobalKey__c": "407cadf1-520b-405e-a549-df82515d5bd9",
@@ -156,18 +144,6 @@
       "ParentGroup.GlobalKey__c": null,
       "ParentProduct.GlobalKey__c": "d469a5f8-7097-4711-a272-09aa1f2b6a12",
       "Sequence": "10"
-    },
-    {
-      "Code": "CS001011",
-      "Description": null,
-      "GlobalKey__c": "73880248-9325-4dc5-9128-1d99b190ce42",
-      "MaxBundleComponents": null,
-      "MinBundleComponents": null,
-      "Name": "AI Certifications",
-      "OwnerId": null,
-      "ParentGroup.GlobalKey__c": "d2fc8eb0-80bf-499c-bc1b-f27b1f1e3b6b",
-      "ParentProduct.GlobalKey__c": "d6278812-d493-4299-9bed-7456f732d88c",
-      "Sequence": "1"
     },
     {
       "Code": null,
@@ -276,18 +252,6 @@
       "ParentGroup.GlobalKey__c": null,
       "ParentProduct.GlobalKey__c": "fdee6e31-d881-4c18-8eb7-9e5f1ce267dc",
       "Sequence": "10"
-    },
-    {
-      "Code": "CS00101",
-      "Description": null,
-      "GlobalKey__c": "d2fc8eb0-80bf-499c-bc1b-f27b1f1e3b6b",
-      "MaxBundleComponents": null,
-      "MinBundleComponents": null,
-      "Name": "Certifications",
-      "OwnerId": null,
-      "ParentGroup.GlobalKey__c": null,
-      "ParentProduct.GlobalKey__c": "d6278812-d493-4299-9bed-7456f732d88c",
-      "Sequence": "2"
     },
     {
       "Code": null,
