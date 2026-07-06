@@ -1,14 +1,4 @@
 {
   "object": "AttributePicklist",
-  "records": [
-    {
-      "Code": "INTERNET_SPEED_OPTIONS",
-      "DataType": "Text",
-      "Description": null,
-      "GlobalKey__c": "10e98b43-6263-4294-89ac-a572581bdacb",
-      "Name": "Internet Speed Options",
-      "OwnerId": null,
-      "Status": "Active"
-    }
-  ]
+  "records": []
 }
