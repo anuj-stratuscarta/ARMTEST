@@ -1,0 +1,13 @@
+{
+  "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+  "object": "Pricebook2",
+  "record": {
+    "CostBook": null,
+    "Description": null,
+    "GlobalKey__c": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+    "IsActive": true,
+    "Name": "Standard Price Book",
+    "ValidFrom": "2025-06-01T19:00:00.000+0000",
+    "ValidTo": null
+  }
+}

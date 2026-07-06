@@ -5,9 +5,9 @@
     "GlobalKey__c": "ca7164e2-9519-496c-b563-90466a2312b7",
     "IsActive": true,
     "IsDerived": false,
-    "Pricebook2.GlobalKey__c": null,
+    "Pricebook2.GlobalKey__c": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
     "Product2.GlobalKey__c": "fbcc384e-f40e-4fcc-98f1-3107dbdfc97f",
-    "ProductSellingModel.GlobalKey__c": null,
+    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
     "UnitPrice": 10,
     "UseStandardPrice": false
   }
