@@ -1,0 +1,13 @@
+{
+  "globalKey": "fa2f5d6c-1a76-4e87-ae80-1f885ee7b078",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_SHS_MONITORING",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "fa2f5d6c-1a76-4e87-ae80-1f885ee7b078",
+    "Name": "SHS Monitoring Level Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
