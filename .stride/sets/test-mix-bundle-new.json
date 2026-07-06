@@ -1,0 +1,28 @@
+{
+  "slug": "test-mix-bundle-new",
+  "name": "TEST_MIX_BUNDLE_NEW",
+  "createdAt": "2026-07-02T22:41:03.360Z",
+  "updatedAt": "2026-07-02T22:41:03.360Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "7689ff07-e30f-4c74-b9f0-e8c6349cc432"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/test-mix-bundle-new"
+}
