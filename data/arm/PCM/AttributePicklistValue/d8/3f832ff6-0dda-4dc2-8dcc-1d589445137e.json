@@ -1,0 +1,16 @@
+{
+  "globalKey": "3f832ff6-0dda-4dc2-8dcc-1d589445137e",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "UPSP400",
+    "Code": "CCC_PKLVAL_UPLOAD_SPEED_400",
+    "DisplayValue": "400 Mbps",
+    "GlobalKey__c": "3f832ff6-0dda-4dc2-8dcc-1d589445137e",
+    "IsDefault": false,
+    "Name": "Upload Speed 400",
+    "Picklist.GlobalKey__c": "74f70d72-5091-4ce9-964d-8ddc26123041",
+    "Sequence": 10,
+    "Status": "Active",
+    "Value": "400"
+  }
+}

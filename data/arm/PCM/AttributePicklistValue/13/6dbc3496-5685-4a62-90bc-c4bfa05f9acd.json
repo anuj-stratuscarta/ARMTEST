@@ -1,0 +1,16 @@
+{
+  "globalKey": "6dbc3496-5685-4a62-90bc-c4bfa05f9acd",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_ULTRA_SUP_DED",
+    "DisplayValue": "Dedicated",
+    "GlobalKey__c": "6dbc3496-5685-4a62-90bc-c4bfa05f9acd",
+    "IsDefault": false,
+    "Name": "Dedicated",
+    "Picklist.GlobalKey__c": "164e6dc3-fe9e-438b-b245-4d69df0f0293",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "Dedicated"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "4a28a464-40ad-4414-8860-54c1737984d9",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_ULTRA_SUPPORT_TIER",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_ULTRA_SUPPORT_TIER",
+    "GlobalKey__c": "4a28a464-40ad-4414-8860-54c1737984d9",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Support Tier",
+    "Name": "ULTRA SUPPORT TIER",
+    "Picklist.GlobalKey__c": "164e6dc3-fe9e-438b-b245-4d69df0f0293",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

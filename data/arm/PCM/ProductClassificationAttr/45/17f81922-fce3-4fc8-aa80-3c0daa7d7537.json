@@ -1,0 +1,29 @@
+{
+  "globalKey": "17f81922-fce3-4fc8-aa80-3c0daa7d7537",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "4a28a464-40ad-4414-8860-54c1737984d9",
+    "AttributeNameOverride": "ULTRA SUPPORT TIER",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "17f81922-fce3-4fc8-aa80-3c0daa7d7537",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "ULTRA SUPPORT TIER",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "57647e83-7ac8-4f2a-9630-e9c156b62220",
+    "Sequence": 30,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

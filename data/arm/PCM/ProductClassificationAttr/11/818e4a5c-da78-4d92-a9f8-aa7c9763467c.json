@@ -1,0 +1,29 @@
+{
+  "globalKey": "818e4a5c-da78-4d92-a9f8-aa7c9763467c",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "a09d430b-3021-4ae6-bb47-1a31e86e0a74",
+    "AttributeNameOverride": "ULTRA LATENCY",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "818e4a5c-da78-4d92-a9f8-aa7c9763467c",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "ULTRA LATENCY",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "57647e83-7ac8-4f2a-9630-e9c156b62220",
+    "Sequence": 10,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

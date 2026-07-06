@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_FIBER_BROADBAND_ULTRA|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "2a4ef069-70be-49c3-b1cb-ae6652751c47",
+    "ProductSellingModel.GlobalKey__c": null,
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

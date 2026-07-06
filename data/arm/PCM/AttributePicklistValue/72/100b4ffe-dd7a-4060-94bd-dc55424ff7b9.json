@@ -1,0 +1,16 @@
+{
+  "globalKey": "100b4ffe-dd7a-4060-94bd-dc55424ff7b9",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "DOWNSP800",
+    "Code": "CCC_PKLVAL_DOWNLOAD_SPEED_800",
+    "DisplayValue": "800 MBPS",
+    "GlobalKey__c": "100b4ffe-dd7a-4060-94bd-dc55424ff7b9",
+    "IsDefault": false,
+    "Name": "Download Speed 800",
+    "Picklist.GlobalKey__c": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+    "Sequence": 30,
+    "Status": "Active",
+    "Value": "800"
+  }
+}

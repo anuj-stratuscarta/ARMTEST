@@ -1,0 +1,13 @@
+{
+  "globalKey": "4b38d7d0-14a4-4bb7-98f1-041cfe804327",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "PS001",
+    "Description": "This catalog covers all the Communications Service products such as Internet, Telephony, Mobile, TV etc.",
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "4b38d7d0-14a4-4bb7-98f1-041cfe804327",
+    "Name": "Primary Services"
+  }
+}

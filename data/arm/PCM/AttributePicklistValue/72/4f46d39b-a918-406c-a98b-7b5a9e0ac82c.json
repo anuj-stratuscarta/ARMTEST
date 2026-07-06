@@ -1,0 +1,16 @@
+{
+  "globalKey": "4f46d39b-a918-406c-a98b-7b5a9e0ac82c",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "UPSP1000",
+    "Code": "CCC_PKLVAL_UPLOAD_SPEED_1000",
+    "DisplayValue": "UPSP1000",
+    "GlobalKey__c": "4f46d39b-a918-406c-a98b-7b5a9e0ac82c",
+    "IsDefault": false,
+    "Name": "Upload Speed 1000",
+    "Picklist.GlobalKey__c": "74f70d72-5091-4ce9-964d-8ddc26123041",
+    "Sequence": 40,
+    "Status": "Active",
+    "Value": "1000"
+  }
+}
