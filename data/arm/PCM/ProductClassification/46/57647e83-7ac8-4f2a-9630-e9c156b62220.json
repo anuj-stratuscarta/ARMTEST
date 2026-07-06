@@ -1,0 +1,11 @@
+{
+  "globalKey": "57647e83-7ac8-4f2a-9630-e9c156b62220",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_ULTRA_BROADBAND",
+    "GlobalKey__c": "57647e83-7ac8-4f2a-9630-e9c156b62220",
+    "Name": "Ultra Broadband",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

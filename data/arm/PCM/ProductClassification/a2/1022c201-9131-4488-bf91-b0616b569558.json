@@ -1,0 +1,11 @@
+{
+  "globalKey": "1022c201-9131-4488-bf91-b0616b569558",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "INT001",
+    "GlobalKey__c": "1022c201-9131-4488-bf91-b0616b569558",
+    "Name": "Internet Access",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "globalKey": "39717d39-6343-4916-b015-75d531d03201",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "47ebed7d-9210-4761-ad41-22cb1f709b51",
+    "Code": "CCC_CAT_FIBER",
+    "Description": "Fiber Broadband Category",
+    "GlobalKey__c": "39717d39-6343-4916-b015-75d531d03201",
+    "IsNavigational": true,
+    "Name": "Fiber Broadband",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

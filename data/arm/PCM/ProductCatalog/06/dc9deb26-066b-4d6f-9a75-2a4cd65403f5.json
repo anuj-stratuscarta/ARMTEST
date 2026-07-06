@@ -1,0 +1,13 @@
+{
+  "globalKey": "dc9deb26-066b-4d6f-9a75-2a4cd65403f5",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_CATALOG_ULTRA_TEST",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "dc9deb26-066b-4d6f-9a75-2a4cd65403f5",
+    "Name": "Ultra Test Catalog"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "globalKey": "7299807f-ae7b-4eb7-99c2-8a41b0fb14c9",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_ULTRA_LATENCY",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "7299807f-ae7b-4eb7-99c2-8a41b0fb14c9",
+    "Name": "Ultra Latency Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
