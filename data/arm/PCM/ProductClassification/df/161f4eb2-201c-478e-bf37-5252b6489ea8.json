@@ -1,0 +1,11 @@
+{
+  "globalKey": "161f4eb2-201c-478e-bf37-5252b6489ea8",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_ENHANCED_SECURITY",
+    "GlobalKey__c": "161f4eb2-201c-478e-bf37-5252b6489ea8",
+    "Name": "Enhanced Security",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

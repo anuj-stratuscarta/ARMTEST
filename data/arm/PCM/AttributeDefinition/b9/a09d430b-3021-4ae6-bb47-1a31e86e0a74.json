@@ -1,0 +1,21 @@
+{
+  "globalKey": "a09d430b-3021-4ae6-bb47-1a31e86e0a74",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_ULTRA_LATENCY",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_ULTRA_LATENCY",
+    "GlobalKey__c": "a09d430b-3021-4ae6-bb47-1a31e86e0a74",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Latency",
+    "Name": "ULTRA LATENCY",
+    "Picklist.GlobalKey__c": "7299807f-ae7b-4eb7-99c2-8a41b0fb14c9",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

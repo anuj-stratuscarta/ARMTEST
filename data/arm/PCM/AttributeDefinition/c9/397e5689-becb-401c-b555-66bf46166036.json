@@ -1,0 +1,21 @@
+{
+  "globalKey": "397e5689-becb-401c-b555-66bf46166036",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_CPE_TYPE",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": "CPE Type",
+    "DeveloperName": "CPE_TYPE",
+    "GlobalKey__c": "397e5689-becb-401c-b555-66bf46166036",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "CPE Type",
+    "Name": "CPE TYPE",
+    "Picklist.GlobalKey__c": "5ca5659b-b4c6-4989-9c98-b16e6272e2e6",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

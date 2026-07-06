@@ -1,0 +1,13 @@
+{
+  "globalKey": "40ff6eb2-e8ac-4a12-aed4-bad7b7155e7b",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "HW001",
+    "Description": "This catalog covers all the Hardware products related to the communications services such as Routers, Switches, Wifi Extenders, Headphones, Mobile Handsets etc.",
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "40ff6eb2-e8ac-4a12-aed4-bad7b7155e7b",
+    "Name": "Hardware"
+  }
+}

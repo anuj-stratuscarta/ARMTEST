@@ -1,0 +1,16 @@
+{
+  "globalKey": "daa18aa4-90cb-4d17-8310-ca2118edc39d",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_ULTRA_SUP_STD",
+    "DisplayValue": "Standard",
+    "GlobalKey__c": "daa18aa4-90cb-4d17-8310-ca2118edc39d",
+    "IsDefault": false,
+    "Name": "Standard",
+    "Picklist.GlobalKey__c": "164e6dc3-fe9e-438b-b245-4d69df0f0293",
+    "Sequence": 10,
+    "Status": "Draft",
+    "Value": "Standard"
+  }
+}
