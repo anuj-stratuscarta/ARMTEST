@@ -1,0 +1,60 @@
+{
+  "slug": "test-set-bundle-v1",
+  "name": "TEST_SET_BUNDLE_V1",
+  "createdAt": "2026-07-06T14:18:05.274Z",
+  "updatedAt": "2026-07-06T14:18:05.274Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "2a4ef069-70be-49c3-b1cb-ae6652751c47"
+          ]
+        },
+        {
+          "object": "ProductCategoryProduct",
+          "intent": "picked",
+          "records": [
+            "22c68607-cc62-47da-abf2-4c6c0e153ea9",
+            "b19a0c30-a486-4194-9865-c35a564dc512",
+            "00927dec-1cca-47b3-81f9-9418557c670d",
+            "a830256d-45d9-4841-87c2-5384b93da7b2",
+            "4893110c-2327-465b-8d45-ea688e0097c2",
+            "841238e3-f8bb-4295-9f5a-da0f707ee560",
+            "c508eb03-9740-4749-8c47-ff3a5e764fd9",
+            "f4f157c4-c686-465d-b7fc-23c267f1ecd4",
+            "39f49dc0-ca77-4909-b422-dc1c792f8df2"
+          ]
+        },
+        {
+          "object": "ProductSellingModel",
+          "intent": "picked",
+          "records": [
+            "4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+          ]
+        },
+        {
+          "object": "ProductClassification",
+          "intent": "picked",
+          "records": [
+            "161f4eb2-201c-478e-bf37-5252b6489ea8"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2",
+          "ProductCategoryProduct",
+          "ProductClassification",
+          "ProductSellingModel"
+        ]
+      }
+    }
+  },
+  "branch": "feature/test-set-bundle-v1"
+}

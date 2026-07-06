@@ -1,0 +1,29 @@
+{
+  "globalKey": "8887368d-0803-4cbb-a99d-71c0114ac8bc",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "8e5ae356-46a6-4a32-9b7e-f4960bb1506a",
+    "AttributeNameOverride": "ULTRA MESH NODES",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "8887368d-0803-4cbb-a99d-71c0114ac8bc",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "ULTRA MESH NODES",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "57647e83-7ac8-4f2a-9630-e9c156b62220",
+    "Sequence": 20,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

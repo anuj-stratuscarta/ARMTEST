@@ -1,0 +1,13 @@
+{
+  "globalKey": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_DOWNLOAD_SPEED",
+    "DataType": "Text",
+    "Description": "Download Speed Picklist for SMB Fiber",
+    "GlobalKey__c": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+    "Name": "Download Speed Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "globalKey": "cf4b1ac4-97b8-49b9-9ba3-5646dc533184",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_ULTRA_LAT_10",
+    "DisplayValue": "5-10ms",
+    "GlobalKey__c": "cf4b1ac4-97b8-49b9-9ba3-5646dc533184",
+    "IsDefault": false,
+    "Name": "5-10ms",
+    "Picklist.GlobalKey__c": "7299807f-ae7b-4eb7-99c2-8a41b0fb14c9",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "5-10ms"
+  }
+}

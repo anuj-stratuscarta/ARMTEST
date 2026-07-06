@@ -1,0 +1,13 @@
+{
+  "globalKey": "164e6dc3-fe9e-438b-b245-4d69df0f0293",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_ULTRA_SUPPORT_TIER",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "164e6dc3-fe9e-438b-b245-4d69df0f0293",
+    "Name": "Ultra Support Tier Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

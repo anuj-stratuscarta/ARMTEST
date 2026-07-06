@@ -1,0 +1,21 @@
+{
+  "globalKey": "7801cffd-c8f5-43f4-bd4f-69ccf3190fe3",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Text",
+    "DefaultHelpText": null,
+    "DefaultValue": "40 GB",
+    "Description": "Data limit/cap",
+    "DeveloperName": "Data_Limit",
+    "GlobalKey__c": "7801cffd-c8f5-43f4-bd4f-69ccf3190fe3",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Data",
+    "Name": "Data Limit",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
