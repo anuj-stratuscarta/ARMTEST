@@ -4,7 +4,7 @@
   "record": {
     "IsDefault": true,
     "Product2.GlobalKey__c": "2a4ef069-70be-49c3-b1cb-ae6652751c47",
-    "ProductSellingModel.GlobalKey__c": null,
+    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
     "ProrationPolicy.Name": "Default Proration Policy"
   }
 }

@@ -15,7 +15,7 @@
     "ParentProduct.GlobalKey__c": "2a4ef069-70be-49c3-b1cb-ae6652751c47",
     "ParentSellingModel": null,
     "ProductComponentGroup.GlobalKey__c": "e360bed7-f105-4a0e-b926-1910b0651ed1",
-    "ProductRelationshipType.GlobalKey__c": null,
+    "ProductRelationshipType.GlobalKey__c": "a9f85fef-9ccf-41c7-808c-8f89c77a0835",
     "Quantity": 1,
     "QuantityScaleMethod": "Proportional",
     "QuoteVisibility": "Always",
