@@ -1,0 +1,13 @@
+{
+  "globalKey": "47ebed7d-9210-4761-ad41-22cb1f709b51",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_CATALOG_BROADBAND",
+    "Description": "Catalog for Broadband Products",
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": "2025-02-01T20:00:00.000+0000",
+    "GlobalKey__c": "47ebed7d-9210-4761-ad41-22cb1f709b51",
+    "Name": "BroadBand Catalog"
+  }
+}

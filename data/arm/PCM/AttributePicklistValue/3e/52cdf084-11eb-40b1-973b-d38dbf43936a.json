@@ -1,0 +1,16 @@
+{
+  "globalKey": "52cdf084-11eb-40b1-973b-d38dbf43936a",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "MAIL",
+    "Code": "CCC_PKVAL_MAIL",
+    "DisplayValue": "Mail",
+    "GlobalKey__c": "52cdf084-11eb-40b1-973b-d38dbf43936a",
+    "IsDefault": false,
+    "Name": "Mail",
+    "Picklist.GlobalKey__c": "cc573c85-408e-4f01-b800-a7c807c24c97",
+    "Sequence": 10,
+    "Status": "Active",
+    "Value": "Mail"
+  }
+}

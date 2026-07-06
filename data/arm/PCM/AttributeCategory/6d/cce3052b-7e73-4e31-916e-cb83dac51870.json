@@ -1,0 +1,10 @@
+{
+  "globalKey": "cce3052b-7e73-4e31-916e-cb83dac51870",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "CCC_ATTRCAT_BROADBAND_SPEED",
+    "Description": "Broadband information",
+    "GlobalKey__c": "cce3052b-7e73-4e31-916e-cb83dac51870",
+    "Name": "Broadband Speed"
+  }
+}
