@@ -1,0 +1,13 @@
+{
+  "globalKey": "164d0e37-d3ad-482c-8a0b-2aa623980103",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_SHS_RESOLUTION",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "164d0e37-d3ad-482c-8a0b-2aa623980103",
+    "Name": "SHS Resolution Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
