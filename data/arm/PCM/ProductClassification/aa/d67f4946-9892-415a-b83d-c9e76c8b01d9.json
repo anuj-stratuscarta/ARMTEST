@@ -1,0 +1,11 @@
+{
+  "globalKey": "d67f4946-9892-415a-b83d-c9e76c8b01d9",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_CPE",
+    "GlobalKey__c": "d67f4946-9892-415a-b83d-c9e76c8b01d9",
+    "Name": "CPE",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

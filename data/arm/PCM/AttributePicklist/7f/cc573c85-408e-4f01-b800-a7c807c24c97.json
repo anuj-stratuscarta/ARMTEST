@@ -1,0 +1,13 @@
+{
+  "globalKey": "cc573c85-408e-4f01-b800-a7c807c24c97",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_CPE_DELIVERY",
+    "DataType": "Text",
+    "Description": "CPE Delivery Option",
+    "GlobalKey__c": "cc573c85-408e-4f01-b800-a7c807c24c97",
+    "Name": "CPE Delivery Option Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

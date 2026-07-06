@@ -1,0 +1,29 @@
+{
+  "globalKey": "a21803ba-c565-4d4a-a242-5d9d7df54a13",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "cce3052b-7e73-4e31-916e-cb83dac51870",
+    "AttributeDefinition.GlobalKey__c": "157cb542-9859-475d-9ce5-127bfcfa8dc1",
+    "AttributeNameOverride": "DOWNLOAD SPEED",
+    "DefaultValue": null,
+    "Description": "Download Speed",
+    "DisplayType": null,
+    "GlobalKey__c": "a21803ba-c565-4d4a-a242-5d9d7df54a13",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "DOWNLOAD SPEED",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "1022c201-9131-4488-bf91-b0616b569558",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

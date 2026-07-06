@@ -1,0 +1,14 @@
+{
+  "globalKey": "236fe496-05ff-484f-ad9b-6e5edd06c66f",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "40ff6eb2-e8ac-4a12-aed4-bad7b7155e7b",
+    "Code": "HW-WE001",
+    "Description": "This category covers all the Wifi Extender products",
+    "GlobalKey__c": "236fe496-05ff-484f-ad9b-6e5edd06c66f",
+    "IsNavigational": true,
+    "Name": "Wifi Extenders",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

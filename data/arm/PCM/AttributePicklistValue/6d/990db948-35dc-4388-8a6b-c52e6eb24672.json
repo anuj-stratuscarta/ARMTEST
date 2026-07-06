@@ -1,0 +1,16 @@
+{
+  "globalKey": "990db948-35dc-4388-8a6b-c52e6eb24672",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "DOWNSP400",
+    "Code": "CCC_PKLVAL_DOWNLOAD_SPEED_400",
+    "DisplayValue": "400 MBPS",
+    "GlobalKey__c": "990db948-35dc-4388-8a6b-c52e6eb24672",
+    "IsDefault": false,
+    "Name": "Download Speed 400",
+    "Picklist.GlobalKey__c": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+    "Sequence": 10,
+    "Status": "Active",
+    "Value": "400"
+  }
+}

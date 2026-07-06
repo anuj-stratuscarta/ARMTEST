@@ -1,0 +1,16 @@
+{
+  "globalKey": "f7129de3-b5fc-4e48-9082-25642204795e",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "TECHNICIAN",
+    "Code": "CCC_PKVAL_TECHNICIAN",
+    "DisplayValue": "Technician",
+    "GlobalKey__c": "f7129de3-b5fc-4e48-9082-25642204795e",
+    "IsDefault": false,
+    "Name": "Technician",
+    "Picklist.GlobalKey__c": "cc573c85-408e-4f01-b800-a7c807c24c97",
+    "Sequence": 20,
+    "Status": "Active",
+    "Value": "Technician"
+  }
+}
