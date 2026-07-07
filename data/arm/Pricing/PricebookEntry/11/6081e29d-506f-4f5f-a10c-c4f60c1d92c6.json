@@ -3,7 +3,7 @@
   "object": "PricebookEntry",
   "record": {
     "GlobalKey__c": "6081e29d-506f-4f5f-a10c-c4f60c1d92c6",
-    "IsActive": true,
+    "IsActive": false,
     "IsDerived": false,
     "Pricebook2.Name": "Standard Price Book",
     "Product2.GlobalKey__c": "8dd3a40e-186b-46c8-9ee9-09c922bb95da",
