@@ -1,0 +1,34 @@
+{
+  "slug": "e2e-bp-set-67316248",
+  "name": "E2E BP Set 67316248",
+  "createdAt": "2026-07-07T23:35:44.987Z",
+  "updatedAt": "2026-07-07T23:35:44.987Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "a4e5be56-31fc-4809-8ca5-f80673a61dcf"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "PricebookEntry",
+          "Product2",
+          "ProductComponentGroup",
+          "ProductRelatedComponent",
+          "ProductRelationshipType",
+          "ProductSellingModel",
+          "ProductSellingModelOption"
+        ]
+      }
+    }
+  },
+  "branch": "feature/e2e-bp-set-67316248"
+}
