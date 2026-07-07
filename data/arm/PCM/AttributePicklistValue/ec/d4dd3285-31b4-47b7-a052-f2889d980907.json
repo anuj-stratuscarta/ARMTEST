@@ -1,0 +1,16 @@
+{
+  "globalKey": "d4dd3285-31b4-47b7-a052-f2889d980907",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "24IN",
+    "DisplayValue": "24 Inch",
+    "GlobalKey__c": "d4dd3285-31b4-47b7-a052-f2889d980907",
+    "IsDefault": false,
+    "Name": "24 Inch",
+    "Picklist.GlobalKey__c": "f4ff2c5e-addd-4704-9bb5-0426528fdc98",
+    "Sequence": 3,
+    "Status": "Draft",
+    "Value": "24 Inch"
+  }
+}

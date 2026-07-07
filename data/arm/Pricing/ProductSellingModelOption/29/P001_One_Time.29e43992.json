@@ -1,0 +1,10 @@
+{
+  "globalKey": "P001|One Time",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "3063e537-334a-428c-bfd7-b7af5958030a",
+    "ProductSellingModel.GlobalKey__c": "6a7c79fc-2a9f-4747-b1dc-3732c8cae92b",
+    "ProrationPolicy": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "globalKey": "e33af929-2297-433a-ab92-2c0f09358a69",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Checkbox",
+    "DefaultHelpText": null,
+    "DefaultValue": "FALSE",
+    "Description": null,
+    "DeveloperName": "Wireless",
+    "GlobalKey__c": "e33af929-2297-433a-ab92-2c0f09358a69",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Wireless",
+    "Name": "Wireless",
+    "OwnerId": null,
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

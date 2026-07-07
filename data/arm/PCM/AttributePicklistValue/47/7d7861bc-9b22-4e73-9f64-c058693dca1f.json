@@ -1,0 +1,16 @@
+{
+  "globalKey": "7d7861bc-9b22-4e73-9f64-c058693dca1f",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "27IN",
+    "DisplayValue": "27 Inch",
+    "GlobalKey__c": "7d7861bc-9b22-4e73-9f64-c058693dca1f",
+    "IsDefault": false,
+    "Name": "27 Inch",
+    "Picklist.GlobalKey__c": "f4ff2c5e-addd-4704-9bb5-0426528fdc98",
+    "Sequence": 4,
+    "Status": "Draft",
+    "Value": "27 Inch"
+  }
+}
