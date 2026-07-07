@@ -8,7 +8,6 @@
     "MaxBundleComponents": 10,
     "MinBundleComponents": 0,
     "Name": "Components",
-    "OwnerId": null,
     "ParentGroup": null,
     "ParentProduct.GlobalKey__c": "a4e5be56-31fc-4809-8ca5-f80673a61dcf",
     "Sequence": 10
