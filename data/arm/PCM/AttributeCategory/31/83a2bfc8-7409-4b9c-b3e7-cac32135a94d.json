@@ -1,0 +1,11 @@
+{
+  "globalKey": "83a2bfc8-7409-4b9c-b3e7-cac32135a94d",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "P001",
+    "Description": null,
+    "GlobalKey__c": "83a2bfc8-7409-4b9c-b3e7-cac32135a94d",
+    "Name": "Printer",
+    "OwnerId": null
+  }
+}

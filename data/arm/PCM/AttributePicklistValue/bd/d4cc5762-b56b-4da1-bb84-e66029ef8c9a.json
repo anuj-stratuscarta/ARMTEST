@@ -1,0 +1,16 @@
+{
+  "globalKey": "d4cc5762-b56b-4da1-bb84-e66029ef8c9a",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "LS001",
+    "DisplayValue": "Laser",
+    "GlobalKey__c": "d4cc5762-b56b-4da1-bb84-e66029ef8c9a",
+    "IsDefault": false,
+    "Name": "Laser",
+    "Picklist.GlobalKey__c": "3a2edd96-e575-46fc-a0d0-77c8b66d2c84",
+    "Sequence": 1,
+    "Status": "Draft",
+    "Value": "Laser"
+  }
+}

@@ -18,7 +18,7 @@
     "FulfillmentQtyCalcMethod": null,
     "GlobalKey__c": "a4e5be56-31fc-4809-8ca5-f80673a61dcf",
     "HelpText": null,
-    "IsActive": true,
+    "IsActive": false,
     "IsAssetizable": true,
     "IsSerialized": false,
     "IsSoldOnlyWithOtherProds": false,

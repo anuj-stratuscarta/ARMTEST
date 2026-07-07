@@ -1,0 +1,16 @@
+{
+  "globalKey": "629564b2-8f72-4156-911d-b1171b6093da",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "13IN",
+    "DisplayValue": "13 Inch",
+    "GlobalKey__c": "629564b2-8f72-4156-911d-b1171b6093da",
+    "IsDefault": false,
+    "Name": "13 Inch",
+    "Picklist.GlobalKey__c": "f4ff2c5e-addd-4704-9bb5-0426528fdc98",
+    "Sequence": 1,
+    "Status": "Draft",
+    "Value": "13 Inch"
+  }
+}
