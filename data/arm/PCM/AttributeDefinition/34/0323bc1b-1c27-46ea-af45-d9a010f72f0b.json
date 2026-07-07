@@ -13,6 +13,7 @@
     "IsRequired": false,
     "Label": "Is Fiber",
     "Name": "Is Fiber",
+    "OwnerId": null,
     "Picklist": null,
     "SourceSystemIdentifier": null,
     "UnitOfMeasure": null,

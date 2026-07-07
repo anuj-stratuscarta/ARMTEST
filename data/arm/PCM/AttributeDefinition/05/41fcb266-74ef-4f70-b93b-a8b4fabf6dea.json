@@ -13,6 +13,7 @@
     "IsRequired": false,
     "Label": "Warranty (months)",
     "Name": "Warranty Months",
+    "OwnerId": null,
     "Picklist": null,
     "SourceSystemIdentifier": null,
     "UnitOfMeasure": null,

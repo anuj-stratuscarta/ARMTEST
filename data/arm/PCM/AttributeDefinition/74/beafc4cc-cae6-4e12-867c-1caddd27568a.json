@@ -13,6 +13,7 @@
     "IsRequired": false,
     "Label": "Max Speed (Mbps)",
     "Name": "Max Speed Mbps",
+    "OwnerId": null,
     "Picklist": null,
     "SourceSystemIdentifier": null,
     "UnitOfMeasure": null,
