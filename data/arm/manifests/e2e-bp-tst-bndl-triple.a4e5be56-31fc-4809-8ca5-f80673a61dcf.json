@@ -310,19 +310,19 @@
     {
       "displayLabel": "Landline Phone Service ↔ Triple Play Bundle ↔ Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "020a788a-2fb1-4716-82b6-5bb17622da0d",
-      "label": "PRC-000000135",
+      "label": "PRC-000000042",
       "object": "ProductRelatedComponent"
     },
     {
       "displayLabel": "TV Box 4K ↔ Triple Play Bundle ↔ Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "18281287-2a41-4189-9685-e0c1f44608dc",
-      "label": "PRC-000000136",
+      "label": "PRC-000000041",
       "object": "ProductRelatedComponent"
     },
     {
       "displayLabel": "Elite Wifi Router ↔ Triple Play Bundle ↔ Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "f7eda6bd-70c2-40af-96e7-19c20166b5dc",
-      "label": "PRC-000000138",
+      "label": "PRC-000000040",
       "object": "ProductRelatedComponent"
     },
     {
