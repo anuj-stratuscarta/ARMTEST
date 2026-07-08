@@ -1,0 +1,11 @@
+{
+  "globalKey": "bad240fa-bf12-5dc6-bbaf-bdc632c1c947",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_SHS103357",
+    "GlobalKey__c": "bad240fa-bf12-5dc6-bbaf-bdc632c1c947",
+    "Name": "Smart Home Security",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
