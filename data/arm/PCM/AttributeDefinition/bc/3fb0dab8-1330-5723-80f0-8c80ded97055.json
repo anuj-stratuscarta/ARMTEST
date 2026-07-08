@@ -1,0 +1,21 @@
+{
+  "globalKey": "3fb0dab8-1330-5723-80f0-8c80ded97055",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_SHS672979_BATTERY",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_SHS672979_BATTERY",
+    "GlobalKey__c": "3fb0dab8-1330-5723-80f0-8c80ded97055",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Battery Life (hrs)",
+    "Name": "SHS672979 BATTERY HOURS",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

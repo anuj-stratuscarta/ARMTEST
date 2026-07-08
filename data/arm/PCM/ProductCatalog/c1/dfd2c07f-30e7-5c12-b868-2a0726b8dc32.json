@@ -1,0 +1,13 @@
+{
+  "globalKey": "dfd2c07f-30e7-5c12-b868-2a0726b8dc32",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_SHS275836_CATALOG",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "dfd2c07f-30e7-5c12-b868-2a0726b8dc32",
+    "Name": "Smart Home Catalog"
+  }
+}

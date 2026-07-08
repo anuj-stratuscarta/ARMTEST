@@ -1,0 +1,16 @@
+{
+  "globalKey": "f45757a3-c497-4fda-9c7b-0e03b1ab94b5",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_FLT_CON_4G",
+    "DisplayValue": "4G",
+    "GlobalKey__c": "f45757a3-c497-4fda-9c7b-0e03b1ab94b5",
+    "IsDefault": false,
+    "Name": "4G LTE",
+    "Picklist.GlobalKey__c": "e641a373-02e7-5dcf-a294-0d85b6f5d930",
+    "Sequence": 10,
+    "Status": "Draft",
+    "Value": "4G"
+  }
+}

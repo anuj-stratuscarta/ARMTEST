@@ -1,0 +1,13 @@
+{
+  "globalKey": "e641a373-02e7-5dcf-a294-0d85b6f5d930",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_FLT_CONNECTIVITY",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "e641a373-02e7-5dcf-a294-0d85b6f5d930",
+    "Name": "FLT Connectivity Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
