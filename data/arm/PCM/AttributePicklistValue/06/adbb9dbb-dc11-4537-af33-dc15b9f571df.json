@@ -1,0 +1,16 @@
+{
+  "globalKey": "adbb9dbb-dc11-4537-af33-dc15b9f571df",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_SHS103357_MON_SELF",
+    "DisplayValue": "Self",
+    "GlobalKey__c": "adbb9dbb-dc11-4537-af33-dc15b9f571df",
+    "IsDefault": false,
+    "Name": "Self",
+    "Picklist.GlobalKey__c": "111c377d-8382-58e8-83c0-1f7605c23730",
+    "Sequence": 10,
+    "Status": "Draft",
+    "Value": "Self"
+  }
+}
