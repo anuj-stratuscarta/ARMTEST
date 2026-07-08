@@ -1,0 +1,16 @@
+{
+  "globalKey": "b0deadc7-9fdc-4ec6-93fe-7b6c20f12447",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_SHS153936_RES_4K",
+    "DisplayValue": "4K",
+    "GlobalKey__c": "b0deadc7-9fdc-4ec6-93fe-7b6c20f12447",
+    "IsDefault": false,
+    "Name": "4K",
+    "Picklist.GlobalKey__c": "7e92cebe-1a69-563c-be8e-e7be35b51f78",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "4K"
+  }
+}
