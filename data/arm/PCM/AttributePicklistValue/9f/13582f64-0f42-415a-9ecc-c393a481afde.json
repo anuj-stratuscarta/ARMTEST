@@ -1,0 +1,16 @@
+{
+  "globalKey": "13582f64-0f42-415a-9ecc-c393a481afde",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_SHS153936_MON_PRO",
+    "DisplayValue": "FullPro",
+    "GlobalKey__c": "13582f64-0f42-415a-9ecc-c393a481afde",
+    "IsDefault": false,
+    "Name": "Full Pro",
+    "Picklist.GlobalKey__c": "5d5e563d-cfee-5d9b-99d3-8be255aa7691",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "FullPro"
+  }
+}
