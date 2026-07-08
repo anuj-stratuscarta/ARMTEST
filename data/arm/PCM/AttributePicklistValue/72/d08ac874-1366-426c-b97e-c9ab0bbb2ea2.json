@@ -1,0 +1,16 @@
+{
+  "globalKey": "d08ac874-1366-426c-b97e-c9ab0bbb2ea2",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_GEH_CHM_NMC",
+    "DisplayValue": "NMC",
+    "GlobalKey__c": "d08ac874-1366-426c-b97e-c9ab0bbb2ea2",
+    "IsDefault": false,
+    "Name": "NMC",
+    "Picklist.GlobalKey__c": "a03ec6c1-b7c3-5a75-a885-b306cd2023a6",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "NMC"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "4c4f4c3b-f786-5caf-a2d7-3d62367d71b8",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_GEH_WATTAGE",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_GEH_WATTAGE",
+    "GlobalKey__c": "4c4f4c3b-f786-5caf-a2d7-3d62367d71b8",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Panel Wattage (W)",
+    "Name": "GEH PANEL WATTAGE",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
