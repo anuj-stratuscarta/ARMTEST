@@ -1,0 +1,43 @@
+{
+  "slug": "fleet-telematics-bundle",
+  "name": "Fleet Telematics Bundle",
+  "createdAt": "2026-07-08T22:00:54.744Z",
+  "updatedAt": "2026-07-08T22:00:54.744Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "9a0d550a-6e75-5590-aa15-b8978b2a0c5c"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "AttributeDefinition",
+          "AttributePicklist",
+          "AttributePicklistValue",
+          "Pricebook2",
+          "PricebookEntry",
+          "Product2",
+          "ProductCatalog",
+          "ProductCategory",
+          "ProductCategoryProduct",
+          "ProductClassification",
+          "ProductClassificationAttr",
+          "ProductComponentGroup",
+          "ProductRelatedComponent",
+          "ProductRelationshipType",
+          "ProductSellingModel",
+          "ProductSellingModelOption"
+        ]
+      }
+    }
+  },
+  "branch": "feature/fleet-telematics-bundle"
+}
