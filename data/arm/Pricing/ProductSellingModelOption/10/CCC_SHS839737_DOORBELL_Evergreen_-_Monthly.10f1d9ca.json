@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_SHS839737_DOORBELL|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "f5e0a85b-554d-5391-b61b-7da0febc71d8",
+    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "8f5b76c9-17f7-51a3-82db-dee26485ab36",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_SHS839737_MONITORING",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_SHS839737_MONITORING",
+    "GlobalKey__c": "8f5b76c9-17f7-51a3-82db-dee26485ab36",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Monitoring Level",
+    "Name": "SHS839737 MONITORING LEVEL",
+    "Picklist.GlobalKey__c": "9f1d54f2-80c3-5caf-8786-bb89a093c7ae",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
