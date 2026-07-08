@@ -1,0 +1,28 @@
+{
+  "slug": "commsoncore-demo-613542",
+  "name": "Commsoncore Demo 613542",
+  "createdAt": "2026-07-08T08:33:53.653Z",
+  "updatedAt": "2026-07-08T08:33:53.653Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "e014915c-7b72-55ce-a8af-bd228b1e0a70"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/commsoncore-demo-613542"
+}
