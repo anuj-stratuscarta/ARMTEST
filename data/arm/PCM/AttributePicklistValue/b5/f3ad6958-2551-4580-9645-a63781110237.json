@@ -1,0 +1,16 @@
+{
+  "globalKey": "f3ad6958-2551-4580-9645-a63781110237",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_GEH_CHM_PB",
+    "DisplayValue": "PB",
+    "GlobalKey__c": "f3ad6958-2551-4580-9645-a63781110237",
+    "IsDefault": false,
+    "Name": "Lead-Acid",
+    "Picklist.GlobalKey__c": "a03ec6c1-b7c3-5a75-a885-b306cd2023a6",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "PB"
+  }
+}
