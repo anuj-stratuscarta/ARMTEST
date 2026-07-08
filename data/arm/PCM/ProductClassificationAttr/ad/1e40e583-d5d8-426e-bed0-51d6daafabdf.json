@@ -1,0 +1,29 @@
+{
+  "globalKey": "1e40e583-d5d8-426e-bed0-51d6daafabdf",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "83f117ed-9a5b-5367-b8e3-2f2ae9630ffb",
+    "AttributeNameOverride": "SHS153936 BATTERY HOURS",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "1e40e583-d5d8-426e-bed0-51d6daafabdf",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "SHS153936 BATTERY HOURS",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "d772f987-5fe1-5d33-9a5d-ad2b57596358",
+    "Sequence": 20,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
