@@ -1,0 +1,11 @@
+{
+  "globalKey": "94d7c516-2b3a-5c9f-a969-9cf902e77f1c",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_FLT",
+    "GlobalKey__c": "94d7c516-2b3a-5c9f-a969-9cf902e77f1c",
+    "Name": "Fleet Telematics",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

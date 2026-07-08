@@ -1,0 +1,29 @@
+{
+  "globalKey": "093e4316-5dfa-4f9d-a9ef-eeb6fde09374",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "a59961e6-65fb-5433-b0ec-4af7d6009bdd",
+    "AttributeNameOverride": "FLT STORAGE GB",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "093e4316-5dfa-4f9d-a9ef-eeb6fde09374",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "FLT STORAGE GB",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "94d7c516-2b3a-5c9f-a969-9cf902e77f1c",
+    "Sequence": 20,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

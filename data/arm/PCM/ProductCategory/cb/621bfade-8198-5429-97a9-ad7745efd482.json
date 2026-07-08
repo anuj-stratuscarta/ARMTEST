@@ -1,0 +1,14 @@
+{
+  "globalKey": "621bfade-8198-5429-97a9-ad7745efd482",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "2c730de9-642c-5023-80a2-c9f84ac8b935",
+    "Code": "CCC_FLT_CATEGORY",
+    "Description": null,
+    "GlobalKey__c": "621bfade-8198-5429-97a9-ad7745efd482",
+    "IsNavigational": true,
+    "Name": "Vehicle Telematics",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}
