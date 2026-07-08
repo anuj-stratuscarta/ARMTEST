@@ -1,0 +1,16 @@
+{
+  "globalKey": "d7601064-ecc9-4284-a856-2a8598ca907a",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_SHS791219_RES_1080",
+    "DisplayValue": "1080p",
+    "GlobalKey__c": "d7601064-ecc9-4284-a856-2a8598ca907a",
+    "IsDefault": false,
+    "Name": "1080p",
+    "Picklist.GlobalKey__c": "9ca44d01-58a3-5d46-a745-e4ac3d6ed61f",
+    "Sequence": 10,
+    "Status": "Draft",
+    "Value": "1080p"
+  }
+}
