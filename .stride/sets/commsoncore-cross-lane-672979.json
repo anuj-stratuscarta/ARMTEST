@@ -1,0 +1,51 @@
+{
+  "slug": "commsoncore-cross-lane-672979",
+  "name": "Commsoncore Cross-lane 672979",
+  "createdAt": "2026-07-08T21:38:27.519Z",
+  "updatedAt": "2026-07-08T21:38:27.519Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "CommsDemoBundle672979"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "1ae92bfe-f056-5841-8976-1ffedeb6d9c0"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "AttributeDefinition",
+          "AttributePicklist",
+          "AttributePicklistValue",
+          "Pricebook2",
+          "PricebookEntry",
+          "Product2",
+          "ProductCatalog",
+          "ProductCategory",
+          "ProductCategoryProduct",
+          "ProductClassification",
+          "ProductClassificationAttr",
+          "ProductComponentGroup",
+          "ProductRelatedComponent",
+          "ProductRelationshipType",
+          "ProductSellingModel",
+          "ProductSellingModelOption"
+        ]
+      }
+    }
+  },
+  "branch": "feature/commsoncore-cross-lane-672979"
+}
