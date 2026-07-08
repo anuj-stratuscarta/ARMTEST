@@ -1,0 +1,13 @@
+{
+  "globalKey": "fd6bdab9-bcd8-50f1-834c-9b78211279ae",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_SHS103357_CATALOG",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "fd6bdab9-bcd8-50f1-834c-9b78211279ae",
+    "Name": "Smart Home Catalog"
+  }
+}
