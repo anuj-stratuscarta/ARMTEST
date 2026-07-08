@@ -1,0 +1,14 @@
+{
+  "globalKey": "2178fd36-002f-5946-aab5-233a948a7d59",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "b616bf63-d926-5ec5-b07e-ae45ffc010b4",
+    "Code": "CCC_SHS839737_CATEGORY",
+    "Description": null,
+    "GlobalKey__c": "2178fd36-002f-5946-aab5-233a948a7d59",
+    "IsNavigational": true,
+    "Name": "Home Security",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

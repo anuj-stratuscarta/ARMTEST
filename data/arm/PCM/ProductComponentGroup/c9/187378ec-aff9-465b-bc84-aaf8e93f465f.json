@@ -1,0 +1,15 @@
+{
+  "globalKey": "187378ec-aff9-465b-bc84-aaf8e93f465f",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "187378ec-aff9-465b-bc84-aaf8e93f465f",
+    "MaxBundleComponents": 10,
+    "MinBundleComponents": 0,
+    "Name": "Security Components",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "aa757695-052d-5e92-a00c-efc5d5f40693",
+    "Sequence": 10
+  }
+}

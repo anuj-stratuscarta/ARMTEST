@@ -1,0 +1,13 @@
+{
+  "globalKey": "3f4f77cf-c23e-555b-8f52-372f06c1c903",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_SHS839737_RESOLUTION",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "3f4f77cf-c23e-555b-8f52-372f06c1c903",
+    "Name": "SHS839737 Resolution Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
