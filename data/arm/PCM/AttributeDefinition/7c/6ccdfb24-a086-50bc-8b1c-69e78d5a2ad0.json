@@ -1,0 +1,21 @@
+{
+  "globalKey": "6ccdfb24-a086-50bc-8b1c-69e78d5a2ad0",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_SHS839737_RESOLUTION",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_SHS839737_RESOLUTION",
+    "GlobalKey__c": "6ccdfb24-a086-50bc-8b1c-69e78d5a2ad0",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Camera Resolution",
+    "Name": "SHS839737 RESOLUTION",
+    "Picklist.GlobalKey__c": "3f4f77cf-c23e-555b-8f52-372f06c1c903",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
