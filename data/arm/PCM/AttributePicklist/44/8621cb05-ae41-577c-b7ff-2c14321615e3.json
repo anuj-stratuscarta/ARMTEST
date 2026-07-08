@@ -1,0 +1,13 @@
+{
+  "globalKey": "8621cb05-ae41-577c-b7ff-2c14321615e3",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_SHS672979_MONITORING",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "8621cb05-ae41-577c-b7ff-2c14321615e3",
+    "Name": "SHS672979 Monitoring Level Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

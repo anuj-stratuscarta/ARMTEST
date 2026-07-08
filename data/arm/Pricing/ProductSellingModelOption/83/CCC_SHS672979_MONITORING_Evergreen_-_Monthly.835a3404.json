@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_SHS672979_MONITORING|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "e81797c1-fa6d-5e30-88eb-144cf038f798",
+    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

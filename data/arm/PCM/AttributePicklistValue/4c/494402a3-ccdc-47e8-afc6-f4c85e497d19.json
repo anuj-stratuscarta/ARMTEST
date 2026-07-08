@@ -1,0 +1,16 @@
+{
+  "globalKey": "494402a3-ccdc-47e8-afc6-f4c85e497d19",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_SHS672979_RES_2K",
+    "DisplayValue": "2K",
+    "GlobalKey__c": "494402a3-ccdc-47e8-afc6-f4c85e497d19",
+    "IsDefault": false,
+    "Name": "2K",
+    "Picklist.GlobalKey__c": "2715368e-a357-5673-9e34-2b8c0b0b7121",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "2K"
+  }
+}
