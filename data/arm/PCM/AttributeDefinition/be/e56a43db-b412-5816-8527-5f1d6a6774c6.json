@@ -1,0 +1,21 @@
+{
+  "globalKey": "e56a43db-b412-5816-8527-5f1d6a6774c6",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_SHS275836_BATTERY",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_SHS275836_BATTERY",
+    "GlobalKey__c": "e56a43db-b412-5816-8527-5f1d6a6774c6",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Battery Life (hrs)",
+    "Name": "SHS275836 BATTERY HOURS",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
