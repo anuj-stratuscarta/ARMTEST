@@ -1,0 +1,28 @@
+{
+  "slug": "commsoncore-demo-424775",
+  "name": "Commsoncore Demo 424775",
+  "createdAt": "2026-07-08T12:07:19.164Z",
+  "updatedAt": "2026-07-08T12:07:19.164Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "81945e34-c57e-5f9c-a952-9310972ab53e"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/commsoncore-demo-424775"
+}
