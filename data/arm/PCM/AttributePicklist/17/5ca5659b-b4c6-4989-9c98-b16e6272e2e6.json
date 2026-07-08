@@ -1,0 +1,13 @@
+{
+  "globalKey": "5ca5659b-b4c6-4989-9c98-b16e6272e2e6",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_CPE",
+    "DataType": "Text",
+    "Description": "CPE Type",
+    "GlobalKey__c": "5ca5659b-b4c6-4989-9c98-b16e6272e2e6",
+    "Name": "CPE Type Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

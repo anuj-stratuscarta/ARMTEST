@@ -1,0 +1,11 @@
+{
+  "globalKey": "41b1d51c-89d5-43e8-9c0d-83b44ed331cb",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_SHS",
+    "GlobalKey__c": "41b1d51c-89d5-43e8-9c0d-83b44ed331cb",
+    "Name": "Smart Home Security",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

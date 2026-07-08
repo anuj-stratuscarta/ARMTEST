@@ -1,0 +1,10 @@
+{
+  "globalKey": "841238e3-f8bb-4295-9f5a-da0f707ee560",
+  "object": "ProductCategoryProduct",
+  "record": {
+    "GlobalKey__c": "841238e3-f8bb-4295-9f5a-da0f707ee560",
+    "IsPrimaryCategory": false,
+    "Product.GlobalKey__c": "fbcc384e-f40e-4fcc-98f1-3107dbdfc97f",
+    "ProductCategory.GlobalKey__c": "99d280b2-8f0b-44ff-a94d-4e0727ce670c"
+  }
+}

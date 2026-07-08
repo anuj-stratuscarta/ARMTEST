@@ -1,0 +1,29 @@
+{
+  "globalKey": "02a5500c-2200-4671-ad75-27671d3d354a",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "b2b944d0-adf1-4ca8-af90-418c99109b39",
+    "AttributeNameOverride": "SHS MONITORING LEVEL",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "02a5500c-2200-4671-ad75-27671d3d354a",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "SHS MONITORING LEVEL",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "41b1d51c-89d5-43e8-9c0d-83b44ed331cb",
+    "Sequence": 30,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
