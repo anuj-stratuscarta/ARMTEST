@@ -1,0 +1,21 @@
+{
+  "globalKey": "8e5ae356-46a6-4a32-9b7e-f4960bb1506a",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_ULTRA_MESH_NODES",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_ULTRA_MESH_NODES",
+    "GlobalKey__c": "8e5ae356-46a6-4a32-9b7e-f4960bb1506a",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Mesh Nodes",
+    "Name": "ULTRA MESH NODES",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

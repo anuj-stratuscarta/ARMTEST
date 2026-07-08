@@ -1,0 +1,21 @@
+{
+  "globalKey": "157cb542-9859-475d-9ce5-127bfcfa8dc1",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_DOWNLOAD_SPEED",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": "Download Speed",
+    "DeveloperName": "DOWNLOAD_SPEED",
+    "GlobalKey__c": "157cb542-9859-475d-9ce5-127bfcfa8dc1",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Download Speed",
+    "Name": "DOWNLOAD SPEED",
+    "Picklist.GlobalKey__c": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

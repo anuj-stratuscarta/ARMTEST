@@ -1,0 +1,15 @@
+{
+  "globalKey": "e360bed7-f105-4a0e-b926-1910b0651ed1",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "e360bed7-f105-4a0e-b926-1910b0651ed1",
+    "MaxBundleComponents": 10,
+    "MinBundleComponents": 0,
+    "Name": "Ultra Add-ons",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "2a4ef069-70be-49c3-b1cb-ae6652751c47",
+    "Sequence": 10
+  }
+}
