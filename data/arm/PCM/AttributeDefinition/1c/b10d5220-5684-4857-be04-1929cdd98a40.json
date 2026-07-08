@@ -1,0 +1,21 @@
+{
+  "globalKey": "b10d5220-5684-4857-be04-1929cdd98a40",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_UPLOAD_SPEED",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": "Upload Speed",
+    "DeveloperName": "UPLOAD_SPEED",
+    "GlobalKey__c": "b10d5220-5684-4857-be04-1929cdd98a40",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Upload Speed",
+    "Name": "UPLOAD SPEED",
+    "Picklist.GlobalKey__c": "74f70d72-5091-4ce9-964d-8ddc26123041",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

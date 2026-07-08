@@ -1,0 +1,16 @@
+{
+  "globalKey": "5d097c21-9bbf-4644-9af9-c65e1c5c5595",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "DOWNSP1000",
+    "Code": "CCC_PKLVAL_DOWNLOAD_SPEED_1000",
+    "DisplayValue": "1000 MBPS",
+    "GlobalKey__c": "5d097c21-9bbf-4644-9af9-c65e1c5c5595",
+    "IsDefault": false,
+    "Name": "Download Speed 1000",
+    "Picklist.GlobalKey__c": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+    "Sequence": 40,
+    "Status": "Active",
+    "Value": "1000"
+  }
+}

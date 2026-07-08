@@ -1,0 +1,15 @@
+{
+  "globalKey": "cce59397-851b-427e-9ca3-ae9d42430168",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "cce59397-851b-427e-9ca3-ae9d42430168",
+    "MaxBundleComponents": 10,
+    "MinBundleComponents": 0,
+    "Name": "Security Components",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "ff46bc19-d58e-5e57-a537-8ca8c34c22ab",
+    "Sequence": 10
+  }
+}
