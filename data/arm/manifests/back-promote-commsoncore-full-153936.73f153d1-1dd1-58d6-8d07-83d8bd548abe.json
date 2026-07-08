@@ -567,7 +567,7 @@
     {
       "displayLabel": "Home Security ↔ Smart Home Security Bundle ↔ Smart Home Catalog",
       "globalKey": "d1191a0a-64b1-5e55-bdbe-8d57dde6e368",
-      "label": "00000035",
+      "label": "00000036",
       "object": "ProductCategoryProduct"
     },
     {
@@ -598,19 +598,19 @@
     {
       "displayLabel": "Smart Doorbell Camera ↔ Smart Home Security Bundle ↔ Security Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "979a555e-7307-4538-8ba1-0dfa58b99872",
-      "label": "PRC-000000090",
+      "label": "PRC-000000094",
       "object": "ProductRelatedComponent"
     },
     {
       "displayLabel": "24/7 Pro Monitoring ↔ Smart Home Security Bundle ↔ Security Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "afb87fca-6228-459e-85f7-5cfb48dbc7a4",
-      "label": "PRC-000000092",
+      "label": "PRC-000000093",
       "object": "ProductRelatedComponent"
     },
     {
       "displayLabel": "Motion Sensor Kit ↔ Smart Home Security Bundle ↔ Security Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "f426b9e5-05fb-4a7b-a1a6-9fffb115a88f",
-      "label": "PRC-000000091",
+      "label": "PRC-000000095",
       "object": "ProductRelatedComponent"
     },
     {
