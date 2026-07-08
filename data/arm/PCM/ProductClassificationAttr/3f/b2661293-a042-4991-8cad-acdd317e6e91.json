@@ -1,0 +1,29 @@
+{
+  "globalKey": "b2661293-a042-4991-8cad-acdd317e6e91",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "8e34e052-130f-5c99-9cb9-96fe4adca044",
+    "AttributeNameOverride": "SHS791219 MONITORING LEVEL",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "b2661293-a042-4991-8cad-acdd317e6e91",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "SHS791219 MONITORING LEVEL",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "a15130db-c630-55e0-b4a5-78656de5dd02",
+    "Sequence": 30,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
