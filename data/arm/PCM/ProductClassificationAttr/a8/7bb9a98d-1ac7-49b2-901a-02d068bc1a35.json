@@ -1,0 +1,29 @@
+{
+  "globalKey": "7bb9a98d-1ac7-49b2-901a-02d068bc1a35",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "5c70aa85-0b85-5197-a9ca-3a0401c4244d",
+    "AttributeNameOverride": "FLT CONNECTIVITY",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "7bb9a98d-1ac7-49b2-901a-02d068bc1a35",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "FLT CONNECTIVITY",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "94d7c516-2b3a-5c9f-a969-9cf902e77f1c",
+    "Sequence": 10,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

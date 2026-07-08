@@ -1,0 +1,13 @@
+{
+  "globalKey": "44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_FLT_REFRESH",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01",
+    "Name": "FLT Refresh Rate Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

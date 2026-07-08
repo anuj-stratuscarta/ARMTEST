@@ -1,0 +1,16 @@
+{
+  "globalKey": "cfb434ef-bd52-4768-89d9-a717bdaee427",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_FLT_CON_5G",
+    "DisplayValue": "5G",
+    "GlobalKey__c": "cfb434ef-bd52-4768-89d9-a717bdaee427",
+    "IsDefault": false,
+    "Name": "5G",
+    "Picklist.GlobalKey__c": "e641a373-02e7-5dcf-a294-0d85b6f5d930",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "5G"
+  }
+}

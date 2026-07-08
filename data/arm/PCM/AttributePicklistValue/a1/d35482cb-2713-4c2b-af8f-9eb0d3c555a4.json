@@ -1,0 +1,16 @@
+{
+  "globalKey": "d35482cb-2713-4c2b-af8f-9eb0d3c555a4",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_SHS672979_MON_AST",
+    "DisplayValue": "Assisted",
+    "GlobalKey__c": "d35482cb-2713-4c2b-af8f-9eb0d3c555a4",
+    "IsDefault": false,
+    "Name": "Assisted",
+    "Picklist.GlobalKey__c": "8621cb05-ae41-577c-b7ff-2c14321615e3",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "Assisted"
+  }
+}

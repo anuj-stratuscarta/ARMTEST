@@ -1,0 +1,29 @@
+{
+  "globalKey": "0b7f1092-6ca9-4420-a764-0bf28083a09f",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "58927178-dc7c-58f8-b934-395dbfb96f81",
+    "AttributeNameOverride": "GEH WARRANTY",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "0b7f1092-6ca9-4420-a764-0bf28083a09f",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "GEH WARRANTY",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "231fec68-ade8-54ff-85e4-8d4b75e60c76",
+    "Sequence": 30,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

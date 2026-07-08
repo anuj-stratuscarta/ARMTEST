@@ -1,0 +1,14 @@
+{
+  "globalKey": "e8f7b463-d1cf-585a-90f8-7c3f7717775c",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "72b23158-de5a-5d55-87c4-512e53dade7d",
+    "Code": "CCC_GEH_CATEGORY",
+    "Description": null,
+    "GlobalKey__c": "e8f7b463-d1cf-585a-90f8-7c3f7717775c",
+    "IsNavigational": true,
+    "Name": "Home Energy",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}
