@@ -1,0 +1,21 @@
+{
+  "globalKey": "a59961e6-65fb-5433-b0ec-4af7d6009bdd",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_FLT_STORAGE",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_FLT_STORAGE",
+    "GlobalKey__c": "a59961e6-65fb-5433-b0ec-4af7d6009bdd",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Onboard Storage (GB)",
+    "Name": "FLT STORAGE GB",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

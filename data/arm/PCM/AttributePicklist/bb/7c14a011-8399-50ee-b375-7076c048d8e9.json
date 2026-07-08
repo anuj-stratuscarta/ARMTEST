@@ -1,0 +1,13 @@
+{
+  "globalKey": "7c14a011-8399-50ee-b375-7076c048d8e9",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_GEH_WARRANTY",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "7c14a011-8399-50ee-b375-7076c048d8e9",
+    "Name": "GEH Warranty Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

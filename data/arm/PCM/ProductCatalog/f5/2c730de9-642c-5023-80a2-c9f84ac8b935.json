@@ -1,0 +1,13 @@
+{
+  "globalKey": "2c730de9-642c-5023-80a2-c9f84ac8b935",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_FLT_CATALOG",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "2c730de9-642c-5023-80a2-c9f84ac8b935",
+    "Name": "Fleet Solutions Catalog"
+  }
+}

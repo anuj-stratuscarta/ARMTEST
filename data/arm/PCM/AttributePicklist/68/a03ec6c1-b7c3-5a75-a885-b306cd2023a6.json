@@ -1,0 +1,13 @@
+{
+  "globalKey": "a03ec6c1-b7c3-5a75-a885-b306cd2023a6",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_GEH_CHEMISTRY",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "a03ec6c1-b7c3-5a75-a885-b306cd2023a6",
+    "Name": "GEH Battery Chemistry Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

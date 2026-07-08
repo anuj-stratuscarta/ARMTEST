@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_GEH_PANEL|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "570d4c1f-1e91-5227-a798-ed6b8397c176",
+    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "58927178-dc7c-58f8-b934-395dbfb96f81",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_GEH_WARRANTY",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_GEH_WARRANTY",
+    "GlobalKey__c": "58927178-dc7c-58f8-b934-395dbfb96f81",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Warranty Period",
+    "Name": "GEH WARRANTY",
+    "Picklist.GlobalKey__c": "7c14a011-8399-50ee-b375-7076c048d8e9",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
