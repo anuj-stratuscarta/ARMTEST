@@ -567,7 +567,7 @@
     {
       "displayLabel": "Vehicle Telematics ↔ Fleet Telematics Bundle ↔ Fleet Solutions Catalog",
       "globalKey": "da093310-71e7-5911-b698-3ae0cb703c92",
-      "label": "00000037",
+      "label": "00000047",
       "object": "ProductCategoryProduct"
     },
     {
@@ -598,19 +598,19 @@
     {
       "displayLabel": "OBD-II Diagnostic Dongle ↔ Fleet Telematics Bundle ↔ Telematics Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "06edbdc5-e752-47ce-9061-228dc9fd09ef",
-      "label": "PRC-000000097",
+      "label": "PRC-000000115",
       "object": "ProductRelatedComponent"
     },
     {
       "displayLabel": "GPS Fleet Tracker ↔ Fleet Telematics Bundle ↔ Telematics Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "2ab2c08f-97c3-430c-ab7f-73de5ecbfff1",
-      "label": "PRC-000000096",
+      "label": "PRC-000000114",
       "object": "ProductRelatedComponent"
     },
     {
       "displayLabel": "AI Dashcam Pro ↔ Fleet Telematics Bundle ↔ Telematics Components ↔ Bundle to Bundle Component Relationship",
       "globalKey": "94137c7c-9a74-47a8-bfdc-c893f19a14e0",
-      "label": "PRC-000000098",
+      "label": "PRC-000000116",
       "object": "ProductRelatedComponent"
     },
     {
