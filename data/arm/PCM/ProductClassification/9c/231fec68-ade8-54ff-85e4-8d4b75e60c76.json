@@ -1,0 +1,11 @@
+{
+  "globalKey": "231fec68-ade8-54ff-85e4-8d4b75e60c76",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_GEH",
+    "GlobalKey__c": "231fec68-ade8-54ff-85e4-8d4b75e60c76",
+    "Name": "Green Energy Home",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

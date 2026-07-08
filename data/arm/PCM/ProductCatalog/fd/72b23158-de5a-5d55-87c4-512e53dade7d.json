@@ -1,0 +1,13 @@
+{
+  "globalKey": "72b23158-de5a-5d55-87c4-512e53dade7d",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_GEH_CATALOG",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "72b23158-de5a-5d55-87c4-512e53dade7d",
+    "Name": "Green Energy Catalog"
+  }
+}
