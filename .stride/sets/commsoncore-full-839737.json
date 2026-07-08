@@ -1,0 +1,43 @@
+{
+  "slug": "commsoncore-full-839737",
+  "name": "Commsoncore Full 839737",
+  "createdAt": "2026-07-08T12:31:16.047Z",
+  "updatedAt": "2026-07-08T12:31:16.047Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "aa757695-052d-5e92-a00c-efc5d5f40693"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "AttributeDefinition",
+          "AttributePicklist",
+          "AttributePicklistValue",
+          "Pricebook2",
+          "PricebookEntry",
+          "Product2",
+          "ProductCatalog",
+          "ProductCategory",
+          "ProductCategoryProduct",
+          "ProductClassification",
+          "ProductClassificationAttr",
+          "ProductComponentGroup",
+          "ProductRelatedComponent",
+          "ProductRelationshipType",
+          "ProductSellingModel",
+          "ProductSellingModelOption"
+        ]
+      }
+    }
+  },
+  "branch": "feature/commsoncore-full-839737"
+}
