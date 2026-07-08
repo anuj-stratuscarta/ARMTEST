@@ -1,0 +1,29 @@
+{
+  "globalKey": "74cb8410-4755-4a2a-a744-60b26c93dd05",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "ae19a714-8418-4502-9f2d-f15df7a55778",
+    "AttributeDefinition.GlobalKey__c": "397e5689-becb-401c-b555-66bf46166036",
+    "AttributeNameOverride": "CPE TYPE",
+    "DefaultValue": null,
+    "Description": "CPE Type",
+    "DisplayType": null,
+    "GlobalKey__c": "74cb8410-4755-4a2a-a744-60b26c93dd05",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "CPE TYPE",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "d67f4946-9892-415a-b83d-c9e76c8b01d9",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

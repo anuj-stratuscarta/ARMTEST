@@ -1,0 +1,13 @@
+{
+  "globalKey": "098c1698-de97-4493-817b-d1dcb0727aa1",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "AS001",
+    "Description": "This catalog covers all the Ancillary services/products such as Home Security, Configuration Support, Cloud Services etc.",
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "098c1698-de97-4493-817b-d1dcb0727aa1",
+    "Name": "Ancillary Services"
+  }
+}

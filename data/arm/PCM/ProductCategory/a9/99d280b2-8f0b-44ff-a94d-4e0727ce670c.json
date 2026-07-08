@@ -1,0 +1,14 @@
+{
+  "globalKey": "99d280b2-8f0b-44ff-a94d-4e0727ce670c",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "dc9deb26-066b-4d6f-9a75-2a4cd65403f5",
+    "Code": "CCC_CAT_ULTRA_ADDONS",
+    "Description": null,
+    "GlobalKey__c": "99d280b2-8f0b-44ff-a94d-4e0727ce670c",
+    "IsNavigational": true,
+    "Name": "Ultra Add-ons Test",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}
