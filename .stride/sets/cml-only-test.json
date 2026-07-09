@@ -1,0 +1,19 @@
+{
+  "slug": "cml-only-test",
+  "name": "cml only test",
+  "createdAt": "2026-07-09T12:29:24.995Z",
+  "updatedAt": "2026-07-09T12:29:24.995Z",
+  "version": 1,
+  "lanes": {
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fiber_Platinum_Config",
+          "developerName": "Fiber_Platinum_Config_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/cml-only-test"
+}
