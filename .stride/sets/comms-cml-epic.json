@@ -1,0 +1,19 @@
+{
+  "slug": "comms-cml-epic",
+  "name": "comms cml epic",
+  "createdAt": "2026-07-09T19:17:39.783Z",
+  "updatedAt": "2026-07-09T19:17:39.783Z",
+  "version": 1,
+  "lanes": {
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fiber_Platinum_Config",
+          "developerName": "Fiber_Platinum_Config_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/comms-cml-epic"
+}
