@@ -1,0 +1,19 @@
+{
+  "slug": "test-cml",
+  "name": "TEST_CML",
+  "createdAt": "2026-07-09T14:51:27.902Z",
+  "updatedAt": "2026-07-09T14:51:27.902Z",
+  "version": 1,
+  "lanes": {
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fiber_Platinum_Config",
+          "developerName": "Fiber_Platinum_Config_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/test-cml"
+}
