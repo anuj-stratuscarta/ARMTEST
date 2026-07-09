@@ -1,0 +1,16 @@
+{
+  "globalKey": "347e66ed-786c-4b7e-b799-8ff3193906ae",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_GEH_WRT_10",
+    "DisplayValue": "10y",
+    "GlobalKey__c": "347e66ed-786c-4b7e-b799-8ff3193906ae",
+    "IsDefault": false,
+    "Name": "10 Years",
+    "Picklist.GlobalKey__c": "7c14a011-8399-50ee-b375-7076c048d8e9",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "10y"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "globalKey": "443a15fd-5209-4e08-ad97-5f9f6faf2232",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_GEH_CHM_LFP",
+    "DisplayValue": "LFP",
+    "GlobalKey__c": "443a15fd-5209-4e08-ad97-5f9f6faf2232",
+    "IsDefault": false,
+    "Name": "LiFePO4",
+    "Picklist.GlobalKey__c": "a03ec6c1-b7c3-5a75-a885-b306cd2023a6",
+    "Sequence": 10,
+    "Status": "Draft",
+    "Value": "LFP"
+  }
+}

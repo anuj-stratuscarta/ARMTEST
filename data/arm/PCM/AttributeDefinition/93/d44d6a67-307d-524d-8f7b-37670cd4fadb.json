@@ -1,0 +1,21 @@
+{
+  "globalKey": "d44d6a67-307d-524d-8f7b-37670cd4fadb",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_GEH_CHEMISTRY",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_GEH_CHEMISTRY",
+    "GlobalKey__c": "d44d6a67-307d-524d-8f7b-37670cd4fadb",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Battery Chemistry",
+    "Name": "GEH CHEMISTRY",
+    "Picklist.GlobalKey__c": "a03ec6c1-b7c3-5a75-a885-b306cd2023a6",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
