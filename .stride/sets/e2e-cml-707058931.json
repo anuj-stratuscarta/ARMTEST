@@ -1,0 +1,19 @@
+{
+  "slug": "e2e-cml-707058931",
+  "name": "E2E CML 707058931",
+  "createdAt": "2026-07-10T18:11:05.348Z",
+  "updatedAt": "2026-07-10T18:11:05.348Z",
+  "version": 1,
+  "lanes": {
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fiber_Platinum_Config",
+          "developerName": "Fiber_Platinum_Config_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-cml-707058931"
+}
