@@ -19,9 +19,9 @@ public with sharing class StrideMergeDemo {
     // ---- discount (CONFLICT: edited by both Dev and SIT) ----
     public static Decimal calculateDiscount(Integer qty, String tier) {
         Decimal rate = 0.00;
-        if (qty >= 200) rate = 0.15;
-        else if (qty >= 100) rate = 0.10;
-        else if (qty >= 50) rate = 0.05;
+        if (tier == 'platinum') rate = 0.20;
+        else if (qty >= 100) rate = 0.12;
+        else if (qty >= 50) rate = 0.06;
         return rate;
     }
 
@@ -40,6 +40,13 @@ public with sharing class StrideMergeDemo {
         Decimal discount = calculateDiscount(qty, tier);
         Decimal taxed = computeTax(subtotal);
         return subtotal - (subtotal * discount) + taxed;
+    }
+
+    // ---- loyalty (Dev adds this; auto-merges as an insertion) ----
+    public static Decimal applyLoyaltyBonus(Decimal total, Integer years) {
+        if (years >= 5) return total * 0.95;
+        if (years >= 2) return total * 0.98;
+        return total;
     }
 
     // ---- formatting (identical on every branch) ----
