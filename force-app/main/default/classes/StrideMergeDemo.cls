@@ -27,7 +27,7 @@ public with sharing class StrideMergeDemo {
 
     // ---- tax (SIT edits the rate; auto-merges) ----
     public static Decimal computeTax(Decimal amount) {
-        return amount * 0.05;
+        return amount * 0.07;
     }
 
     // ---- totals (identical on every branch) ----
