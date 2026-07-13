@@ -19,14 +19,15 @@ public with sharing class StrideMergeDemo {
     // ---- discount (CONFLICT: edited by both Dev and SIT) ----
     public static Decimal calculateDiscount(Integer qty, String tier) {
         Decimal rate = 0.00;
-        if (qty >= 100) rate = 0.10;
+        if (qty >= 200) rate = 0.15;
+        else if (qty >= 100) rate = 0.10;
         else if (qty >= 50) rate = 0.05;
         return rate;
     }
 
     // ---- tax (SIT edits the rate; auto-merges) ----
     public static Decimal computeTax(Decimal amount) {
-        return amount * 0.05;
+        return amount * 0.07;
     }
 
     // ---- totals (identical on every branch) ----
