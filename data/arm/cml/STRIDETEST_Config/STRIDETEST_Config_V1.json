@@ -1,0 +1,32 @@
+{
+  "developerName": "STRIDETEST_Config_V1",
+  "esdDeveloperName": "STRIDETEST_Config",
+  "versionNumber": 1,
+  "expressionSet": {
+    "apiName": "STRIDETEST_Config",
+    "name": "STRIDE Test Config",
+    "description": null,
+    "interfaceSourceType": null,
+    "resourceInitializationType": null,
+    "usageType": "Constraint"
+  },
+  "contextDefinitionApiName": "SalesTransactionContextExt_256",
+  "constraints": [],
+  "attributeRefs": [
+    {
+      "developerName": "STRIDETEST_BANDWIDTH",
+      "code": "STRIDETEST_BANDWIDTH",
+      "globalKey": "7342ebe2-a555-4007-9add-983a8af00912"
+    },
+    {
+      "developerName": "STRIDETEST_NOCODE",
+      "code": null,
+      "globalKey": "cea803d1-4b20-42ac-9a4b-ec0ca64df550"
+    },
+    {
+      "developerName": "STRIDETEST_SPEED",
+      "code": "STRIDETEST_SPEED",
+      "globalKey": "211f66ff-6f1a-48a0-af44-ad1689855ece"
+    }
+  ]
+}
