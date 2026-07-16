@@ -1,0 +1,19 @@
+{
+  "slug": "e2e-pricing-mh-213770487",
+  "name": "E2E Pricing MH 213770487",
+  "createdAt": "2026-07-16T14:56:22.003Z",
+  "updatedAt": "2026-07-16T14:56:22.003Z",
+  "version": 1,
+  "lanes": {
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure",
+          "usageType": "DefaultPricing",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-pricing-mh-213770487"
+}
