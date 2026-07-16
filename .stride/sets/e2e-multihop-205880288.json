@@ -1,0 +1,19 @@
+{
+  "slug": "e2e-multihop-205880288",
+  "name": "E2E Multihop 205880288",
+  "createdAt": "2026-07-16T12:44:46.878Z",
+  "updatedAt": "2026-07-16T12:44:46.878Z",
+  "version": 1,
+  "lanes": {
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "STRIDETEST_Config",
+          "developerName": "STRIDETEST_Config_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-multihop-205880288"
+}
