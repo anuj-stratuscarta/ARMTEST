@@ -8,7 +8,7 @@
     <versions>
         <fullName>Rev_Mgmt_Default_Pricing_Procedure_V1</fullName>
         <decimalScale>2</decimalScale>
-        <description>Comms on core pricing procedure for 256 release</description>
+        <description>Comms on core pricing procedure for 256 release [STRIDE-CHG-215068080]</description>
         <expressionSetDefinition>Rev_Mgmt_Default_Pricing_Procedure</expressionSetDefinition>
         <interfaceSourceType>PricingProcedure</interfaceSourceType>
         <label>CommsOnCorePricingProcedure_256</label>
