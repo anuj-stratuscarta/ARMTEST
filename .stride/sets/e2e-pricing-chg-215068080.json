@@ -1,0 +1,19 @@
+{
+  "slug": "e2e-pricing-chg-215068080",
+  "name": "E2E Pricing Chg 215068080",
+  "createdAt": "2026-07-16T15:17:58.562Z",
+  "updatedAt": "2026-07-16T15:17:58.562Z",
+  "version": 1,
+  "lanes": {
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure",
+          "usageType": "DefaultPricing",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-pricing-chg-215068080"
+}
