@@ -1,0 +1,33 @@
+{
+  "component": "sweep-attributedefinition",
+  "componentGlobalKey": "397e5689-becb-401c-b555-66bf46166036",
+  "componentObject": "AttributeDefinition",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:397e5689-becb-401c-b555-66bf46166036",
+      "required": false,
+      "to": "AttributePicklist:5ca5659b-b4c6-4989-9c98-b16e6272e2e6"
+    }
+  ],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "397e5689-becb-401c-b555-66bf46166036",
+      "label": "CPE TYPE",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "5ca5659b-b4c6-4989-9c98-b16e6272e2e6",
+      "label": "CPE Type Picklist",
+      "object": "AttributePicklist"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "397e5689-becb-401c-b555-66bf46166036",
+      "object": "AttributeDefinition"
+    }
+  ]
+}
