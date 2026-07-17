@@ -1,0 +1,14 @@
+{
+  "globalKey": "c8901125-8a80-4738-b5d2-1058f8f7a2a0",
+  "object": "PricebookEntry",
+  "record": {
+    "GlobalKey__c": "c8901125-8a80-4738-b5d2-1058f8f7a2a0",
+    "IsActive": true,
+    "IsDerived": false,
+    "Pricebook2.GlobalKey__c": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+    "Product2.GlobalKey__c": "c7ed6008-9688-4909-b5c3-ed419dd65536",
+    "ProductSellingModel.GlobalKey__c": "c1d510f8-2e52-404b-bc11-df4c4d486dbf",
+    "UnitPrice": 15.99,
+    "UseStandardPrice": false
+  }
+}

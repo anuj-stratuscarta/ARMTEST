@@ -1,0 +1,13 @@
+{
+  "globalKey": "2c5bf017-83cf-44ef-80c8-d9627a5c8aab",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_HO_CATALOG",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "2c5bf017-83cf-44ef-80c8-d9627a5c8aab",
+    "Name": "Home Office Catalog"
+  }
+}

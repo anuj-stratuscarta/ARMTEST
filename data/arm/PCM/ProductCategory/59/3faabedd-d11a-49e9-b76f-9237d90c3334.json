@@ -1,0 +1,14 @@
+{
+  "globalKey": "3faabedd-d11a-49e9-b76f-9237d90c3334",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "2c5bf017-83cf-44ef-80c8-d9627a5c8aab",
+    "Code": "CCC_HO_CAT_CONN",
+    "Description": null,
+    "GlobalKey__c": "3faabedd-d11a-49e9-b76f-9237d90c3334",
+    "IsNavigational": true,
+    "Name": "Connectivity",
+    "ParentCategory.GlobalKey__c": "ab6b4f75-1b48-45b7-97bb-f6e6765d346a",
+    "SortOrder": null
+  }
+}

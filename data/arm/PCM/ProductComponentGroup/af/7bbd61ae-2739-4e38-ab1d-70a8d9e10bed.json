@@ -1,0 +1,15 @@
+{
+  "globalKey": "7bbd61ae-2739-4e38-ab1d-70a8d9e10bed",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "HW-01",
+    "Description": null,
+    "GlobalKey__c": "7bbd61ae-2739-4e38-ab1d-70a8d9e10bed",
+    "MaxBundleComponents": null,
+    "MinBundleComponents": null,
+    "Name": "Hardware",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "5f6f066c-ff94-4bea-b9fa-11aac9c24564",
+    "Sequence": null
+  }
+}

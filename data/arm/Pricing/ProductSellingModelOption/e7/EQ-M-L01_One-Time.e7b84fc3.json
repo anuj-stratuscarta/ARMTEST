@@ -1,0 +1,10 @@
+{
+  "globalKey": "EQ-M-L01|One-Time",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "7026a434-e5ea-42a5-bb14-e90200f36cc0",
+    "ProductSellingModel.GlobalKey__c": "c1d510f8-2e52-404b-bc11-df4c4d486dbf",
+    "ProrationPolicy": null
+  }
+}

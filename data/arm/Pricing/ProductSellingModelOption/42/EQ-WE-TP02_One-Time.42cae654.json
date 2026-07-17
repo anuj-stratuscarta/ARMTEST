@@ -1,0 +1,10 @@
+{
+  "globalKey": "EQ-WE-TP02|One-Time",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "fe20046f-30e8-4ee6-9562-2178a320678f",
+    "ProductSellingModel.GlobalKey__c": "c1d510f8-2e52-404b-bc11-df4c4d486dbf",
+    "ProrationPolicy": null
+  }
+}
