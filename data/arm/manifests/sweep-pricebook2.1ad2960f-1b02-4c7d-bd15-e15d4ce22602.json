@@ -1,0 +1,20 @@
+{
+  "component": "sweep-pricebook2",
+  "componentGlobalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+  "componentObject": "Pricebook2",
+  "edges": [],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+      "label": "Standard Price Book",
+      "object": "Pricebook2"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+      "object": "Pricebook2"
+    }
+  ]
+}
