@@ -1,0 +1,40 @@
+{
+  "component": "sweep-productcatalog",
+  "componentGlobalKey": "47ebed7d-9210-4761-ad41-22cb1f709b51",
+  "componentObject": "ProductCatalog",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "CatalogId",
+      "from": "ProductCategory:39717d39-6343-4916-b015-75d531d03201",
+      "required": true,
+      "to": "ProductCatalog:47ebed7d-9210-4761-ad41-22cb1f709b51"
+    },
+    {
+      "direction": "reverse",
+      "field": "CatalogId",
+      "from": "ProductCategory:39717d39-6343-4916-b015-75d531d03201",
+      "required": true,
+      "to": "ProductCatalog:47ebed7d-9210-4761-ad41-22cb1f709b51"
+    }
+  ],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "47ebed7d-9210-4761-ad41-22cb1f709b51",
+      "label": "BroadBand Catalog",
+      "object": "ProductCatalog"
+    },
+    {
+      "globalKey": "39717d39-6343-4916-b015-75d531d03201",
+      "label": "Fiber Broadband",
+      "object": "ProductCategory"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "47ebed7d-9210-4761-ad41-22cb1f709b51",
+      "object": "ProductCatalog"
+    }
+  ]
+}
