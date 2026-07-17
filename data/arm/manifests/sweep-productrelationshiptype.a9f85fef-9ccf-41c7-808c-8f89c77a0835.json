@@ -1,0 +1,20 @@
+{
+  "component": "sweep-productrelationshiptype",
+  "componentGlobalKey": "a9f85fef-9ccf-41c7-808c-8f89c77a0835",
+  "componentObject": "ProductRelationshipType",
+  "edges": [],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "a9f85fef-9ccf-41c7-808c-8f89c77a0835",
+      "label": "Bundle to Bundle Component Relationship",
+      "object": "ProductRelationshipType"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "a9f85fef-9ccf-41c7-808c-8f89c77a0835",
+      "object": "ProductRelationshipType"
+    }
+  ]
+}
