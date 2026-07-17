@@ -1,0 +1,91 @@
+{
+  "component": "sweep-productclassification",
+  "componentGlobalKey": "29fd79ee-0bd9-42e4-b96a-70d494b73b87",
+  "componentObject": "ProductClassification",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "required": true,
+      "to": "AttributeCategory:84e30128-873a-4577-919b-959c8a413b8f"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "required": true,
+      "to": "AttributeCategory:84e30128-873a-4577-919b-959c8a413b8f"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "required": true,
+      "to": "AttributeDefinition:c5a43597-3a8d-4bc1-9123-9306ee7206e3"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": false,
+      "to": "AttributeCategory:84e30128-873a-4577-919b-959c8a413b8f"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": true,
+      "to": "AttributeDefinition:c5a43597-3a8d-4bc1-9123-9306ee7206e3"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": true,
+      "to": "ProductClassification:29fd79ee-0bd9-42e4-b96a-70d494b73b87"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": true,
+      "to": "ProductClassification:29fd79ee-0bd9-42e4-b96a-70d494b73b87"
+    }
+  ],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "84e30128-873a-4577-919b-959c8a413b8f",
+      "label": "STATIC IP",
+      "object": "AttributeCategory"
+    },
+    {
+      "displayLabel": "STATIC IP",
+      "globalKey": "5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "label": "ACA-0000001",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "globalKey": "c5a43597-3a8d-4bc1-9123-9306ee7206e3",
+      "label": "STATIC IP",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "29fd79ee-0bd9-42e4-b96a-70d494b73b87",
+      "label": "Static IP",
+      "object": "ProductClassification"
+    },
+    {
+      "globalKey": "838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "label": "STATIC IP",
+      "object": "ProductClassificationAttr"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "29fd79ee-0bd9-42e4-b96a-70d494b73b87",
+      "object": "ProductClassification"
+    }
+  ]
+}
