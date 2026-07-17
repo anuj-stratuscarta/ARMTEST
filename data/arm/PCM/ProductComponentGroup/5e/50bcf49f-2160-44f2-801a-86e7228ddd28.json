@@ -1,0 +1,15 @@
+{
+  "globalKey": "50bcf49f-2160-44f2-801a-86e7228ddd28",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "50bcf49f-2160-44f2-801a-86e7228ddd28",
+    "MaxBundleComponents": null,
+    "MinBundleComponents": null,
+    "Name": "Hardware",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "784f188d-9d5f-4953-b4c9-4789c6f53bb1",
+    "Sequence": null
+  }
+}

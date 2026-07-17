@@ -1,0 +1,24 @@
+{
+  "globalKey": "de4a67ad-7518-4d60-8423-2278db630520",
+  "object": "ProductRelatedComponent",
+  "record": {
+    "ChildProduct.GlobalKey__c": "4d171e11-3d48-46df-aa2a-67f14f70a22d",
+    "ChildProductClassification": null,
+    "ChildSellingModel": null,
+    "DoesBundlePriceIncludeChild": true,
+    "GlobalKey__c": "de4a67ad-7518-4d60-8423-2278db630520",
+    "IsComponentRequired": false,
+    "IsDefaultComponent": true,
+    "IsQuantityEditable": false,
+    "MaxQuantity": null,
+    "MinQuantity": null,
+    "ParentProduct.GlobalKey__c": "784f188d-9d5f-4953-b4c9-4789c6f53bb1",
+    "ParentSellingModel": null,
+    "ProductComponentGroup.GlobalKey__c": "8d3c13b4-c860-42cf-8d33-bdbef1cc96ef",
+    "ProductRelationshipType.GlobalKey__c": "a9f85fef-9ccf-41c7-808c-8f89c77a0835",
+    "Quantity": 1,
+    "QuantityScaleMethod": "Proportional",
+    "QuoteVisibility": "Always",
+    "Sequence": null
+  }
+}

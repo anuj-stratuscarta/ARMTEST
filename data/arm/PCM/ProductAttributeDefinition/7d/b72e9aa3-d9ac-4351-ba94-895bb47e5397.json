@@ -1,0 +1,31 @@
+{
+  "globalKey": "b72e9aa3-d9ac-4351-ba94-895bb47e5397",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "cce3052b-7e73-4e31-916e-cb83dac51870",
+    "AttributeDefinition.GlobalKey__c": "b10d5220-5684-4857-be04-1929cdd98a40",
+    "AttributeNameOverride": "UPLOAD SPEED",
+    "DefaultValue": "1000",
+    "Description": "Upload Speed",
+    "DisplayType": "RadioButton",
+    "GlobalKey__c": "b72e9aa3-d9ac-4351-ba94-895bb47e5397",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "UPLOAD SPEED",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "Product2.GlobalKey__c": "784f188d-9d5f-4953-b4c9-4789c6f53bb1",
+    "ProductClassificationAttribute.GlobalKey__c": "fb17a8ef-9853-4787-ab7c-8023e0dde500",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

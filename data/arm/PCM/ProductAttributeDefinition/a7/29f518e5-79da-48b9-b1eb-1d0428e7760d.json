@@ -1,0 +1,31 @@
+{
+  "globalKey": "29f518e5-79da-48b9-b1eb-1d0428e7760d",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "7801cffd-c8f5-43f4-bd4f-69ccf3190fe3",
+    "AttributeNameOverride": "Data Limit",
+    "DefaultValue": "Unlimited",
+    "Description": "Data limit/cap",
+    "DisplayType": "Text",
+    "GlobalKey__c": "29f518e5-79da-48b9-b1eb-1d0428e7760d",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Data Limit",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "Product2.GlobalKey__c": "784f188d-9d5f-4953-b4c9-4789c6f53bb1",
+    "ProductClassificationAttribute.GlobalKey__c": "90bd7ea4-3cda-40fc-9f13-55fc603c868e",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

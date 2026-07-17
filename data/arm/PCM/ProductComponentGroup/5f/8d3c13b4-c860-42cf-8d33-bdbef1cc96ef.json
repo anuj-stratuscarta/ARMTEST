@@ -1,0 +1,15 @@
+{
+  "globalKey": "8d3c13b4-c860-42cf-8d33-bdbef1cc96ef",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "8d3c13b4-c860-42cf-8d33-bdbef1cc96ef",
+    "MaxBundleComponents": null,
+    "MinBundleComponents": null,
+    "Name": "Ancillary Services",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "784f188d-9d5f-4953-b4c9-4789c6f53bb1",
+    "Sequence": null
+  }
+}
