@@ -1,0 +1,41 @@
+{
+  "component": "sweep-priceadjustmentschedule",
+  "componentGlobalKey": "54308087-d44c-46de-a517-1daa6b024a2e",
+  "componentObject": "PriceAdjustmentSchedule",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PriceAdjustmentSchedule:54308087-d44c-46de-a517-1daa6b024a2e",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "54308087-d44c-46de-a517-1daa6b024a2e",
+      "fromObject": "PriceAdjustmentSchedule",
+      "reason": "unkeyed-required",
+      "ref": "ContractId",
+      "targetObject": "Contract"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "54308087-d44c-46de-a517-1daa6b024a2e",
+      "label": "Standard Price Adjustment Tier",
+      "object": "PriceAdjustmentSchedule"
+    },
+    {
+      "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+      "label": "Standard Price Book",
+      "object": "Pricebook2"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "54308087-d44c-46de-a517-1daa6b024a2e",
+      "object": "PriceAdjustmentSchedule"
+    }
+  ]
+}

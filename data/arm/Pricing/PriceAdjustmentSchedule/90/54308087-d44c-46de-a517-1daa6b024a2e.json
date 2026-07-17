@@ -1,0 +1,16 @@
+{
+  "globalKey": "54308087-d44c-46de-a517-1daa6b024a2e",
+  "object": "PriceAdjustmentSchedule",
+  "record": {
+    "AdjustmentMethod": "Range",
+    "Contract": null,
+    "Description": null,
+    "EffectiveFrom": "2025-06-08T07:07:22.000+0000",
+    "EffectiveTo": null,
+    "GlobalKey__c": "54308087-d44c-46de-a517-1daa6b024a2e",
+    "IsActive": false,
+    "Name": "Standard Price Adjustment Tier",
+    "Pricebook2.GlobalKey__c": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+    "ScheduleType": "Volume"
+  }
+}
