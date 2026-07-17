@@ -1,0 +1,15 @@
+{
+  "globalKey": "5757796b-3717-40f5-b553-daf7553e6a4f",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_CPE_BRONZE",
+    "Description": null,
+    "GlobalKey__c": "5757796b-3717-40f5-b553-daf7553e6a4f",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 1,
+    "Name": "CPE BRONZE",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "cb9681c8-8f10-4007-9850-5192a0f3724c",
+    "Sequence": 10
+  }
+}

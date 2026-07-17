@@ -1,0 +1,15 @@
+{
+  "globalKey": "6a9d7a30-7a34-4702-8d66-b43c2066a3eb",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_INSTALLATION_BRONZE",
+    "Description": null,
+    "GlobalKey__c": "6a9d7a30-7a34-4702-8d66-b43c2066a3eb",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 0,
+    "Name": "INSTALLATION BRONZE",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "cb9681c8-8f10-4007-9850-5192a0f3724c",
+    "Sequence": 30
+  }
+}

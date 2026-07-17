@@ -1,0 +1,15 @@
+{
+  "globalKey": "13b86544-f7c7-4e43-b418-61af439f409f",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_STATIC_IP_BRONZE",
+    "Description": null,
+    "GlobalKey__c": "13b86544-f7c7-4e43-b418-61af439f409f",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 0,
+    "Name": "STATIC IP BRONZE",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "cb9681c8-8f10-4007-9850-5192a0f3724c",
+    "Sequence": 20
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "globalKey": "ad2e65c3-74b3-4922-88cb-38271eb123af",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_OPTIONAL_SERVICES_BRONZE",
+    "Description": null,
+    "GlobalKey__c": "ad2e65c3-74b3-4922-88cb-38271eb123af",
+    "MaxBundleComponents": 4,
+    "MinBundleComponents": 0,
+    "Name": "OPTIONAL SERVICES BRONZE",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "cb9681c8-8f10-4007-9850-5192a0f3724c",
+    "Sequence": 40
+  }
+}

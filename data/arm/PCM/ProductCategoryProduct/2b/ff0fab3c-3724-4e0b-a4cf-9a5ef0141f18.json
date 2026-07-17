@@ -1,0 +1,10 @@
+{
+  "globalKey": "ff0fab3c-3724-4e0b-a4cf-9a5ef0141f18",
+  "object": "ProductCategoryProduct",
+  "record": {
+    "GlobalKey__c": "ff0fab3c-3724-4e0b-a4cf-9a5ef0141f18",
+    "IsPrimaryCategory": false,
+    "Product.GlobalKey__c": "cb9681c8-8f10-4007-9850-5192a0f3724c",
+    "ProductCategory.GlobalKey__c": "39717d39-6343-4916-b015-75d531d03201"
+  }
+}
