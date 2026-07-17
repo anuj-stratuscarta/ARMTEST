@@ -1,0 +1,261 @@
+{
+  "component": "sweep-attributecategory",
+  "componentGlobalKey": "cce3052b-7e73-4e31-916e-cb83dac51870",
+  "componentObject": "AttributeCategory",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:6d257bb1-7cd0-4af4-8dee-4611a6adad4a",
+      "required": true,
+      "to": "AttributeCategory:cce3052b-7e73-4e31-916e-cb83dac51870"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:6d257bb1-7cd0-4af4-8dee-4611a6adad4a",
+      "required": true,
+      "to": "AttributeCategory:cce3052b-7e73-4e31-916e-cb83dac51870"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:6d257bb1-7cd0-4af4-8dee-4611a6adad4a",
+      "required": true,
+      "to": "AttributeDefinition:157cb542-9859-475d-9ce5-127bfcfa8dc1"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:6ff2a46d-265a-4f67-8bbb-e5de314e17d0",
+      "required": true,
+      "to": "AttributeCategory:cce3052b-7e73-4e31-916e-cb83dac51870"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:6ff2a46d-265a-4f67-8bbb-e5de314e17d0",
+      "required": true,
+      "to": "AttributeCategory:cce3052b-7e73-4e31-916e-cb83dac51870"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:6ff2a46d-265a-4f67-8bbb-e5de314e17d0",
+      "required": true,
+      "to": "AttributeDefinition:b10d5220-5684-4857-be04-1929cdd98a40"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:157cb542-9859-475d-9ce5-127bfcfa8dc1",
+      "required": false,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:b10d5220-5684-4857-be04-1929cdd98a40",
+      "required": false,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:100b4ffe-dd7a-4060-94bd-dc55424ff7b9",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:100b4ffe-dd7a-4060-94bd-dc55424ff7b9",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:3f832ff6-0dda-4dc2-8dcc-1d589445137e",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:3f832ff6-0dda-4dc2-8dcc-1d589445137e",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:4f46d39b-a918-406c-a98b-7b5a9e0ac82c",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:4f46d39b-a918-406c-a98b-7b5a9e0ac82c",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:5d097c21-9bbf-4644-9af9-c65e1c5c5595",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:5d097c21-9bbf-4644-9af9-c65e1c5c5595",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:732a76c7-df91-47c4-b6c8-a6292bc78266",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:732a76c7-df91-47c4-b6c8-a6292bc78266",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:990db948-35dc-4388-8a6b-c52e6eb24672",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:990db948-35dc-4388-8a6b-c52e6eb24672",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:a37745c2-a5b1-46ad-ab5f-cedfa2ef6a04",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:a37745c2-a5b1-46ad-ab5f-cedfa2ef6a04",
+      "required": true,
+      "to": "AttributePicklist:74f70d72-5091-4ce9-964d-8ddc26123041"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f883d6df-e19f-4ac3-b249-4a71ecdab768",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f883d6df-e19f-4ac3-b249-4a71ecdab768",
+      "required": true,
+      "to": "AttributePicklist:c3a33d0e-4daf-4964-8c8b-95746de56776"
+    }
+  ],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "cce3052b-7e73-4e31-916e-cb83dac51870",
+      "label": "Broadband Speed",
+      "object": "AttributeCategory"
+    },
+    {
+      "displayLabel": "Broadband Speed ↔ DOWNLOAD SPEED",
+      "globalKey": "6d257bb1-7cd0-4af4-8dee-4611a6adad4a",
+      "label": "ACA-0000003",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "displayLabel": "Broadband Speed ↔ UPLOAD SPEED",
+      "globalKey": "6ff2a46d-265a-4f67-8bbb-e5de314e17d0",
+      "label": "ACA-0000002",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "globalKey": "157cb542-9859-475d-9ce5-127bfcfa8dc1",
+      "label": "DOWNLOAD SPEED",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "b10d5220-5684-4857-be04-1929cdd98a40",
+      "label": "UPLOAD SPEED",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "74f70d72-5091-4ce9-964d-8ddc26123041",
+      "label": "Upload Speed Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+      "label": "Download Speed Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "100b4ffe-dd7a-4060-94bd-dc55424ff7b9",
+      "label": "Download Speed 800",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "3f832ff6-0dda-4dc2-8dcc-1d589445137e",
+      "label": "Upload Speed 400",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "4f46d39b-a918-406c-a98b-7b5a9e0ac82c",
+      "label": "Upload Speed 1000",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "5d097c21-9bbf-4644-9af9-c65e1c5c5595",
+      "label": "Download Speed 1000",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "732a76c7-df91-47c4-b6c8-a6292bc78266",
+      "label": "Upload Speed 600",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "990db948-35dc-4388-8a6b-c52e6eb24672",
+      "label": "Download Speed 400",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "a37745c2-a5b1-46ad-ab5f-cedfa2ef6a04",
+      "label": "Upload Speed 800",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "f883d6df-e19f-4ac3-b249-4a71ecdab768",
+      "label": "Download Speed 600",
+      "object": "AttributePicklistValue"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "cce3052b-7e73-4e31-916e-cb83dac51870",
+      "object": "AttributeCategory"
+    }
+  ]
+}
