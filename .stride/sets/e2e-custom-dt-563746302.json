@@ -1,0 +1,18 @@
+{
+  "slug": "e2e-custom-dt-563746302",
+  "name": "E2E Custom DT 563746302",
+  "createdAt": "2026-07-20T16:09:14.669Z",
+  "updatedAt": "2026-07-20T16:09:14.669Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "STRIDE_CUSTOM_DT_563746302",
+          "sourceObject": "ProductPriceRange"
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-custom-dt-563746302"
+}
