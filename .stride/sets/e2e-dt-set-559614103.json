@@ -1,0 +1,18 @@
+{
+  "slug": "e2e-dt-set-559614103",
+  "name": "E2E DT set 559614103",
+  "createdAt": "2026-07-20T15:00:24.766Z",
+  "updatedAt": "2026-07-20T15:00:24.766Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Product_Price_Range_Entries_Decision_Table",
+          "sourceObject": "PricebookEntry"
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-dt-set-559614103"
+}
