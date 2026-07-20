@@ -85,7 +85,7 @@
       }
     ],
     "decisionTableSourceCriterias": [],
-    "description": "STRIDE-DT-E2E-559383600",
+    "description": "Product Price Range Entries Decision Table",
     "doesConsiderNullValue": true,
     "dtRowLevelOverrideType": null,
     "executionType": "HBASE",
