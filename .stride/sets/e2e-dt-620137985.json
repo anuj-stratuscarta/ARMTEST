@@ -1,0 +1,18 @@
+{
+  "slug": "e2e-dt-620137985",
+  "name": "E2E DT 620137985",
+  "createdAt": "2026-07-21T07:49:02.608Z",
+  "updatedAt": "2026-07-21T07:49:02.608Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Product_Price_Range_Entries_Decision_Table",
+          "sourceObject": "ProductPriceRange"
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-dt-620137985"
+}
