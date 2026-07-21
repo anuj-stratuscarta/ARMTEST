@@ -85,7 +85,7 @@
       }
     ],
     "decisionTableSourceCriterias": [],
-    "description": "STRIDE-DT-E2E-559614103",
+    "description": "STRIDE-DT-REAL-620137985",
     "doesConsiderNullValue": true,
     "dtRowLevelOverrideType": null,
     "executionType": "HBASE",
