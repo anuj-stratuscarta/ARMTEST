@@ -1,0 +1,18 @@
+{
+  "slug": "e2e-csv-1784712939820",
+  "name": "E2E CSV 1784712939820",
+  "createdAt": "2026-07-22T09:35:40.642Z",
+  "updatedAt": "2026-07-22T09:35:40.642Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TEST_CSV",
+          "sourceObject": "CSV"
+        }
+      ]
+    }
+  },
+  "branch": "feature/e2e-csv-1784712939820"
+}
