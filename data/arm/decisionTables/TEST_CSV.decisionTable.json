@@ -1,0 +1,86 @@
+{
+  "developerName": "TEST_CSV",
+  "metadata": {
+    "collectOperator": "None",
+    "conditionCriteria": "1 AND 2",
+    "conditionType": "All",
+    "dataSourceType": "CsvUpload",
+    "dataSpaceName": null,
+    "decisionTableFileImportVersions": [
+      {
+        "endDate": null,
+        "lastIncrementalSyncDate": null,
+        "lastSyncDate": "2026-07-21T23:15:12Z",
+        "rank": 1,
+        "refreshFailedReason": null,
+        "refreshStatus": "Completed",
+        "startDate": "2026-07-21T22:57:28Z",
+        "uploadStatus": null,
+        "versionName": "TEST_CSV V1",
+        "versionNumber": 1,
+        "versionStatus": "Active"
+      }
+    ],
+    "decisionTableParameters": [
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "AttributeCode",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": true,
+        "length": null,
+        "operator": "Equals",
+        "sequence": 2,
+        "sortType": "None",
+        "usage": "INPUT"
+      },
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "ProductCode",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": true,
+        "length": null,
+        "operator": "Equals",
+        "sequence": 1,
+        "sortType": "None",
+        "usage": "INPUT"
+      },
+      {
+        "dataType": "Number",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "MRC",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": false,
+        "length": null,
+        "operator": null,
+        "sequence": null,
+        "sortType": "None",
+        "usage": "OUTPUT"
+      }
+    ],
+    "decisionTableSourceCriterias": [],
+    "description": null,
+    "doesConsiderNullValue": false,
+    "dtRowLevelOverrideType": "None",
+    "executionType": "HBASE",
+    "filterResultBy": "OutputOrder",
+    "isIncrementalSyncEnabled": false,
+    "isVersioned": true,
+    "setupName": "TEST_CSV",
+    "sourceConditionLogic": null,
+    "sourceObject": "CSV",
+    "status": "Active",
+    "type": "MediumVolume",
+    "usageType": null
+  }
+}
