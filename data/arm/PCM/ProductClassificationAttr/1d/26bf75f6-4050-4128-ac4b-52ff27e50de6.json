@@ -1,0 +1,29 @@
+{
+  "globalKey": "26bf75f6-4050-4128-ac4b-52ff27e50de6",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "cce3052b-7e73-4e31-916e-cb83dac51870",
+    "AttributeDefinition.GlobalKey__c": "b10d5220-5684-4857-be04-1929cdd98a40",
+    "AttributeNameOverride": "UPLOAD SPEED",
+    "DefaultValue": null,
+    "Description": "Upload Speed",
+    "DisplayType": null,
+    "GlobalKey__c": "26bf75f6-4050-4128-ac4b-52ff27e50de6",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "UPLOAD SPEED",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "60f0489c-db4b-4058-b316-ff1d9b154d04",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

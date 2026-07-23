@@ -1,0 +1,11 @@
+{
+  "globalKey": "abc170ed-fa11-47f6-b328-836e3626a4fa",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_DDOS_MIGRATION",
+    "GlobalKey__c": "abc170ed-fa11-47f6-b328-836e3626a4fa",
+    "Name": "DDos Migration",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

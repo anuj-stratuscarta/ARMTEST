@@ -1,0 +1,15 @@
+{
+  "globalKey": "b8b557b7-cb58-4376-bf9d-aa599acb5b3c",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_CPE_PLATINUM",
+    "Description": null,
+    "GlobalKey__c": "b8b557b7-cb58-4376-bf9d-aa599acb5b3c",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 1,
+    "Name": "CPE PLATINUM",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "740549fc-c101-4322-803f-0a42d0c1b51a",
+    "Sequence": 10
+  }
+}

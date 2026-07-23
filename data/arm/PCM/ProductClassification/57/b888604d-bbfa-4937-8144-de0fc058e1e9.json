@@ -1,0 +1,11 @@
+{
+  "globalKey": "b888604d-bbfa-4937-8144-de0fc058e1e9",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_CONSTANT_CONNECT",
+    "GlobalKey__c": "b888604d-bbfa-4937-8144-de0fc058e1e9",
+    "Name": "Constant Connect",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
