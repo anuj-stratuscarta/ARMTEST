@@ -1,0 +1,28 @@
+{
+  "slug": "test-product-branch",
+  "name": "Test_Product_Branch",
+  "createdAt": "2026-07-23T23:20:45.990Z",
+  "updatedAt": "2026-07-23T23:20:45.990Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "740549fc-c101-4322-803f-0a42d0c1b51a"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/test-product-branch"
+}

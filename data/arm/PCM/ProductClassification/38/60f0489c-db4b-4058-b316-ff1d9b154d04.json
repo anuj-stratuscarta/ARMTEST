@@ -1,0 +1,11 @@
+{
+  "globalKey": "60f0489c-db4b-4058-b316-ff1d9b154d04",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_BROADBAND",
+    "GlobalKey__c": "60f0489c-db4b-4058-b316-ff1d9b154d04",
+    "Name": "Broadband",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
