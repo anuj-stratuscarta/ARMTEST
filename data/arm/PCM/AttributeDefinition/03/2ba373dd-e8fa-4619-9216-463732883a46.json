@@ -1,0 +1,21 @@
+{
+  "globalKey": "2ba373dd-e8fa-4619-9216-463732883a46",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_CPE_DELIVERY_OPTION",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": "CPE Delivery Option",
+    "DeveloperName": "CPE_DELIVERY_OPTION",
+    "GlobalKey__c": "2ba373dd-e8fa-4619-9216-463732883a46",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "CPE Delivery Option",
+    "Name": "CPE DELIVERY OPTION",
+    "Picklist.GlobalKey__c": "cc573c85-408e-4f01-b800-a7c807c24c97",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

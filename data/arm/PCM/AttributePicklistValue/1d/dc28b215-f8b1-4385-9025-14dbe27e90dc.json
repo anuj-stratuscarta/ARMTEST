@@ -1,0 +1,16 @@
+{
+  "globalKey": "dc28b215-f8b1-4385-9025-14dbe27e90dc",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "PICKUP",
+    "Code": "CCC_PKVAL_PICKUP",
+    "DisplayValue": "PickUp",
+    "GlobalKey__c": "dc28b215-f8b1-4385-9025-14dbe27e90dc",
+    "IsDefault": false,
+    "Name": "PickUp",
+    "Picklist.GlobalKey__c": "cc573c85-408e-4f01-b800-a7c807c24c97",
+    "Sequence": 30,
+    "Status": "Active",
+    "Value": "PickUp"
+  }
+}

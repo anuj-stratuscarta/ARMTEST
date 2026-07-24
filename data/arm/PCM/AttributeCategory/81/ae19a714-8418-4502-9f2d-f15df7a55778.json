@@ -1,0 +1,10 @@
+{
+  "globalKey": "ae19a714-8418-4502-9f2d-f15df7a55778",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "CCC_ATTRCAT_CPE_INFORMATION",
+    "Description": "CPE Information",
+    "GlobalKey__c": "ae19a714-8418-4502-9f2d-f15df7a55778",
+    "Name": "CPE Information"
+  }
+}

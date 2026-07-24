@@ -1,0 +1,15 @@
+{
+  "globalKey": "2abd15e8-0f8e-479e-bc6f-76ef2f5a8883",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_CPE_GOLD",
+    "Description": null,
+    "GlobalKey__c": "2abd15e8-0f8e-479e-bc6f-76ef2f5a8883",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 1,
+    "Name": "CPE GOLD",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "7039466a-7811-423e-807f-5f77968b757c",
+    "Sequence": 10
+  }
+}

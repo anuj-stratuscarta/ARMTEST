@@ -1,0 +1,16 @@
+{
+  "globalKey": "f883d6df-e19f-4ac3-b249-4a71ecdab768",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": "DOWNSP600",
+    "Code": "CCC_PKLVAL_DOWNLOAD_SPEED_600",
+    "DisplayValue": "600 MBPS",
+    "GlobalKey__c": "f883d6df-e19f-4ac3-b249-4a71ecdab768",
+    "IsDefault": false,
+    "Name": "Download Speed 600",
+    "Picklist.GlobalKey__c": "c3a33d0e-4daf-4964-8c8b-95746de56776",
+    "Sequence": 20,
+    "Status": "Active",
+    "Value": "600"
+  }
+}

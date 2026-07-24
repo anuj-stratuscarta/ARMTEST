@@ -1,0 +1,28 @@
+{
+  "slug": "test-bundle",
+  "name": "TEST_BUNDLE",
+  "createdAt": "2026-07-24T12:43:34.078Z",
+  "updatedAt": "2026-07-24T12:43:34.078Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "7039466a-7811-423e-807f-5f77968b757c"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/test-bundle"
+}
