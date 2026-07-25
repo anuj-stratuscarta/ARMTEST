@@ -1,0 +1,20 @@
+{
+  "component": "commsoncore-demobp-424775",
+  "componentGlobalKey": "81945e34-c57e-5f9c-a952-9310972ab53e",
+  "componentObject": "Product2",
+  "edges": [],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "81945e34-c57e-5f9c-a952-9310972ab53e",
+      "label": "Commsoncore Demo Bundle 424775",
+      "object": "Product2"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "81945e34-c57e-5f9c-a952-9310972ab53e",
+      "object": "Product2"
+    }
+  ]
+}

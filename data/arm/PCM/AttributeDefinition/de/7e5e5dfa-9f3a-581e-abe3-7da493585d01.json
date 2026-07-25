@@ -1,0 +1,21 @@
+{
+  "globalKey": "7e5e5dfa-9f3a-581e-abe3-7da493585d01",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_SHS275836_RESOLUTION",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_SHS275836_RESOLUTION",
+    "GlobalKey__c": "7e5e5dfa-9f3a-581e-abe3-7da493585d01",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Camera Resolution",
+    "Name": "SHS275836 RESOLUTION",
+    "Picklist.GlobalKey__c": "05fed874-88d1-5e75-9456-179a12418ddf",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

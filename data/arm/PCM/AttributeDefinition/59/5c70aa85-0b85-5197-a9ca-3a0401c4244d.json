@@ -1,0 +1,21 @@
+{
+  "globalKey": "5c70aa85-0b85-5197-a9ca-3a0401c4244d",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_FLT_CONNECTIVITY",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_FLT_CONNECTIVITY",
+    "GlobalKey__c": "5c70aa85-0b85-5197-a9ca-3a0401c4244d",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Connectivity Type",
+    "Name": "FLT CONNECTIVITY",
+    "Picklist.GlobalKey__c": "e641a373-02e7-5dcf-a294-0d85b6f5d930",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

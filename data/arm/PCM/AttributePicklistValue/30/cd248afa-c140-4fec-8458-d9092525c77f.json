@@ -1,0 +1,16 @@
+{
+  "globalKey": "cd248afa-c140-4fec-8458-d9092525c77f",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_FLT_REF_5",
+    "DisplayValue": "5s",
+    "GlobalKey__c": "cd248afa-c140-4fec-8458-d9092525c77f",
+    "IsDefault": false,
+    "Name": "5 seconds",
+    "Picklist.GlobalKey__c": "44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "5s"
+  }
+}

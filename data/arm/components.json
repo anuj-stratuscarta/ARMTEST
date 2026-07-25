@@ -1,6 +1,13 @@
 {
   "components": [
     {
+      "component": "e2e-tst-bndl-triple",
+      "componentGlobalKey": "a4e5be56-31fc-4809-8ca5-f80673a61dcf",
+      "componentObject": "Product2",
+      "manifestPath": "data/arm/manifests/e2e-tst-bndl-triple.a4e5be56-31fc-4809-8ca5-f80673a61dcf.json",
+      "nodeCount": 14
+    },
+    {
       "component": "laptop-pro-bundle",
       "componentGlobalKey": "ba484e68-9e6f-4a22-83f4-7f36a2abd416",
       "componentObject": "Product2",

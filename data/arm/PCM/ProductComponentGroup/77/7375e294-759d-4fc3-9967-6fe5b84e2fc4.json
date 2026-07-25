@@ -1,0 +1,15 @@
+{
+  "globalKey": "7375e294-759d-4fc3-9967-6fe5b84e2fc4",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "7375e294-759d-4fc3-9967-6fe5b84e2fc4",
+    "MaxBundleComponents": 10,
+    "MinBundleComponents": 0,
+    "Name": "Energy Components",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "3a2b08c5-a897-59d3-b563-fa6ac13a20ed",
+    "Sequence": 10
+  }
+}

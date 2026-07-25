@@ -1,0 +1,14 @@
+{
+  "globalKey": "5d445c31-38f3-428e-a699-73fb3fcf1bdc",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "4b38d7d0-14a4-4bb7-98f1-041cfe804327",
+    "Code": "PS-IP001",
+    "Description": "This category covers all the Broadband Internet Plans",
+    "GlobalKey__c": "5d445c31-38f3-428e-a699-73fb3fcf1bdc",
+    "IsNavigational": true,
+    "Name": "Internet Plans",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

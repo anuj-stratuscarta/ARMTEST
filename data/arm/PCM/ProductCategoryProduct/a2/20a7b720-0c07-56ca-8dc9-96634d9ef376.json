@@ -1,0 +1,10 @@
+{
+  "globalKey": "20a7b720-0c07-56ca-8dc9-96634d9ef376",
+  "object": "ProductCategoryProduct",
+  "record": {
+    "GlobalKey__c": "20a7b720-0c07-56ca-8dc9-96634d9ef376",
+    "IsPrimaryCategory": false,
+    "Product.GlobalKey__c": "ff46bc19-d58e-5e57-a537-8ca8c34c22ab",
+    "ProductCategory.GlobalKey__c": "650ed394-d6db-5b7a-84f7-a4d7e56d69ab"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "smaarthome-security-bundle",
+  "name": "smaarthome_security_bundle",
+  "createdAt": "2026-07-06T21:26:01.901Z",
+  "updatedAt": "2026-07-06T21:26:01.901Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "ddf8b04c-99ab-4ca0-ad40-67c03f999450"
+          ]
+        },
+        {
+          "object": "ProductSellingModel",
+          "intent": "picked",
+          "records": [
+            "4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2",
+          "ProductSellingModel"
+        ]
+      }
+    }
+  },
+  "branch": "feature/smaarthome-security-bundle"
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "0c0716ea-6d55-556f-88b9-141fbdaff075",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_FLT_REFRESH",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_FLT_REFRESH",
+    "GlobalKey__c": "0c0716ea-6d55-556f-88b9-141fbdaff075",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Location Refresh Rate",
+    "Name": "FLT REFRESH RATE",
+    "Picklist.GlobalKey__c": "44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

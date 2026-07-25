@@ -1,0 +1,29 @@
+{
+  "globalKey": "b491f66e-dd75-4739-ac8f-7562d414b366",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "4c4f4c3b-f786-5caf-a2d7-3d62367d71b8",
+    "AttributeNameOverride": "GEH PANEL WATTAGE",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "b491f66e-dd75-4739-ac8f-7562d414b366",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "GEH PANEL WATTAGE",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "231fec68-ade8-54ff-85e4-8d4b75e60c76",
+    "Sequence": 20,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

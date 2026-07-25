@@ -1,0 +1,60 @@
+{
+  "slug": "test-fiber-ultra-bundle-with-dependencies",
+  "name": "TEST_FIBER_ULTRA_BUNDLE_WITH_DEPENDENCIES",
+  "createdAt": "2026-07-06T08:45:55.590Z",
+  "updatedAt": "2026-07-06T08:45:55.590Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "2a4ef069-70be-49c3-b1cb-ae6652751c47"
+          ]
+        },
+        {
+          "object": "AttributePicklist",
+          "intent": "picked",
+          "records": [
+            "5ca5659b-b4c6-4989-9c98-b16e6272e2e6"
+          ]
+        },
+        {
+          "object": "ProductClassification",
+          "intent": "picked",
+          "records": [
+            "161f4eb2-201c-478e-bf37-5252b6489ea8"
+          ]
+        },
+        {
+          "object": "ProductCategoryProduct",
+          "intent": "picked",
+          "records": [
+            "39f49dc0-ca77-4909-b422-dc1c792f8df2",
+            "f4f157c4-c686-465d-b7fc-23c267f1ecd4",
+            "c508eb03-9740-4749-8c47-ff3a5e764fd9",
+            "841238e3-f8bb-4295-9f5a-da0f707ee560",
+            "4893110c-2327-465b-8d45-ea688e0097c2",
+            "a830256d-45d9-4841-87c2-5384b93da7b2",
+            "00927dec-1cca-47b3-81f9-9418557c670d",
+            "b19a0c30-a486-4194-9865-c35a564dc512",
+            "22c68607-cc62-47da-abf2-4c6c0e153ea9"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "AttributePicklist",
+          "Product2",
+          "ProductCategoryProduct",
+          "ProductClassification"
+        ]
+      }
+    }
+  },
+  "branch": "feature/test-fiber-ultra-bundle-with-dependencies"
+}

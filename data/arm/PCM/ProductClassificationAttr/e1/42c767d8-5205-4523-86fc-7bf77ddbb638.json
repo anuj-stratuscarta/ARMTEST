@@ -1,0 +1,29 @@
+{
+  "globalKey": "42c767d8-5205-4523-86fc-7bf77ddbb638",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "6d24169c-1c8f-5b6f-8b6e-8686b6e6990a",
+    "AttributeNameOverride": "SHS791219 RESOLUTION",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "42c767d8-5205-4523-86fc-7bf77ddbb638",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "SHS791219 RESOLUTION",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "a15130db-c630-55e0-b4a5-78656de5dd02",
+    "Sequence": 10,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

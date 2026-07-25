@@ -1,0 +1,16 @@
+{
+  "globalKey": "f536b814-abda-494a-8a59-0475ea48f621",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_ULTRA_SUP_PRI",
+    "DisplayValue": "Priority",
+    "GlobalKey__c": "f536b814-abda-494a-8a59-0475ea48f621",
+    "IsDefault": false,
+    "Name": "Priority",
+    "Picklist.GlobalKey__c": "164e6dc3-fe9e-438b-b245-4d69df0f0293",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "Priority"
+  }
+}

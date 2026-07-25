@@ -1,0 +1,29 @@
+{
+  "globalKey": "7a327bc4-8fab-4eed-a810-379b34bea70f",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "d44d6a67-307d-524d-8f7b-37670cd4fadb",
+    "AttributeNameOverride": "GEH CHEMISTRY",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "7a327bc4-8fab-4eed-a810-379b34bea70f",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "GEH CHEMISTRY",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "231fec68-ade8-54ff-85e4-8d4b75e60c76",
+    "Sequence": 10,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

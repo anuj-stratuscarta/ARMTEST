@@ -1,0 +1,58 @@
+{
+  "developerName": "Fiber_Platinum_Config_V1",
+  "esdDeveloperName": "Fiber_Platinum_Config",
+  "versionNumber": 1,
+  "expressionSet": {
+    "apiName": "Fiber_Platinum_Config",
+    "name": "Fiber Platinum Config",
+    "description": "Sample constraint model for CCC Fibre Broadband Platinum add-ons (seeded by Stride).",
+    "interfaceSourceType": "Constraint",
+    "resourceInitializationType": "Off",
+    "usageType": "Constraint"
+  },
+  "contextDefinitionApiName": "SalesTransactionContextExt_256",
+  "constraints": [
+    {
+      "refKind": "component",
+      "naturalKey": "CCC_FIBER_BROADBAND_PLATINUM|CCC_DDOS_MIGRATION||Bundle to Bundle Component Relationship|",
+      "constraintModelTag": "ddosmigration",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "component",
+      "naturalKey": "CCC_FIBER_BROADBAND_PLATINUM|CCC_ENHANCED_SECURITY||Bundle to Bundle Component Relationship|",
+      "constraintModelTag": "enhancedsecurity",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "component",
+      "naturalKey": "CCC_FIBER_BROADBAND_PLATINUM|CCC_STATIC_IP||Bundle to Bundle Component Relationship|",
+      "constraintModelTag": "staticip",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "CCC_DDOS_MIGRATION",
+      "constraintModelTag": "DDoSMigration",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "CCC_ENHANCED_SECURITY",
+      "constraintModelTag": "EnhancedSecurity",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "CCC_FIBER_BROADBAND_PLATINUM",
+      "constraintModelTag": "FiberBroadbandPlatinum",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "CCC_STATIC_IP",
+      "constraintModelTag": "StaticIP",
+      "constraintModelTagType": "Type"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "19fa08c4-7d8f-5342-8d10-76c35acd9c24",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_SHS839737_BATTERY",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_SHS839737_BATTERY",
+    "GlobalKey__c": "19fa08c4-7d8f-5342-8d10-76c35acd9c24",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Battery Life (hrs)",
+    "Name": "SHS839737 BATTERY HOURS",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

@@ -1,0 +1,22 @@
+// STRIDE-CML-E2E-707058931
+type LineItem;
+
+type FiberBroadbandPlatinum : LineItem {
+    @(defaultValue = "12")
+    string CONTRACT_TERM = ["12", "24", "36"];
+
+    relation staticip : StaticIP[0..1];
+
+    relation enhancedsecurity : EnhancedSecurity[0..1];
+
+    relation ddosmigration : DDoSMigration[0..1];
+
+    // DDoS Migration can only be added when Enhanced Security is present.
+    require(ddosmigration[DDoSMigration] == 1, enhancedsecurity[EnhancedSecurity] == 1, "DDoS Migration requires Enhanced Security");
+}
+
+type StaticIP : LineItem;
+
+type EnhancedSecurity : LineItem;
+
+type DDoSMigration : LineItem;

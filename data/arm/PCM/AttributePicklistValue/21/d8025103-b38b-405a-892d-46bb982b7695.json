@@ -1,0 +1,16 @@
+{
+  "globalKey": "d8025103-b38b-405a-892d-46bb982b7695",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_FLT_CON_SAT",
+    "DisplayValue": "SAT",
+    "GlobalKey__c": "d8025103-b38b-405a-892d-46bb982b7695",
+    "IsDefault": false,
+    "Name": "Satellite",
+    "Picklist.GlobalKey__c": "e641a373-02e7-5dcf-a294-0d85b6f5d930",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "SAT"
+  }
+}

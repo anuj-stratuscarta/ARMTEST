@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_SHS672979_MOTION|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "dd6addd3-720e-595a-8c89-5c75fab65130",
+    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}
