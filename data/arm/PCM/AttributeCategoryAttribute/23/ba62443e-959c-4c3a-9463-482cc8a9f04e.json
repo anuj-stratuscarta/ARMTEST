@@ -1,0 +1,10 @@
+{
+  "globalKey": "ba62443e-959c-4c3a-9463-482cc8a9f04e",
+  "object": "AttributeCategoryAttribute",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "f329edc5-0f40-46f4-a0ce-5ea23199212d",
+    "AttributeDefinition.GlobalKey__c": "c7802ef9-9395-4c97-87db-6c6b6a1e88e0",
+    "GlobalKey__c": "ba62443e-959c-4c3a-9463-482cc8a9f04e",
+    "OwnerId": null
+  }
+}

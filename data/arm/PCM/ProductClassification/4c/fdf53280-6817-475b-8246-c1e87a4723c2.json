@@ -1,0 +1,12 @@
+{
+  "globalKey": "fdf53280-6817-475b-8246-c1e87a4723c2",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CMP001",
+    "GlobalKey__c": "fdf53280-6817-475b-8246-c1e87a4723c2",
+    "Name": "Computer",
+    "OwnerId": null,
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

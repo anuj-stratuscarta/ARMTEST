@@ -1,0 +1,11 @@
+{
+  "globalKey": "4d9dae76-5c96-4edd-b421-4a7f1c97d9b9",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "CT001",
+    "Description": null,
+    "GlobalKey__c": "4d9dae76-5c96-4edd-b421-4a7f1c97d9b9",
+    "Name": "Connection Type",
+    "OwnerId": null
+  }
+}

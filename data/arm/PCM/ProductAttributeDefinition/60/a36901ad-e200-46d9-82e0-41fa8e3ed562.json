@@ -1,0 +1,32 @@
+{
+  "globalKey": "a36901ad-e200-46d9-82e0-41fa8e3ed562",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "abc25e34-6813-4c04-b389-71721dc06f52",
+    "AttributeDefinition.GlobalKey__c": "5804840c-5a65-428d-ba17-365cc3d344cf",
+    "AttributeNameOverride": "Graphics",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "a36901ad-e200-46d9-82e0-41fa8e3ed562",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": true,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Graphics",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "OwnerId": null,
+    "Product2.GlobalKey__c": "a921f3c6-9191-4eae-bc72-4d2321ed1359",
+    "ProductClassificationAttribute.GlobalKey__c": "5244e842-4fe7-44ab-9d8d-eb03ccb007fc",
+    "Sequence": 0,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

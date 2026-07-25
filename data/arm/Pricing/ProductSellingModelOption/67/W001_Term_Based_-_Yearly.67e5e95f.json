@@ -1,0 +1,10 @@
+{
+  "globalKey": "W001|Term Based - Yearly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "659fa38b-d398-489e-bad0-0666572f643a",
+    "ProductSellingModel.GlobalKey__c": "723d735b-f14e-4308-b502-6b0fb14bab53",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}
