@@ -1,0 +1,11 @@
+{
+  "globalKey": "68fe4ab4-6026-4a62-b0f0-5163b3931aae",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_INSTANT_CONNECT",
+    "GlobalKey__c": "68fe4ab4-6026-4a62-b0f0-5163b3931aae",
+    "Name": "Instant Connect",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

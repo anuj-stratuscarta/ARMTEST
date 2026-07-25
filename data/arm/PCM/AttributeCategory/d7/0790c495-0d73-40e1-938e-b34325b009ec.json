@@ -1,0 +1,11 @@
+{
+  "globalKey": "0790c495-0d73-40e1-938e-b34325b009ec",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "MEM",
+    "Description": null,
+    "GlobalKey__c": "0790c495-0d73-40e1-938e-b34325b009ec",
+    "Name": "Memory",
+    "OwnerId": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "globalKey": "317b28b3-3fbc-43b6-aa19-7061a0d17d7b",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "GRA001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "317b28b3-3fbc-43b6-aa19-7061a0d17d7b",
+    "Name": "Graphics Picklist",
+    "OwnerId": null,
+    "Status": "Draft",
+    "UnitOfMeasure": null
+  }
+}

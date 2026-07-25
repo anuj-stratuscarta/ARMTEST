@@ -1,0 +1,32 @@
+{
+  "globalKey": "b8923295-08b6-4798-97af-d217ac136bb8",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "4d9dae76-5c96-4edd-b421-4a7f1c97d9b9",
+    "AttributeDefinition.GlobalKey__c": "e33af929-2297-433a-ab92-2c0f09358a69",
+    "AttributeNameOverride": "Wireless",
+    "DefaultValue": "false",
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "b8923295-08b6-4798-97af-d217ac136bb8",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": true,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Wireless",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "OwnerId": null,
+    "Product2.GlobalKey__c": "f846bdd8-9654-4c22-9193-9e671a3c5ab7",
+    "ProductClassificationAttribute.GlobalKey__c": "78957046-e737-40d5-b3bc-eee0fbafb577",
+    "Sequence": 0,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
