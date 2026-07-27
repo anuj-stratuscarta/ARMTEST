@@ -1,0 +1,18 @@
+{
+  "slug": "custom-dt-35002",
+  "name": "Custom DT 35002",
+  "createdAt": "2026-07-27T17:28:56.532Z",
+  "updatedAt": "2026-07-27T17:28:56.532Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Stride_DT_Demo_Table",
+          "sourceObject": "Stride_DT_Demo__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/custom-dt-35002"
+}
