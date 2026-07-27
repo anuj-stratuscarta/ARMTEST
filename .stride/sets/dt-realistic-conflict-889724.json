@@ -1,0 +1,21 @@
+{
+  "slug": "dt-realistic-conflict-889724",
+  "name": "DT Realistic Conflict 889724",
+  "createdAt": "2026-07-27T12:04:51.111Z",
+  "updatedAt": "2026-07-27T12:04:51.111Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TEST_CSV",
+          "sourceObject": "CSV",
+          "excludedRowKeys": [
+            "70d25789447f19c3d14b926cae1cb073"
+          ]
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-realistic-conflict-889724"
+}
