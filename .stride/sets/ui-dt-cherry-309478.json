@@ -1,0 +1,21 @@
+{
+  "slug": "ui-dt-cherry-309478",
+  "name": "ui-dt-cherry-309478",
+  "createdAt": "2026-07-27T11:38:33.366Z",
+  "updatedAt": "2026-07-27T11:38:33.366Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TEST_CSV",
+          "sourceObject": "CSV",
+          "excludedRowKeys": [
+            "70d25789447f19c3d14b926cae1cb073"
+          ]
+        }
+      ]
+    }
+  },
+  "branch": "feature/ui-dt-cherry-309478"
+}
