@@ -1,0 +1,7 @@
+[
+  {
+    "inputData": "{\n  \"AttributeCode\": \"DEF\",\n  \"ProductCode\": \"UVW\"\n}",
+    "outputData": "{\n  \"MRC\": 50.0\n}",
+    "versionNumber": 1
+  }
+]
