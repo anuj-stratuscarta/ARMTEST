@@ -1,0 +1,18 @@
+{
+  "slug": "dt-deploy-diag-748201",
+  "name": "DT Deploy Diag 748201",
+  "createdAt": "2026-07-27T14:32:30.534Z",
+  "updatedAt": "2026-07-27T14:32:30.534Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TEST_CSV",
+          "sourceObject": "CSV"
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-deploy-diag-748201"
+}
