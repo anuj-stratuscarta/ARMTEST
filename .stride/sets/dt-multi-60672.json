@@ -1,0 +1,18 @@
+{
+  "slug": "dt-multi-60672",
+  "name": "DT MULTI 60672",
+  "createdAt": "2026-07-27T16:02:41.470Z",
+  "updatedAt": "2026-07-27T16:02:41.470Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Contract_Pricing_Volume_Tiers",
+          "sourceObject": "ContractItemPriceAdjTier"
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-multi-60672"
+}
