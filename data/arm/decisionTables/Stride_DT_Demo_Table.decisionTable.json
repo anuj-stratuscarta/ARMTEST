@@ -1,0 +1,56 @@
+{
+  "developerName": "Stride_DT_Demo_Table",
+  "metadata": {
+    "collectOperator": "None",
+    "conditionCriteria": "1",
+    "conditionType": "All",
+    "dataSourceType": "SingleSobject",
+    "dataSpaceName": null,
+    "decisionTableParameters": [
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "Rate__c",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": false,
+        "length": null,
+        "operator": null,
+        "sequence": null,
+        "sortType": null,
+        "usage": "OUTPUT"
+      },
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "Region__c",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": true,
+        "length": null,
+        "operator": "Equals",
+        "sequence": 1,
+        "sortType": null,
+        "usage": "INPUT"
+      }
+    ],
+    "decisionTableSourceCriterias": [],
+    "description": null,
+    "doesConsiderNullValue": true,
+    "dtRowLevelOverrideType": "None",
+    "executionType": "HBASE",
+    "filterResultBy": "OutputOrder",
+    "isIncrementalSyncEnabled": false,
+    "isVersioned": false,
+    "setupName": "Stride DT Demo Table",
+    "sourceConditionLogic": null,
+    "sourceObject": "Stride_DT_Demo__c",
+    "status": "Active",
+    "type": "MediumVolume",
+    "usageType": null
+  }
+}
