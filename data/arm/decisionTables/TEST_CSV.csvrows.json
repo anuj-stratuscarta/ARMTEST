@@ -1,7 +1,7 @@
 [
   {
     "inputData": "{\n  \"AttributeCode\": \"ABC\",\n  \"ProductCode\": \"XYZ\"\n}",
-    "outputData": "{\"MRC\":222}",
+    "outputData": "{\"MRC\":111}",
     "versionNumber": 1
   },
   {
