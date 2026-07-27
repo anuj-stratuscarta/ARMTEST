@@ -1,0 +1,71 @@
+{
+  "developerName": "TEST_CSV",
+  "metadata": {
+    "collectOperator": "None",
+    "conditionCriteria": "1 AND 2",
+    "conditionType": "All",
+    "dataSourceType": "CsvUpload",
+    "dataSpaceName": null,
+    "decisionTableParameters": [
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "AttributeCode",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": true,
+        "length": null,
+        "operator": "Equals",
+        "sequence": 2,
+        "sortType": "None",
+        "usage": "INPUT"
+      },
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "ProductCode",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": true,
+        "length": null,
+        "operator": "Equals",
+        "sequence": 1,
+        "sortType": "None",
+        "usage": "INPUT"
+      },
+      {
+        "dataType": "Number",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "MRC",
+        "fieldPath": null,
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": false,
+        "length": null,
+        "operator": null,
+        "sequence": null,
+        "sortType": "None",
+        "usage": "OUTPUT"
+      }
+    ],
+    "decisionTableSourceCriterias": [],
+    "description": null,
+    "doesConsiderNullValue": false,
+    "dtRowLevelOverrideType": "None",
+    "executionType": "HBASE",
+    "filterResultBy": "OutputOrder",
+    "isIncrementalSyncEnabled": false,
+    "isVersioned": true,
+    "setupName": "TEST_CSV",
+    "sourceConditionLogic": null,
+    "sourceObject": "CSV",
+    "status": "Active",
+    "type": "MediumVolume",
+    "usageType": null
+  }
+}

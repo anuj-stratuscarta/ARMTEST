@@ -1,0 +1,21 @@
+{
+  "slug": "dt-conflict-demo-147683",
+  "name": "DT Conflict Demo 147683",
+  "createdAt": "2026-07-27T11:52:29.506Z",
+  "updatedAt": "2026-07-27T11:52:29.506Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TEST_CSV",
+          "sourceObject": "CSV",
+          "excludedRowKeys": [
+            "2f99bcb37cc0c765cb18642e0bba8f2e"
+          ]
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-conflict-demo-147683"
+}
