@@ -6,21 +6,6 @@
     "conditionType": "All",
     "dataSourceType": "CsvUpload",
     "dataSpaceName": null,
-    "decisionTableFileImportVersions": [
-      {
-        "endDate": null,
-        "lastIncrementalSyncDate": null,
-        "lastSyncDate": "2026-07-21T23:15:12Z",
-        "rank": 1,
-        "refreshFailedReason": null,
-        "refreshStatus": "Completed",
-        "startDate": "2026-07-21T22:57:28Z",
-        "uploadStatus": null,
-        "versionName": "TEST_CSV V1",
-        "versionNumber": 1,
-        "versionStatus": "Active"
-      }
-    ],
     "decisionTableParameters": [
       {
         "dataType": "String",

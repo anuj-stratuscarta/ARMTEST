@@ -1,0 +1,21 @@
+{
+  "slug": "dt-pipeline-demo-950100",
+  "name": "DT Pipeline Demo 950100",
+  "createdAt": "2026-07-27T11:49:11.818Z",
+  "updatedAt": "2026-07-27T11:49:11.818Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TEST_CSV",
+          "sourceObject": "CSV",
+          "excludedRowKeys": [
+            "2f99bcb37cc0c765cb18642e0bba8f2e"
+          ]
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-pipeline-demo-950100"
+}
