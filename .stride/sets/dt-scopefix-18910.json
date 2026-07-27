@@ -1,0 +1,18 @@
+{
+  "slug": "dt-scopefix-18910",
+  "name": "DT ScopeFix 18910",
+  "createdAt": "2026-07-27T16:25:20.284Z",
+  "updatedAt": "2026-07-27T16:25:20.284Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Price_Book_Entry_Decision_Table_v2",
+          "sourceObject": "PricebookEntry"
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-scopefix-18910"
+}
