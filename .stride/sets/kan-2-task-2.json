@@ -1,8 +1,8 @@
 {
   "slug": "kan-2-task-2",
   "name": "KAN-2-task-2",
-  "createdAt": "2026-07-28T22:49:02.574Z",
-  "updatedAt": "2026-07-28T22:49:02.574Z",
+  "createdAt": "2026-07-28T22:50:52.468Z",
+  "updatedAt": "2026-07-28T22:50:52.468Z",
   "version": 1,
   "lanes": {
     "metadata": {
@@ -33,6 +33,5 @@
     }
   },
   "branch": "feature/kan-2-task-2",
-  "description": "KAN-2: Task 2",
-  "author": "stride-e2e"
+  "description": "KAN-2: Task 2"
 }
