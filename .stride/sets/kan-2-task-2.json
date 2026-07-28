@@ -1,8 +1,8 @@
 {
   "slug": "kan-2-task-2",
-  "name": "KAN-2-task-2",
-  "createdAt": "2026-07-28T22:52:36.572Z",
-  "updatedAt": "2026-07-28T22:52:36.572Z",
+  "name": "kan-2-task-2",
+  "createdAt": "2026-07-28T23:12:43.042Z",
+  "updatedAt": "2026-07-28T23:12:43.042Z",
   "version": 1,
   "lanes": {
     "metadata": {
@@ -19,7 +19,7 @@
           "object": "Product2",
           "intent": "picked",
           "records": [
-            "9a0d550a-6e75-5590-aa15-b8978b2a0c5c"
+            "dadce55b-dc31-5e4f-83a9-7dd69550f8de"
           ]
         }
       ],
@@ -33,5 +33,5 @@
     }
   },
   "branch": "feature/kan-2-task-2",
-  "description": "KAN-2: Task 2"
+  "author": "stride-e2e"
 }
