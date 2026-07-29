@@ -1,0 +1,15 @@
+{
+  "globalKey": "d4bb7091-7861-4ec7-8d67-69ef6197bb78",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_STATIC_IP_GOLD",
+    "Description": null,
+    "GlobalKey__c": "d4bb7091-7861-4ec7-8d67-69ef6197bb78",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 0,
+    "Name": "STATIC IP GOLD",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "7039466a-7811-423e-807f-5f77968b757c",
+    "Sequence": 20
+  }
+}

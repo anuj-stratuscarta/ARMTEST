@@ -1,0 +1,11 @@
+{
+  "globalKey": "dbe445af-5fbb-4fb9-b5c1-60d0111d9e90",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "PP001",
+    "Description": null,
+    "GlobalKey__c": "dbe445af-5fbb-4fb9-b5c1-60d0111d9e90",
+    "Name": "Paper",
+    "OwnerId": null
+  }
+}

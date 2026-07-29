@@ -1,0 +1,21 @@
+{
+  "globalKey": "c5a43597-3a8d-4bc1-9123-9306ee7206e3",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_STATIC_IP",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": "Static IP is a permanent IP address that doesn't change, allowing it to be used for hosting and remote access solutions",
+    "DeveloperName": "STATIC_IP",
+    "GlobalKey__c": "c5a43597-3a8d-4bc1-9123-9306ee7206e3",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Static IP",
+    "Name": "STATIC IP",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
