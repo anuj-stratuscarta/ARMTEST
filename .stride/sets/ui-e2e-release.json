@@ -1,0 +1,37 @@
+{
+  "slug": "ui-e2e-release",
+  "name": "ui-e2e-release",
+  "createdAt": "2026-07-29T12:28:06.223Z",
+  "updatedAt": "2026-07-29T12:28:06.223Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabels",
+          "fullName": "CustomLabels"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "9a0d550a-6e75-5590-aa15-b8978b2a0c5c"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "release/ui-e2e-release",
+  "description": "Release ui-e2e-release — KAN-2"
+}
