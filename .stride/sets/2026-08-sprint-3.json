@@ -1,0 +1,38 @@
+{
+  "slug": "2026-08-sprint-3",
+  "name": "2026-08 sprint 3",
+  "createdAt": "2026-07-29T12:27:04.221Z",
+  "updatedAt": "2026-07-29T12:27:04.221Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabels",
+          "fullName": "CustomLabels"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "9a0d550a-6e75-5590-aa15-b8978b2a0c5c"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "release/2026-08-sprint-3",
+  "description": "Release 2026-08 sprint 3 — KAN-2",
+  "author": "stride-e2e"
+}
