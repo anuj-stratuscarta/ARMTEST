@@ -1,0 +1,307 @@
+{
+  "component": "solar-panel-array-5kw",
+  "componentGlobalKey": "570d4c1f-1e91-5227-a798-ed6b8397c176",
+  "componentObject": "Product2",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:58927178-dc7c-58f8-b934-395dbfb96f81",
+      "required": false,
+      "to": "AttributePicklist:7c14a011-8399-50ee-b375-7076c048d8e9"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:d44d6a67-307d-524d-8f7b-37670cd4fadb",
+      "required": false,
+      "to": "AttributePicklist:a03ec6c1-b7c3-5a75-a885-b306cd2023a6"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:347e66ed-786c-4b7e-b799-8ff3193906ae",
+      "required": true,
+      "to": "AttributePicklist:7c14a011-8399-50ee-b375-7076c048d8e9"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:347e66ed-786c-4b7e-b799-8ff3193906ae",
+      "required": true,
+      "to": "AttributePicklist:7c14a011-8399-50ee-b375-7076c048d8e9"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:443a15fd-5209-4e08-ad97-5f9f6faf2232",
+      "required": true,
+      "to": "AttributePicklist:a03ec6c1-b7c3-5a75-a885-b306cd2023a6"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:443a15fd-5209-4e08-ad97-5f9f6faf2232",
+      "required": true,
+      "to": "AttributePicklist:a03ec6c1-b7c3-5a75-a885-b306cd2023a6"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:4c1d9358-00c5-4bd9-94d3-c419080e7fba",
+      "required": true,
+      "to": "AttributePicklist:7c14a011-8399-50ee-b375-7076c048d8e9"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:4c1d9358-00c5-4bd9-94d3-c419080e7fba",
+      "required": true,
+      "to": "AttributePicklist:7c14a011-8399-50ee-b375-7076c048d8e9"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:95c6a495-794f-465d-979a-6835c8b9c613",
+      "required": true,
+      "to": "AttributePicklist:7c14a011-8399-50ee-b375-7076c048d8e9"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:95c6a495-794f-465d-979a-6835c8b9c613",
+      "required": true,
+      "to": "AttributePicklist:7c14a011-8399-50ee-b375-7076c048d8e9"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d08ac874-1366-426c-b97e-c9ab0bbb2ea2",
+      "required": true,
+      "to": "AttributePicklist:a03ec6c1-b7c3-5a75-a885-b306cd2023a6"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d08ac874-1366-426c-b97e-c9ab0bbb2ea2",
+      "required": true,
+      "to": "AttributePicklist:a03ec6c1-b7c3-5a75-a885-b306cd2023a6"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f3ad6958-2551-4580-9645-a63781110237",
+      "required": true,
+      "to": "AttributePicklist:a03ec6c1-b7c3-5a75-a885-b306cd2023a6"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f3ad6958-2551-4580-9645-a63781110237",
+      "required": true,
+      "to": "AttributePicklist:a03ec6c1-b7c3-5a75-a885-b306cd2023a6"
+    },
+    {
+      "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PricebookEntry:62021d1c-a7b4-5f8f-a4de-8fd8057ac22f",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:62021d1c-a7b4-5f8f-a4de-8fd8057ac22f",
+      "required": true,
+      "to": "Product2:570d4c1f-1e91-5227-a798-ed6b8397c176"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:62021d1c-a7b4-5f8f-a4de-8fd8057ac22f",
+      "required": true,
+      "to": "Product2:570d4c1f-1e91-5227-a798-ed6b8397c176"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:62021d1c-a7b4-5f8f-a4de-8fd8057ac22f",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:570d4c1f-1e91-5227-a798-ed6b8397c176",
+      "required": false,
+      "to": "ProductClassification:231fec68-ade8-54ff-85e4-8d4b75e60c76"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:0b7f1092-6ca9-4420-a764-0bf28083a09f",
+      "required": true,
+      "to": "AttributeDefinition:58927178-dc7c-58f8-b934-395dbfb96f81"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:0b7f1092-6ca9-4420-a764-0bf28083a09f",
+      "required": true,
+      "to": "ProductClassification:231fec68-ade8-54ff-85e4-8d4b75e60c76"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:0b7f1092-6ca9-4420-a764-0bf28083a09f",
+      "required": true,
+      "to": "ProductClassification:231fec68-ade8-54ff-85e4-8d4b75e60c76"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:7a327bc4-8fab-4eed-a810-379b34bea70f",
+      "required": true,
+      "to": "AttributeDefinition:d44d6a67-307d-524d-8f7b-37670cd4fadb"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:7a327bc4-8fab-4eed-a810-379b34bea70f",
+      "required": true,
+      "to": "ProductClassification:231fec68-ade8-54ff-85e4-8d4b75e60c76"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:7a327bc4-8fab-4eed-a810-379b34bea70f",
+      "required": true,
+      "to": "ProductClassification:231fec68-ade8-54ff-85e4-8d4b75e60c76"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:b491f66e-dd75-4739-ac8f-7562d414b366",
+      "required": true,
+      "to": "AttributeDefinition:4c4f4c3b-f786-5caf-a2d7-3d62367d71b8"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:b491f66e-dd75-4739-ac8f-7562d414b366",
+      "required": true,
+      "to": "ProductClassification:231fec68-ade8-54ff-85e4-8d4b75e60c76"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:b491f66e-dd75-4739-ac8f-7562d414b366",
+      "required": true,
+      "to": "ProductClassification:231fec68-ade8-54ff-85e4-8d4b75e60c76"
+    }
+  ],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "4c4f4c3b-f786-5caf-a2d7-3d62367d71b8",
+      "label": "GEH PANEL WATTAGE",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "58927178-dc7c-58f8-b934-395dbfb96f81",
+      "label": "GEH WARRANTY",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "d44d6a67-307d-524d-8f7b-37670cd4fadb",
+      "label": "GEH CHEMISTRY",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "7c14a011-8399-50ee-b375-7076c048d8e9",
+      "label": "GEH Warranty Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "a03ec6c1-b7c3-5a75-a885-b306cd2023a6",
+      "label": "GEH Battery Chemistry Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "347e66ed-786c-4b7e-b799-8ff3193906ae",
+      "label": "10 Years",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "443a15fd-5209-4e08-ad97-5f9f6faf2232",
+      "label": "LiFePO4",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "4c1d9358-00c5-4bd9-94d3-c419080e7fba",
+      "label": "25 Years",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "95c6a495-794f-465d-979a-6835c8b9c613",
+      "label": "5 Years",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "d08ac874-1366-426c-b97e-c9ab0bbb2ea2",
+      "label": "NMC",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "f3ad6958-2551-4580-9645-a63781110237",
+      "label": "Lead-Acid",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+      "label": "Standard Price Book",
+      "object": "Pricebook2"
+    },
+    {
+      "globalKey": "62021d1c-a7b4-5f8f-a4de-8fd8057ac22f",
+      "label": "Solar Panel Array 5kW",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "570d4c1f-1e91-5227-a798-ed6b8397c176",
+      "label": "Solar Panel Array 5kW",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "231fec68-ade8-54ff-85e4-8d4b75e60c76",
+      "label": "Green Energy Home",
+      "object": "ProductClassification"
+    },
+    {
+      "globalKey": "0b7f1092-6ca9-4420-a764-0bf28083a09f",
+      "label": "GEH WARRANTY",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "7a327bc4-8fab-4eed-a810-379b34bea70f",
+      "label": "GEH CHEMISTRY",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "b491f66e-dd75-4739-ac8f-7562d414b366",
+      "label": "GEH PANEL WATTAGE",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+      "label": "Evergreen - Monthly",
+      "object": "ProductSellingModel"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "570d4c1f-1e91-5227-a798-ed6b8397c176",
+      "object": "Product2"
+    }
+  ]
+}

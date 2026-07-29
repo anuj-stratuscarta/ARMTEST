@@ -1,0 +1,38 @@
+{
+  "slug": "kan-5-green-energy-panel-catalog",
+  "name": "KAN-5-green-energy-panel-catalog",
+  "createdAt": "2026-07-29T12:21:51.016Z",
+  "updatedAt": "2026-07-29T12:21:51.016Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabels",
+          "fullName": "CustomLabels"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "570d4c1f-1e91-5227-a798-ed6b8397c176"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/kan-5-green-energy-panel-catalog",
+  "description": "KAN-5: Green energy panel catalog",
+  "author": "stride-e2e"
+}
