@@ -1,0 +1,15 @@
+{
+  "globalKey": "07644b36-efa0-491f-b0ae-66dc8f9ecaa2",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_STATIC_IP_PLATINUM",
+    "Description": null,
+    "GlobalKey__c": "07644b36-efa0-491f-b0ae-66dc8f9ecaa2",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 0,
+    "Name": "STATIC IP PLATINUM",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "740549fc-c101-4322-803f-0a42d0c1b51a",
+    "Sequence": 20
+  }
+}

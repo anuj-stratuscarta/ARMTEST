@@ -1,0 +1,15 @@
+{
+  "globalKey": "2b6ce923-cdd5-47c3-9579-4a0b953d8f97",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_OPTIONAL_SERVICES_GOLD",
+    "Description": null,
+    "GlobalKey__c": "2b6ce923-cdd5-47c3-9579-4a0b953d8f97",
+    "MaxBundleComponents": 4,
+    "MinBundleComponents": 0,
+    "Name": "OPTIONAL SERVICES GOLD",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "7039466a-7811-423e-807f-5f77968b757c",
+    "Sequence": 40
+  }
+}

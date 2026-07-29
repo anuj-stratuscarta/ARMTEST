@@ -1,0 +1,12 @@
+{
+  "globalKey": "bd51d762-d1bb-4890-9a09-d6ea28202160",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "M001",
+    "GlobalKey__c": "bd51d762-d1bb-4890-9a09-d6ea28202160",
+    "Name": "Mouse",
+    "OwnerId": null,
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
