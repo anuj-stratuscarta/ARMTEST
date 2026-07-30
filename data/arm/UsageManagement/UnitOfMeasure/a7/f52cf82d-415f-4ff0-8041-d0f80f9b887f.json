@@ -1,0 +1,17 @@
+{
+  "globalKey": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": "Currency rate unit for Stride priced-by tests",
+    "GlobalKey__c": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+    "Name": "Stride Test US Dollar",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": null,
+    "Status": "Active",
+    "Type": "Not Applicable",
+    "UnitCode": "STRIDE-USD",
+    "UnitOfMeasureClass.GlobalKey__c": "1341a2c2-3e74-4d4b-8ede-fba707d2bba6"
+  }
+}

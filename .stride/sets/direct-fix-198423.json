@@ -1,0 +1,37 @@
+{
+  "slug": "direct-fix-198423",
+  "name": "direct-fix-198423",
+  "createdAt": "2026-07-30T20:43:40.034Z",
+  "updatedAt": "2026-07-30T20:43:40.034Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "c0868b84-bf41-5a7c-87ed-d866bdbf4cff"
+          ]
+        },
+        {
+          "object": "RateCard",
+          "intent": "picked",
+          "records": [
+            "b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66",
+            "7f932324-3974-47ad-8290-b4c024ae8eaa"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2",
+          "RateCard"
+        ]
+      }
+    }
+  },
+  "branch": "feature/direct-fix-198423"
+}
