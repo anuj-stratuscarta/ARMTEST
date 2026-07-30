@@ -1,0 +1,12 @@
+{
+  "globalKey": "b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66",
+  "object": "RateCard",
+  "record": {
+    "Description": "Shared base card — prices two products, one of which is NOT in the capture set",
+    "EffectiveFrom": "2025-12-31T20:00:00.000+0000",
+    "EffectiveTo": "2030-12-30T20:00:00.000+0000",
+    "GlobalKey__c": "b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66",
+    "Name": "STRIDE_RC_BASE",
+    "Type": "Base"
+  }
+}

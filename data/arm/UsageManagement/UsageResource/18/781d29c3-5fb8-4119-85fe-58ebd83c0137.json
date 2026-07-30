@@ -1,0 +1,17 @@
+{
+  "globalKey": "781d29c3-5fb8-4119-85fe-58ebd83c0137",
+  "object": "UsageResource",
+  "record": {
+    "Category": "Usage",
+    "Code": "STRIDE_UR_SMS",
+    "DefaultUnitOfMeasure.GlobalKey__c": "1dc0af12-7420-4a48-9fea-46515c63daed",
+    "Description": "Message consumption, Stride priced-by test",
+    "GlobalKey__c": "781d29c3-5fb8-4119-85fe-58ebd83c0137",
+    "Name": "Stride Test Messages",
+    "Status": "Draft",
+    "TokenResource": null,
+    "UnitOfMeasureClass.GlobalKey__c": "52eb2b35-b390-4170-a6d6-564f13cd374f",
+    "UsageDefinitionProduct": null,
+    "UsageResourceBillingPolicy.GlobalKey__c": "f228bbd7-f62a-4e36-9cbc-1e59ad41414f"
+  }
+}

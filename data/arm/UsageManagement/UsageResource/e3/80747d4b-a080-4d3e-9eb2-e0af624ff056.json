@@ -1,0 +1,17 @@
+{
+  "globalKey": "80747d4b-a080-4d3e-9eb2-e0af624ff056",
+  "object": "UsageResource",
+  "record": {
+    "Category": "Usage",
+    "Code": "STRIDE_UR_DATA",
+    "DefaultUnitOfMeasure.GlobalKey__c": "1dc0af12-7420-4a48-9fea-46515c63daed",
+    "Description": "Data consumption, Stride priced-by test",
+    "GlobalKey__c": "80747d4b-a080-4d3e-9eb2-e0af624ff056",
+    "Name": "Stride Test Data",
+    "Status": "Draft",
+    "TokenResource": null,
+    "UnitOfMeasureClass.GlobalKey__c": "52eb2b35-b390-4170-a6d6-564f13cd374f",
+    "UsageDefinitionProduct": null,
+    "UsageResourceBillingPolicy.GlobalKey__c": "f228bbd7-f62a-4e36-9cbc-1e59ad41414f"
+  }
+}
