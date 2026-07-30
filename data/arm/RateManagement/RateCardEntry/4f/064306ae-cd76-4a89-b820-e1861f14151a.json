@@ -1,0 +1,17 @@
+{
+  "globalKey": "064306ae-cd76-4a89-b820-e1861f14151a",
+  "object": "RateCardEntry",
+  "record": {
+    "EffectiveFrom": "2025-12-31T20:00:00.000+0000",
+    "EffectiveTo": "2030-12-30T20:00:00.000+0000",
+    "GlobalKey__c": "064306ae-cd76-4a89-b820-e1861f14151a",
+    "Product.GlobalKey__c": "5e6b0956-75d1-4eef-8fcc-84c78064993c",
+    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+    "Rate": 0.02,
+    "RateCard.GlobalKey__c": "b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66",
+    "RateNegotiation": "Negotiable",
+    "RateUnitOfMeasure.GlobalKey__c": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+    "Status": "Draft",
+    "UsageResource.GlobalKey__c": "781d29c3-5fb8-4119-85fe-58ebd83c0137"
+  }
+}

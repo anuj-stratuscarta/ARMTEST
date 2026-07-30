@@ -1,0 +1,17 @@
+{
+  "globalKey": "1dc0af12-7420-4a48-9fea-46515c63daed",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": "Usage unit for Stride priced-by tests",
+    "GlobalKey__c": "1dc0af12-7420-4a48-9fea-46515c63daed",
+    "Name": "Stride Test Gigabyte",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": null,
+    "Status": "Active",
+    "Type": "Not Applicable",
+    "UnitCode": "STRIDE-GB",
+    "UnitOfMeasureClass.GlobalKey__c": "52eb2b35-b390-4170-a6d6-564f13cd374f"
+  }
+}
