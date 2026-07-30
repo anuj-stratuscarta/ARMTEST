@@ -1,0 +1,14 @@
+{
+  "globalKey": "52eb2b35-b390-4170-a6d6-564f13cd374f",
+  "object": "UnitOfMeasureClass",
+  "record": {
+    "BaseUnitOfMeasure.GlobalKey__c": "1dc0af12-7420-4a48-9fea-46515c63daed",
+    "Code": "STRIDE_UOMC_USAGE",
+    "DefaultUnitOfMeasure.GlobalKey__c": "1dc0af12-7420-4a48-9fea-46515c63daed",
+    "Description": "Usage UoM class for Stride priced-by tests",
+    "GlobalKey__c": "52eb2b35-b390-4170-a6d6-564f13cd374f",
+    "Name": "Stride Test Usage Class",
+    "Status": "Active",
+    "Type": "Usage"
+  }
+}

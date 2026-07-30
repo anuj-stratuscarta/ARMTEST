@@ -1,0 +1,17 @@
+{
+  "globalKey": "79a3b869-fde6-4688-a716-cfd2cd92a90c",
+  "object": "RateCardEntry",
+  "record": {
+    "EffectiveFrom": "2025-12-31T20:00:00.000+0000",
+    "EffectiveTo": "2030-12-30T20:00:00.000+0000",
+    "GlobalKey__c": "79a3b869-fde6-4688-a716-cfd2cd92a90c",
+    "Product.GlobalKey__c": "c0868b84-bf41-5a7c-87ed-d866bdbf4cff",
+    "ProductSellingModel.Name": "Evergreen - Monthly",
+    "Rate": null,
+    "RateCard.GlobalKey__c": "7f932324-3974-47ad-8290-b4c024ae8eaa",
+    "RateNegotiation": "Negotiable",
+    "RateUnitOfMeasure.GlobalKey__c": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+    "Status": "Draft",
+    "UsageResource.GlobalKey__c": "80747d4b-a080-4d3e-9eb2-e0af624ff056"
+  }
+}
