@@ -1,0 +1,12 @@
+{
+  "globalKey": "f228bbd7-f62a-4e36-9cbc-1e59ad41414f",
+  "object": "UsageResourceBillingPolicy",
+  "record": {
+    "Code": "MONTHLY_AGGREGATION1783087880434",
+    "GlobalKey__c": "f228bbd7-f62a-4e36-9cbc-1e59ad41414f",
+    "Name": "Aggregate Usage Monthly by Sum",
+    "Status": "Active",
+    "UsageAccumulationMethod": "Sum",
+    "UsageAccumulationPeriod": "Monthly"
+  }
+}
