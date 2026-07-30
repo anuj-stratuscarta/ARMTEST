@@ -1,0 +1,13 @@
+{
+  "globalKey": "28faddbe-79fb-4422-b4c1-a865c2863b94",
+  "object": "ProductDisqualification",
+  "record": {
+    "EffectiveFromDate": "2026-07-17",
+    "EffectiveToDate": "2028-07-17",
+    "GlobalKey__c": "28faddbe-79fb-4422-b4c1-a865c2863b94",
+    "ParentProduct": null,
+    "Product.GlobalKey__c": "01c58955-3243-4220-a845-ad6870699d71",
+    "Reason": null,
+    "RootProduct": null
+  }
+}
