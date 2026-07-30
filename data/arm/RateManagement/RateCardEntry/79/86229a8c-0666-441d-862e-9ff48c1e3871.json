@@ -1,0 +1,17 @@
+{
+  "globalKey": "86229a8c-0666-441d-862e-9ff48c1e3871",
+  "object": "RateCardEntry",
+  "record": {
+    "EffectiveFrom": "2025-12-31T20:00:00.000+0000",
+    "EffectiveTo": "2030-12-30T20:00:00.000+0000",
+    "GlobalKey__c": "86229a8c-0666-441d-862e-9ff48c1e3871",
+    "Product": null,
+    "ProductSellingModel": null,
+    "Rate": 0.1,
+    "RateCard.GlobalKey__c": "b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66",
+    "RateNegotiation": "NonNegotiable",
+    "RateUnitOfMeasure.GlobalKey__c": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+    "Status": "Draft",
+    "UsageResource.GlobalKey__c": "80747d4b-a080-4d3e-9eb2-e0af624ff056"
+  }
+}

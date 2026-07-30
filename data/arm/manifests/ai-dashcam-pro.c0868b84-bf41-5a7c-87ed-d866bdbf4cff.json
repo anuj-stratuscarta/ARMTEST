@@ -1,0 +1,874 @@
+{
+  "component": "ai-dashcam-pro",
+  "componentGlobalKey": "c0868b84-bf41-5a7c-87ed-d866bdbf4cff",
+  "componentObject": "Product2",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:0c0716ea-6d55-556f-88b9-141fbdaff075",
+      "required": false,
+      "to": "AttributePicklist:44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:5c70aa85-0b85-5197-a9ca-3a0401c4244d",
+      "required": false,
+      "to": "AttributePicklist:e641a373-02e7-5dcf-a294-0d85b6f5d930"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:261be447-32bf-4022-b1b0-e0b2bb104bee",
+      "required": true,
+      "to": "AttributePicklist:44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:261be447-32bf-4022-b1b0-e0b2bb104bee",
+      "required": true,
+      "to": "AttributePicklist:44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:c769fea0-74fe-4303-b1b5-0587d2dc33be",
+      "required": true,
+      "to": "AttributePicklist:44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:c769fea0-74fe-4303-b1b5-0587d2dc33be",
+      "required": true,
+      "to": "AttributePicklist:44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:cd248afa-c140-4fec-8458-d9092525c77f",
+      "required": true,
+      "to": "AttributePicklist:44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:cd248afa-c140-4fec-8458-d9092525c77f",
+      "required": true,
+      "to": "AttributePicklist:44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:cfb434ef-bd52-4768-89d9-a717bdaee427",
+      "required": true,
+      "to": "AttributePicklist:e641a373-02e7-5dcf-a294-0d85b6f5d930"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:cfb434ef-bd52-4768-89d9-a717bdaee427",
+      "required": true,
+      "to": "AttributePicklist:e641a373-02e7-5dcf-a294-0d85b6f5d930"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d8025103-b38b-405a-892d-46bb982b7695",
+      "required": true,
+      "to": "AttributePicklist:e641a373-02e7-5dcf-a294-0d85b6f5d930"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:d8025103-b38b-405a-892d-46bb982b7695",
+      "required": true,
+      "to": "AttributePicklist:e641a373-02e7-5dcf-a294-0d85b6f5d930"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f45757a3-c497-4fda-9c7b-0e03b1ab94b5",
+      "required": true,
+      "to": "AttributePicklist:e641a373-02e7-5dcf-a294-0d85b6f5d930"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f45757a3-c497-4fda-9c7b-0e03b1ab94b5",
+      "required": true,
+      "to": "AttributePicklist:e641a373-02e7-5dcf-a294-0d85b6f5d930"
+    },
+    {
+      "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PricebookEntry:64e92cce-39eb-5a11-a8b0-781f3e7a1fe6",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:64e92cce-39eb-5a11-a8b0-781f3e7a1fe6",
+      "required": true,
+      "to": "Product2:c0868b84-bf41-5a7c-87ed-d866bdbf4cff"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:64e92cce-39eb-5a11-a8b0-781f3e7a1fe6",
+      "required": true,
+      "to": "Product2:c0868b84-bf41-5a7c-87ed-d866bdbf4cff"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "PricebookEntry:64e92cce-39eb-5a11-a8b0-781f3e7a1fe6",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "Pricebook2Id",
+      "from": "PricebookEntry:882e3453-e7ae-4e2f-8cee-eebc03bc6d35",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:882e3453-e7ae-4e2f-8cee-eebc03bc6d35",
+      "required": true,
+      "to": "Product2:5e6b0956-75d1-4eef-8fcc-84c78064993c"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:882e3453-e7ae-4e2f-8cee-eebc03bc6d35",
+      "required": true,
+      "to": "Product2:5e6b0956-75d1-4eef-8fcc-84c78064993c"
+    },
+    {
+      "direction": "forward",
+      "field": "PriceBookId",
+      "from": "PriceBookRateCard:01573d4b-68c2-48b5-8281-310239b19181",
+      "required": true,
+      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "PriceBookRateCard:01573d4b-68c2-48b5-8281-310239b19181",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardId",
+      "from": "PriceBookRateCard:01573d4b-68c2-48b5-8281-310239b19181",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:c0868b84-bf41-5a7c-87ed-d866bdbf4cff",
+      "required": false,
+      "to": "ProductClassification:94d7c516-2b3a-5c9f-a969-9cf902e77f1c"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:093e4316-5dfa-4f9d-a9ef-eeb6fde09374",
+      "required": true,
+      "to": "AttributeDefinition:a59961e6-65fb-5433-b0ec-4af7d6009bdd"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:093e4316-5dfa-4f9d-a9ef-eeb6fde09374",
+      "required": true,
+      "to": "ProductClassification:94d7c516-2b3a-5c9f-a969-9cf902e77f1c"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:093e4316-5dfa-4f9d-a9ef-eeb6fde09374",
+      "required": true,
+      "to": "ProductClassification:94d7c516-2b3a-5c9f-a969-9cf902e77f1c"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:7bb9a98d-1ac7-49b2-901a-02d068bc1a35",
+      "required": true,
+      "to": "AttributeDefinition:5c70aa85-0b85-5197-a9ca-3a0401c4244d"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:7bb9a98d-1ac7-49b2-901a-02d068bc1a35",
+      "required": true,
+      "to": "ProductClassification:94d7c516-2b3a-5c9f-a969-9cf902e77f1c"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:7bb9a98d-1ac7-49b2-901a-02d068bc1a35",
+      "required": true,
+      "to": "ProductClassification:94d7c516-2b3a-5c9f-a969-9cf902e77f1c"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:c567ec8c-ee0c-4028-a37a-9dc7332e9a03",
+      "required": true,
+      "to": "AttributeDefinition:0c0716ea-6d55-556f-88b9-141fbdaff075"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:c567ec8c-ee0c-4028-a37a-9dc7332e9a03",
+      "required": true,
+      "to": "ProductClassification:94d7c516-2b3a-5c9f-a969-9cf902e77f1c"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:c567ec8c-ee0c-4028-a37a-9dc7332e9a03",
+      "required": true,
+      "to": "ProductClassification:94d7c516-2b3a-5c9f-a969-9cf902e77f1c"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductId",
+      "from": "RateAdjustmentByTier:1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "required": false,
+      "to": "Product2:c0868b84-bf41-5a7c-87ed-d866bdbf4cff"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "RateAdjustmentByTier:1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateAdjustmentByTier:1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "required": false,
+      "to": "RateCard:7f932324-3974-47ad-8290-b4c024ae8eaa"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByTier:1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "required": true,
+      "to": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByTier:1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "required": true,
+      "to": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureId",
+      "from": "RateAdjustmentByTier:1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "required": false,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateAdjustmentByTier:1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "required": false,
+      "to": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductId",
+      "from": "RateAdjustmentByTier:cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "required": false,
+      "to": "Product2:c0868b84-bf41-5a7c-87ed-d866bdbf4cff"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "RateAdjustmentByTier:cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateAdjustmentByTier:cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "required": false,
+      "to": "RateCard:7f932324-3974-47ad-8290-b4c024ae8eaa"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByTier:cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "required": true,
+      "to": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByTier:cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "required": true,
+      "to": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureId",
+      "from": "RateAdjustmentByTier:cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "required": false,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateAdjustmentByTier:cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "required": false,
+      "to": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": false,
+      "to": "Product2:5e6b0956-75d1-4eef-8fcc-84c78064993c"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": true,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": true,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureClassId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": false,
+      "to": "UnitOfMeasureClass:1341a2c2-3e74-4d4b-8ede-fba707d2bba6"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureClassId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": false,
+      "to": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateCardEntry:064306ae-cd76-4a89-b820-e1861f14151a",
+      "required": false,
+      "to": "UsageResource:781d29c3-5fb8-4119-85fe-58ebd83c0137"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": false,
+      "to": "Product2:c0868b84-bf41-5a7c-87ed-d866bdbf4cff"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": true,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": true,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureClassId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": false,
+      "to": "UnitOfMeasureClass:1341a2c2-3e74-4d4b-8ede-fba707d2bba6"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureClassId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": false,
+      "to": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateCardEntry:6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "required": false,
+      "to": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": false,
+      "to": "Product2:c0868b84-bf41-5a7c-87ed-d866bdbf4cff"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductSellingModelId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": false,
+      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": true,
+      "to": "RateCard:7f932324-3974-47ad-8290-b4c024ae8eaa"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": true,
+      "to": "RateCard:7f932324-3974-47ad-8290-b4c024ae8eaa"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": true,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": true,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureClassId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": false,
+      "to": "UnitOfMeasureClass:1341a2c2-3e74-4d4b-8ede-fba707d2bba6"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureClassId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": false,
+      "to": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateCardEntry:79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "required": false,
+      "to": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateCardEntry:86229a8c-0666-441d-862e-9ff48c1e3871",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardId",
+      "from": "RateCardEntry:86229a8c-0666-441d-862e-9ff48c1e3871",
+      "required": true,
+      "to": "RateCard:b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "RateCardEntry:86229a8c-0666-441d-862e-9ff48c1e3871",
+      "required": true,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureId",
+      "from": "RateCardEntry:86229a8c-0666-441d-862e-9ff48c1e3871",
+      "required": true,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "RateUnitOfMeasureClassId",
+      "from": "RateCardEntry:86229a8c-0666-441d-862e-9ff48c1e3871",
+      "required": false,
+      "to": "UnitOfMeasureClass:1341a2c2-3e74-4d4b-8ede-fba707d2bba6"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureClassId",
+      "from": "RateCardEntry:86229a8c-0666-441d-862e-9ff48c1e3871",
+      "required": false,
+      "to": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateCardEntry:86229a8c-0666-441d-862e-9ff48c1e3871",
+      "required": false,
+      "to": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056"
+    },
+    {
+      "direction": "forward",
+      "field": "UnitOfMeasureClassId",
+      "from": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed",
+      "required": false,
+      "to": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f"
+    },
+    {
+      "direction": "forward",
+      "field": "UnitOfMeasureClassId",
+      "from": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+      "required": false,
+      "to": "UnitOfMeasureClass:1341a2c2-3e74-4d4b-8ede-fba707d2bba6"
+    },
+    {
+      "direction": "forward",
+      "field": "BaseUnitOfMeasureId",
+      "from": "UnitOfMeasureClass:1341a2c2-3e74-4d4b-8ede-fba707d2bba6",
+      "required": true,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "UnitOfMeasureClass:1341a2c2-3e74-4d4b-8ede-fba707d2bba6",
+      "required": true,
+      "to": "UnitOfMeasure:f52cf82d-415f-4ff0-8041-d0f80f9b887f"
+    },
+    {
+      "direction": "forward",
+      "field": "BaseUnitOfMeasureId",
+      "from": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f",
+      "required": true,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f",
+      "required": true,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "UsageResource:781d29c3-5fb8-4119-85fe-58ebd83c0137",
+      "required": false,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "UnitOfMeasureClassId",
+      "from": "UsageResource:781d29c3-5fb8-4119-85fe-58ebd83c0137",
+      "required": false,
+      "to": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceBillingPolicyId",
+      "from": "UsageResource:781d29c3-5fb8-4119-85fe-58ebd83c0137",
+      "required": true,
+      "to": "UsageResourceBillingPolicy:f228bbd7-f62a-4e36-9cbc-1e59ad41414f"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultUnitOfMeasureId",
+      "from": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056",
+      "required": false,
+      "to": "UnitOfMeasure:1dc0af12-7420-4a48-9fea-46515c63daed"
+    },
+    {
+      "direction": "forward",
+      "field": "UnitOfMeasureClassId",
+      "from": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056",
+      "required": false,
+      "to": "UnitOfMeasureClass:52eb2b35-b390-4170-a6d6-564f13cd374f"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceBillingPolicyId",
+      "from": "UsageResource:80747d4b-a080-4d3e-9eb2-e0af624ff056",
+      "required": true,
+      "to": "UsageResourceBillingPolicy:f228bbd7-f62a-4e36-9cbc-1e59ad41414f"
+    }
+  ],
+  "leaves": [],
+  "nodes": [
+    {
+      "globalKey": "0c0716ea-6d55-556f-88b9-141fbdaff075",
+      "label": "FLT REFRESH RATE",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "5c70aa85-0b85-5197-a9ca-3a0401c4244d",
+      "label": "FLT CONNECTIVITY",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "a59961e6-65fb-5433-b0ec-4af7d6009bdd",
+      "label": "FLT STORAGE GB",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "44c4cb03-9aa2-54ec-b6f1-7b8adcd62c01",
+      "label": "FLT Refresh Rate Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "e641a373-02e7-5dcf-a294-0d85b6f5d930",
+      "label": "FLT Connectivity Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "261be447-32bf-4022-b1b0-e0b2bb104bee",
+      "label": "30 seconds",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "c769fea0-74fe-4303-b1b5-0587d2dc33be",
+      "label": "1 second",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "cd248afa-c140-4fec-8458-d9092525c77f",
+      "label": "5 seconds",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "cfb434ef-bd52-4768-89d9-a717bdaee427",
+      "label": "5G",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "d8025103-b38b-405a-892d-46bb982b7695",
+      "label": "Satellite",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "f45757a3-c497-4fda-9c7b-0e03b1ab94b5",
+      "label": "4G LTE",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+      "label": "Standard Price Book",
+      "object": "Pricebook2"
+    },
+    {
+      "globalKey": "64e92cce-39eb-5a11-a8b0-781f3e7a1fe6",
+      "label": "AI Dashcam Pro",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "882e3453-e7ae-4e2f-8cee-eebc03bc6d35",
+      "label": "ACME GPON ONT G2801G",
+      "object": "PricebookEntry"
+    },
+    {
+      "displayLabel": "Standard Price Book ↔ STRIDE_RC_BASE",
+      "globalKey": "01573d4b-68c2-48b5-8281-310239b19181",
+      "label": "PRC-00000001",
+      "object": "PriceBookRateCard"
+    },
+    {
+      "globalKey": "5e6b0956-75d1-4eef-8fcc-84c78064993c",
+      "label": "ACME GPON ONT G2801G",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "c0868b84-bf41-5a7c-87ed-d866bdbf4cff",
+      "label": "AI Dashcam Pro",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "94d7c516-2b3a-5c9f-a969-9cf902e77f1c",
+      "label": "Fleet Telematics",
+      "object": "ProductClassification"
+    },
+    {
+      "globalKey": "093e4316-5dfa-4f9d-a9ef-eeb6fde09374",
+      "label": "FLT STORAGE GB",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "7bb9a98d-1ac7-49b2-901a-02d068bc1a35",
+      "label": "FLT CONNECTIVITY",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "c567ec8c-ee0c-4028-a37a-9dc7332e9a03",
+      "label": "FLT REFRESH RATE",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+      "label": "Evergreen - Monthly",
+      "object": "ProductSellingModel"
+    },
+    {
+      "displayLabel": "STRIDE_RC_TIER ↔ Stride Test US Dollar ↔ Stride Test Currency Class ↔ Stride Test Data ↔ AI Dashcam Pro ↔ Evergreen - Monthly ↔ Stride Test Usage Class ↔ Stride Test Gigabyte ↔ STRIDE_RC_TIER ↔ Stride Test Data ↔ AI Dashcam Pro ↔ Stride Test US Dollar ↔ Evergreen - Monthly",
+      "globalKey": "1ef4ecf3-4716-4e99-b27d-b17913b410c9",
+      "label": "RAT-00000002",
+      "object": "RateAdjustmentByTier"
+    },
+    {
+      "displayLabel": "STRIDE_RC_TIER ↔ Stride Test US Dollar ↔ Stride Test Currency Class ↔ Stride Test Data ↔ AI Dashcam Pro ↔ Evergreen - Monthly ↔ Stride Test Usage Class ↔ Stride Test Gigabyte ↔ STRIDE_RC_TIER ↔ Stride Test Data ↔ AI Dashcam Pro ↔ Stride Test US Dollar ↔ Evergreen - Monthly",
+      "globalKey": "cb4b7dd5-0389-413c-b14b-d3912579483e",
+      "label": "RAT-00000001",
+      "object": "RateAdjustmentByTier"
+    },
+    {
+      "globalKey": "7f932324-3974-47ad-8290-b4c024ae8eaa",
+      "label": "STRIDE_RC_TIER",
+      "object": "RateCard"
+    },
+    {
+      "globalKey": "b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66",
+      "label": "STRIDE_RC_BASE",
+      "object": "RateCard"
+    },
+    {
+      "displayLabel": "STRIDE_RC_BASE ↔ Stride Test US Dollar ↔ Stride Test Currency Class ↔ Stride Test Messages ↔ ACME GPON ONT G2801G ↔ Evergreen - Monthly ↔ Stride Test Usage Class ↔ Stride Test Gigabyte",
+      "globalKey": "064306ae-cd76-4a89-b820-e1861f14151a",
+      "label": "RCE-00000002",
+      "object": "RateCardEntry"
+    },
+    {
+      "displayLabel": "STRIDE_RC_BASE ↔ Stride Test US Dollar ↔ Stride Test Currency Class ↔ Stride Test Data ↔ AI Dashcam Pro ↔ Evergreen - Monthly ↔ Stride Test Usage Class ↔ Stride Test Gigabyte",
+      "globalKey": "6e3ce535-a625-4f35-83fb-28353ff220ec",
+      "label": "RCE-00000001",
+      "object": "RateCardEntry"
+    },
+    {
+      "displayLabel": "STRIDE_RC_TIER ↔ Stride Test US Dollar ↔ Stride Test Currency Class ↔ Stride Test Data ↔ AI Dashcam Pro ↔ Evergreen - Monthly ↔ Stride Test Usage Class ↔ Stride Test Gigabyte",
+      "globalKey": "79a3b869-fde6-4688-a716-cfd2cd92a90c",
+      "label": "RCE-00000004",
+      "object": "RateCardEntry"
+    },
+    {
+      "displayLabel": "STRIDE_RC_BASE ↔ Stride Test US Dollar ↔ Stride Test Currency Class ↔ Stride Test Data ↔ Stride Test Usage Class ↔ Stride Test Gigabyte",
+      "globalKey": "86229a8c-0666-441d-862e-9ff48c1e3871",
+      "label": "RCE-00000003",
+      "object": "RateCardEntry"
+    },
+    {
+      "globalKey": "1dc0af12-7420-4a48-9fea-46515c63daed",
+      "label": "Stride Test Gigabyte",
+      "object": "UnitOfMeasure"
+    },
+    {
+      "globalKey": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+      "label": "Stride Test US Dollar",
+      "object": "UnitOfMeasure"
+    },
+    {
+      "globalKey": "1341a2c2-3e74-4d4b-8ede-fba707d2bba6",
+      "label": "Stride Test Currency Class",
+      "object": "UnitOfMeasureClass"
+    },
+    {
+      "globalKey": "52eb2b35-b390-4170-a6d6-564f13cd374f",
+      "label": "Stride Test Usage Class",
+      "object": "UnitOfMeasureClass"
+    },
+    {
+      "globalKey": "781d29c3-5fb8-4119-85fe-58ebd83c0137",
+      "label": "Stride Test Messages",
+      "object": "UsageResource"
+    },
+    {
+      "globalKey": "80747d4b-a080-4d3e-9eb2-e0af624ff056",
+      "label": "Stride Test Data",
+      "object": "UsageResource"
+    },
+    {
+      "globalKey": "f228bbd7-f62a-4e36-9cbc-1e59ad41414f",
+      "label": "Aggregate Usage Monthly by Sum",
+      "object": "UsageResourceBillingPolicy"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "c0868b84-bf41-5a7c-87ed-d866bdbf4cff",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "7f932324-3974-47ad-8290-b4c024ae8eaa",
+      "object": "RateCard"
+    },
+    {
+      "globalKey": "b4a72b2b-b3b2-4ce6-91f6-3d194f4e3f66",
+      "object": "RateCard"
+    }
+  ]
+}

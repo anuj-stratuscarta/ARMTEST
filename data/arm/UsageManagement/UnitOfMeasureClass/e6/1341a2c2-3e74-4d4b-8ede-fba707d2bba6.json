@@ -1,0 +1,14 @@
+{
+  "globalKey": "1341a2c2-3e74-4d4b-8ede-fba707d2bba6",
+  "object": "UnitOfMeasureClass",
+  "record": {
+    "BaseUnitOfMeasure.GlobalKey__c": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+    "Code": "STRIDE_UOMC_CURRENCY",
+    "DefaultUnitOfMeasure.GlobalKey__c": "f52cf82d-415f-4ff0-8041-d0f80f9b887f",
+    "Description": "Currency UoM class for Stride priced-by tests — rate entries require one",
+    "GlobalKey__c": "1341a2c2-3e74-4d4b-8ede-fba707d2bba6",
+    "Name": "Stride Test Currency Class",
+    "Status": "Active",
+    "Type": "Currency"
+  }
+}
