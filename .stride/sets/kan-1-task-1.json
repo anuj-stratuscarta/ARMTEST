@@ -1,0 +1,41 @@
+{
+  "slug": "kan-1-task-1",
+  "name": "KAN-1-task-1",
+  "createdAt": "2026-07-30T21:37:41.878Z",
+  "updatedAt": "2026-07-30T21:37:41.878Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "MutationAddFieldsPostExt"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "CustomerAccountNumberResolverExt"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "01c58955-3243-4220-a845-ad6870699d71"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/kan-1-task-1",
+  "description": "KAN-1: Task 1"
+}

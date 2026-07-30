@@ -1,0 +1,12 @@
+{
+  "globalKey": "6db52908-c828-4475-88ae-ca0b315c9f3a",
+  "object": "ProductQualification",
+  "record": {
+    "EffectiveFromDate": "2026-07-17",
+    "EffectiveToDate": "2028-07-17",
+    "GlobalKey__c": "6db52908-c828-4475-88ae-ca0b315c9f3a",
+    "ParentProduct": null,
+    "Product.GlobalKey__c": "01c58955-3243-4220-a845-ad6870699d71",
+    "RootProduct": null
+  }
+}
