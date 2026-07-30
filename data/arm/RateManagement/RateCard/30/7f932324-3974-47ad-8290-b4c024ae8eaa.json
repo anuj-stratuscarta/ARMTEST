@@ -1,0 +1,12 @@
+{
+  "globalKey": "7f932324-3974-47ad-8290-b4c024ae8eaa",
+  "object": "RateCard",
+  "record": {
+    "Description": "Tier card on the same product, so a capture is offered two cards",
+    "EffectiveFrom": "2025-12-31T20:00:00.000+0000",
+    "EffectiveTo": "2030-12-30T20:00:00.000+0000",
+    "GlobalKey__c": "7f932324-3974-47ad-8290-b4c024ae8eaa",
+    "Name": "STRIDE_RC_TIER",
+    "Type": "Tier"
+  }
+}
