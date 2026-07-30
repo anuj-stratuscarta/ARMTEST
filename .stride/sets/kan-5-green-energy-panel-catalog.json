@@ -1,8 +1,8 @@
 {
   "slug": "kan-5-green-energy-panel-catalog",
   "name": "KAN-5-green-energy-panel-catalog",
-  "createdAt": "2026-07-30T00:24:12.918Z",
-  "updatedAt": "2026-07-30T00:24:12.918Z",
+  "createdAt": "2026-07-30T00:25:55.831Z",
+  "updatedAt": "2026-07-30T00:25:55.831Z",
   "version": 1,
   "lanes": {
     "metadata": {
@@ -33,6 +33,5 @@
     }
   },
   "branch": "feature/kan-5-green-energy-panel-catalog",
-  "description": "KAN-5: Green energy panel catalog",
-  "author": "stride-e2e"
+  "description": "KAN-5: Green energy panel catalog"
 }
