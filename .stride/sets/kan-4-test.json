@@ -1,19 +1,19 @@
 {
   "slug": "kan-4-test",
   "name": "kan-4-test",
-  "createdAt": "2026-08-03T22:46:05.916Z",
-  "updatedAt": "2026-08-03T22:46:05.916Z",
+  "createdAt": "2026-08-03T22:53:12.743Z",
+  "updatedAt": "2026-08-03T22:53:12.743Z",
   "version": 1,
   "lanes": {
     "metadata": {
       "components": [
         {
           "type": "ApexClass",
-          "fullName": "AccountNumberResolverDeleteExt"
+          "fullName": "QuoteRecipientHelper"
         },
         {
           "type": "ApexClass",
-          "fullName": "SectionBlockController"
+          "fullName": "StrideDemoPricingUtil"
         }
       ]
     },
@@ -23,7 +23,6 @@
           "object": "Product2",
           "intent": "picked",
           "records": [
-            "7039466a-7811-423e-807f-5f77968b757c",
             "01c58955-3243-4220-a845-ad6870699d71"
           ]
         }
