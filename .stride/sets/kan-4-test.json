@@ -1,19 +1,19 @@
 {
   "slug": "kan-4-test",
   "name": "kan-4-test",
-  "createdAt": "2026-08-03T22:55:26.046Z",
-  "updatedAt": "2026-08-03T22:55:26.046Z",
+  "createdAt": "2026-08-03T23:05:29.947Z",
+  "updatedAt": "2026-08-03T23:05:29.947Z",
   "version": 1,
   "lanes": {
     "metadata": {
       "components": [
         {
           "type": "ApexClass",
-          "fullName": "StrideE2EMixed"
+          "fullName": "CommsDemoBundle275836"
         },
         {
           "type": "ApexClass",
-          "fullName": "AccountNumberResolverDeleteExt"
+          "fullName": "UserInformation"
         }
       ]
     },
