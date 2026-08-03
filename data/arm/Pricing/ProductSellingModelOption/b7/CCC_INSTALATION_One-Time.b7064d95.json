@@ -4,7 +4,7 @@
   "record": {
     "IsDefault": true,
     "Product2.GlobalKey__c": "23aac843-86b9-46c8-a34c-ceb8cba8ba36",
-    "ProductSellingModel.GlobalKey__c": "c1d510f8-2e52-404b-bc11-df4c4d486dbf",
+    "ProductSellingModel.Name": "One-Time",
     "ProrationPolicy": null
   }
 }

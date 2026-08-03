@@ -4,7 +4,7 @@
   "record": {
     "IsDefault": true,
     "Product2.GlobalKey__c": "2b0a5aec-b33d-400a-801b-baf773dd28e6",
-    "ProductSellingModel.GlobalKey__c": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
+    "ProductSellingModel.Name": "Evergreen - Monthly",
     "ProrationPolicy.Name": "Default Proration Policy"
   }
 }

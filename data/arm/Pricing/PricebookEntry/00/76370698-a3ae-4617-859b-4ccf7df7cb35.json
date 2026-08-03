@@ -5,9 +5,9 @@
     "GlobalKey__c": "76370698-a3ae-4617-859b-4ccf7df7cb35",
     "IsActive": true,
     "IsDerived": false,
-    "Pricebook2.GlobalKey__c": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
+    "Pricebook2.Name": "Standard Price Book",
     "Product2.GlobalKey__c": "23aac843-86b9-46c8-a34c-ceb8cba8ba36",
-    "ProductSellingModel.GlobalKey__c": "c1d510f8-2e52-404b-bc11-df4c4d486dbf",
+    "ProductSellingModel.Name": "One-Time",
     "UnitPrice": 20,
     "UseStandardPrice": false
   }
