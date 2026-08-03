@@ -1,19 +1,19 @@
 {
   "slug": "kan-4-test",
   "name": "kan-4-test",
-  "createdAt": "2026-08-03T23:06:51.479Z",
-  "updatedAt": "2026-08-03T23:06:51.479Z",
+  "createdAt": "2026-08-03T23:08:32.931Z",
+  "updatedAt": "2026-08-03T23:08:32.931Z",
   "version": 1,
   "lanes": {
     "metadata": {
       "components": [
         {
           "type": "ApexClass",
-          "fullName": "StrideDemoBundle"
+          "fullName": "DynamicLinkHelper"
         },
         {
           "type": "ApexClass",
-          "fullName": "UserInformation"
+          "fullName": "MutationAddFieldsPostExt"
         }
       ]
     },
