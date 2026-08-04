@@ -1,0 +1,29 @@
+{
+  "globalKey": "59e05545-2048-4853-a4b9-075adeeea0e9",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "b62d9da5-9a0a-40cb-bf09-90b317c1613d",
+    "AttributeNameOverride": "FMAX MESH NODES",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "59e05545-2048-4853-a4b9-075adeeea0e9",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Mesh Nodes",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "62af3a72-a06a-4d53-9160-b79228f5d817",
+    "Sequence": 20,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

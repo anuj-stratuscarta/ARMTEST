@@ -1,0 +1,13 @@
+{
+  "globalKey": "15e47a57-3940-496f-8a3e-abdae8051e93",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "TST_FMAX_PKL_UPLINK",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "15e47a57-3940-496f-8a3e-abdae8051e93",
+    "Name": "FMAX Uplink Speed Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
