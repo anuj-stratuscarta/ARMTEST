@@ -1,0 +1,15 @@
+{
+  "globalKey": "f7b22cc6-8f8d-451b-959c-41b0acd4111f",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "TST_FMAX_GRP",
+    "Description": null,
+    "GlobalKey__c": "f7b22cc6-8f8d-451b-959c-41b0acd4111f",
+    "MaxBundleComponents": 3,
+    "MinBundleComponents": 1,
+    "Name": "Fibre Max Components",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "d003b6a6-970f-47f6-9682-ee44cb278f95",
+    "Sequence": 10
+  }
+}

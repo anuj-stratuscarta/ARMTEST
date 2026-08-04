@@ -1,0 +1,21 @@
+{
+  "globalKey": "b62d9da5-9a0a-40cb-bf09-90b317c1613d",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "TST_FMAX_ATT_MESH",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "TST_FMAX_ATT_MESH",
+    "GlobalKey__c": "b62d9da5-9a0a-40cb-bf09-90b317c1613d",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Mesh Nodes",
+    "Name": "FMAX MESH NODES",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
