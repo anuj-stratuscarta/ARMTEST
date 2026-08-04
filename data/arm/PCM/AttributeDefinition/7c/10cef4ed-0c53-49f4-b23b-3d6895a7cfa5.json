@@ -1,0 +1,21 @@
+{
+  "globalKey": "10cef4ed-0c53-49f4-b23b-3d6895a7cfa5",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "TST_FMAX_ATT_UPLINK",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "TST_FMAX_ATT_UPLINK",
+    "GlobalKey__c": "10cef4ed-0c53-49f4-b23b-3d6895a7cfa5",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Uplink Speed",
+    "Name": "FMAX UPLINK SPEED",
+    "Picklist.GlobalKey__c": "15e47a57-3940-496f-8a3e-abdae8051e93",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

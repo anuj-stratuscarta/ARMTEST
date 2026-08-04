@@ -1,0 +1,13 @@
+{
+  "globalKey": "8050a5af-3655-48ec-bcdf-e9c49e35532d",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "TST_FMAX_CATALOG",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "8050a5af-3655-48ec-bcdf-e9c49e35532d",
+    "Name": "Fibre Max Catalog"
+  }
+}

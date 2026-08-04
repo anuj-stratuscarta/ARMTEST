@@ -1,0 +1,28 @@
+{
+  "slug": "fmax-multilane-msf7ao6d",
+  "name": "fmax-multilane-msf7ao6d",
+  "createdAt": "2026-08-04T22:04:04.927Z",
+  "updatedAt": "2026-08-04T22:04:04.927Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "d003b6a6-970f-47f6-9682-ee44cb278f95"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/fmax-multilane-msf7ao6d"
+}

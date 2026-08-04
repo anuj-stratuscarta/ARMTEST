@@ -1,0 +1,14 @@
+{
+  "globalKey": "2924ba39-6560-4989-88e4-4a006944ed81",
+  "object": "PricebookEntry",
+  "record": {
+    "GlobalKey__c": "2924ba39-6560-4989-88e4-4a006944ed81",
+    "IsActive": true,
+    "IsDerived": false,
+    "Pricebook2.Name": "Standard Price Book",
+    "Product2.GlobalKey__c": "cb95b4cf-f2a8-426c-b12b-7e30460ce1ea",
+    "ProductSellingModel.Name": "Evergreen - Monthly",
+    "UnitPrice": 79,
+    "UseStandardPrice": false
+  }
+}

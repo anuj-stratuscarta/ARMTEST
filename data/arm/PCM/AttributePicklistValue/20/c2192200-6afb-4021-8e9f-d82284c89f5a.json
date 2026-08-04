@@ -1,0 +1,16 @@
+{
+  "globalKey": "c2192200-6afb-4021-8e9f-d82284c89f5a",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "TST_FMAX_PKLVAL_UP_1G",
+    "DisplayValue": "1G",
+    "GlobalKey__c": "c2192200-6afb-4021-8e9f-d82284c89f5a",
+    "IsDefault": false,
+    "Name": "1 Gbps",
+    "Picklist.GlobalKey__c": "15e47a57-3940-496f-8a3e-abdae8051e93",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "1G"
+  }
+}

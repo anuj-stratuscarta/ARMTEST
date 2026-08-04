@@ -1,0 +1,11 @@
+{
+  "globalKey": "62af3a72-a06a-4d53-9160-b79228f5d817",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "TST_FMAX_CLASS",
+    "GlobalKey__c": "62af3a72-a06a-4d53-9160-b79228f5d817",
+    "Name": "Fibre Max",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
