@@ -1,0 +1,14 @@
+{
+  "globalKey": "d6812c0d-28cd-47be-a5f2-d945dfad6389",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "8050a5af-3655-48ec-bcdf-e9c49e35532d",
+    "Code": "TST_FMAX_CAT_PLANS",
+    "Description": null,
+    "GlobalKey__c": "d6812c0d-28cd-47be-a5f2-d945dfad6389",
+    "IsNavigational": true,
+    "Name": "Fibre Max Plans",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

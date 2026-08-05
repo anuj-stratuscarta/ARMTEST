@@ -1,0 +1,21 @@
+{
+  "globalKey": "259a2f6e-c99f-48c3-8796-650728e30ea0",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "TST_FMAX_ATT_SLA",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "TST_FMAX_ATT_SLA",
+    "GlobalKey__c": "259a2f6e-c99f-48c3-8796-650728e30ea0",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "SLA Tier",
+    "Name": "FMAX SLA TIER",
+    "Picklist.GlobalKey__c": "f6584176-12a9-48eb-84af-14c62d5d9e31",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}
