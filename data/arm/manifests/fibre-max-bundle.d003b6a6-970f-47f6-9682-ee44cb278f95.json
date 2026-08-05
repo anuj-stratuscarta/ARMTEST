@@ -1,0 +1,98 @@
+{
+  "component": "fibre-max-bundle",
+  "componentGlobalKey": "d003b6a6-970f-47f6-9682-ee44cb278f95",
+  "componentObject": "Product2",
+  "edges": [],
+  "leaves": [
+    {
+      "fromGlobalKey": "22b4adbc-b715-43de-b941-c713612b05ab",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "22b4adbc-b715-43de-b941-c713612b05ab",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "2924ba39-6560-4989-88e4-4a006944ed81",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "2924ba39-6560-4989-88e4-4a006944ed81",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "425c713d-6533-4bc3-b511-62a1a1630c58",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "425c713d-6533-4bc3-b511-62a1a1630c58",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "bfee15bf-9dc2-42a4-b1ab-b391f7761876",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "bfee15bf-9dc2-42a4-b1ab-b391f7761876",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "57e24a84-da3b-47a4-a6a8-e24124af058d",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    },
+    {
+      "fromGlobalKey": "9de40fe7-43d5-499e-8879-06a2d6cd86ad",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    },
+    {
+      "fromGlobalKey": "c93b441a-4bfd-4f8d-90a7-f84510b96399",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "d003b6a6-970f-47f6-9682-ee44cb278f95",
+      "label": "Fibre Max Bundle",
+      "object": "Product2"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "d003b6a6-970f-47f6-9682-ee44cb278f95",
+      "object": "Product2"
+    }
+  ]
+}
