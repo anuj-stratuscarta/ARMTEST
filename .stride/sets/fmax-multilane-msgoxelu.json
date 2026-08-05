@@ -1,0 +1,49 @@
+{
+  "slug": "fmax-multilane-msgoxelu",
+  "name": "fmax-multilane-msgoxelu",
+  "createdAt": "2026-08-05T23:05:55.512Z",
+  "updatedAt": "2026-08-05T23:05:55.512Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideFibreMaxUsage"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideFibreMaxRating"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "d003b6a6-970f-47f6-9682-ee44cb278f95"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    },
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fibre_Max_Config",
+          "developerName": "Fibre_Max_Config_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/fmax-multilane-msgoxelu"
+}
