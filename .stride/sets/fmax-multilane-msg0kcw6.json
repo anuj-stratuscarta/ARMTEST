@@ -1,0 +1,37 @@
+{
+  "slug": "fmax-multilane-msg0kcw6",
+  "name": "fmax-multilane-msg0kcw6",
+  "createdAt": "2026-08-05T11:45:41.220Z",
+  "updatedAt": "2026-08-05T11:45:41.220Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "d003b6a6-970f-47f6-9682-ee44cb278f95"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    },
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fibre_Max_Config",
+          "developerName": "Fibre_Max_Config_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/fmax-multilane-msg0kcw6"
+}
