@@ -1,0 +1,29 @@
+{
+  "globalKey": "110e9db6-b3c0-45be-924f-4a149932b338",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "10cef4ed-0c53-49f4-b23b-3d6895a7cfa5",
+    "AttributeNameOverride": "FMAX UPLINK SPEED",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "110e9db6-b3c0-45be-924f-4a149932b338",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Uplink Speed",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "62af3a72-a06a-4d53-9160-b79228f5d817",
+    "Sequence": 10,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
