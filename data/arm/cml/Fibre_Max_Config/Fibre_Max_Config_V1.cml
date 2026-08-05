@@ -1,0 +1,17 @@
+type LineItem;
+
+type FibreMaxBundle : LineItem {
+    @(defaultValue = "12")
+    string CONTRACT_TERM = ["12", "24", "36"];
+
+    relation fibremaxrouter : FibreMaxRouter[0..1];
+    relation fibremaxmesh : FibreMaxMesh[0..1];
+    relation fibremaxinstall : FibreMaxInstall[0..1];
+
+    // The second add-on requires the first — a real rule, so the model has something to enforce.
+    require(fibremaxmesh[FibreMaxMesh] == 1, fibremaxrouter[FibreMaxRouter] == 1, "FibreMaxMesh requires FibreMaxRouter");
+}
+
+type FibreMaxRouter : LineItem;
+type FibreMaxMesh : LineItem;
+type FibreMaxInstall : LineItem;
