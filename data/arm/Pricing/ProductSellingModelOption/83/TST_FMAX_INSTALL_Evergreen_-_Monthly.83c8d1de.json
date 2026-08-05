@@ -1,0 +1,10 @@
+{
+  "globalKey": "TST_FMAX_INSTALL|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "f2241dbb-c6a4-4dfb-b1c8-5265ef06f89c",
+    "ProductSellingModel.Name": "Evergreen - Monthly",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

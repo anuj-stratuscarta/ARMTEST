@@ -1,0 +1,16 @@
+{
+  "globalKey": "46f16d63-a6e0-43b5-bc28-df06a54d2228",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "TST_FMAX_PKLVAL_SLA_GLD",
+    "DisplayValue": "GLD",
+    "GlobalKey__c": "46f16d63-a6e0-43b5-bc28-df06a54d2228",
+    "IsDefault": false,
+    "Name": "Gold",
+    "Picklist.GlobalKey__c": "f6584176-12a9-48eb-84af-14c62d5d9e31",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "GLD"
+  }
+}
