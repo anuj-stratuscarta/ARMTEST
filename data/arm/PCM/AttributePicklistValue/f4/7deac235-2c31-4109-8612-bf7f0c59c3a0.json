@@ -1,0 +1,16 @@
+{
+  "globalKey": "7deac235-2c31-4109-8612-bf7f0c59c3a0",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "TST_FMAX_PKLVAL_UP_500",
+    "DisplayValue": "500M",
+    "GlobalKey__c": "7deac235-2c31-4109-8612-bf7f0c59c3a0",
+    "IsDefault": false,
+    "Name": "500 Mbps",
+    "Picklist.GlobalKey__c": "15e47a57-3940-496f-8a3e-abdae8051e93",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "500M"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "globalKey": "c9b32374-a09c-4c27-9d58-a808c341b01c",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_OPTIONAL_SERVICES_PLATINUM",
+    "Description": null,
+    "GlobalKey__c": "c9b32374-a09c-4c27-9d58-a808c341b01c",
+    "MaxBundleComponents": 4,
+    "MinBundleComponents": 0,
+    "Name": "OPTIONAL SERVICES PLATINUM",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "740549fc-c101-4322-803f-0a42d0c1b51a",
+    "Sequence": 40
+  }
+}

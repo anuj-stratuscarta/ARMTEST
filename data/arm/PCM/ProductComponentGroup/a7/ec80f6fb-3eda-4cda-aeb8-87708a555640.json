@@ -1,0 +1,15 @@
+{
+  "globalKey": "ec80f6fb-3eda-4cda-aeb8-87708a555640",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": "CCC_GROUP_INSTALLATION_GOLD",
+    "Description": null,
+    "GlobalKey__c": "ec80f6fb-3eda-4cda-aeb8-87708a555640",
+    "MaxBundleComponents": 1,
+    "MinBundleComponents": 0,
+    "Name": "INSTALLATION GOLD",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "7039466a-7811-423e-807f-5f77968b757c",
+    "Sequence": 30
+  }
+}

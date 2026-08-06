@@ -1,0 +1,29 @@
+{
+  "globalKey": "2ffcf825-ea3a-4c05-9ae3-bf4ddb050fb9",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "259a2f6e-c99f-48c3-8796-650728e30ea0",
+    "AttributeNameOverride": "FMAX SLA TIER",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "2ffcf825-ea3a-4c05-9ae3-bf4ddb050fb9",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "SLA Tier",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "62af3a72-a06a-4d53-9160-b79228f5d817",
+    "Sequence": 30,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

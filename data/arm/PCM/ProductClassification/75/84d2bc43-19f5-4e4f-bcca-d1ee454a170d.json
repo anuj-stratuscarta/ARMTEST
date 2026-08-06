@@ -1,0 +1,12 @@
+{
+  "globalKey": "84d2bc43-19f5-4e4f-bcca-d1ee454a170d",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "PR001",
+    "GlobalKey__c": "84d2bc43-19f5-4e4f-bcca-d1ee454a170d",
+    "Name": "Printer",
+    "OwnerId": null,
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

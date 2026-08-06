@@ -1,0 +1,26 @@
+{
+  "slug": "custom2-167947",
+  "name": "custom2-167947",
+  "createdAt": "2026-07-27T20:12:51.318Z",
+  "updatedAt": "2026-07-27T20:12:51.318Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomObject",
+          "fullName": "Stride_DT_Demo2__c"
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Stride_DT_Demo2_Table",
+          "sourceObject": "Stride_DT_Demo2__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/custom2-167947"
+}

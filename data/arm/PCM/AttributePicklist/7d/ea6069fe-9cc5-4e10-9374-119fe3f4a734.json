@@ -1,0 +1,14 @@
+{
+  "globalKey": "ea6069fe-9cc5-4e10-9374-119fe3f4a734",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "MEM001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "ea6069fe-9cc5-4e10-9374-119fe3f4a734",
+    "Name": "Memory Picklist",
+    "OwnerId": null,
+    "Status": "Draft",
+    "UnitOfMeasure": null
+  }
+}

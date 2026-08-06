@@ -1,0 +1,11 @@
+{
+  "globalKey": "c0bf4364-cd5d-4414-aa42-d9094db25da6",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_INSTALLATION",
+    "GlobalKey__c": "c0bf4364-cd5d-4414-aa42-d9094db25da6",
+    "Name": "Installation",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

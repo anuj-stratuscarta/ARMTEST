@@ -1,0 +1,18 @@
+{
+  "slug": "dt-single-55325",
+  "name": "DT SINGLE 55325",
+  "createdAt": "2026-07-27T16:02:37.240Z",
+  "updatedAt": "2026-07-27T16:02:37.240Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Price_Book_Entry_Decision_Table_v2",
+          "sourceObject": "PricebookEntry"
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-single-55325"
+}

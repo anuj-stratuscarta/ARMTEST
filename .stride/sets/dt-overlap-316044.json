@@ -1,0 +1,18 @@
+{
+  "slug": "dt-overlap-316044",
+  "name": "DT Overlap 316044",
+  "createdAt": "2026-07-27T14:42:00.702Z",
+  "updatedAt": "2026-07-27T14:42:00.702Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TEST_CSV",
+          "sourceObject": "CSV"
+        }
+      ]
+    }
+  },
+  "branch": "feature/dt-overlap-316044"
+}

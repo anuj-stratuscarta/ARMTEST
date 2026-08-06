@@ -1,0 +1,7 @@
+// STRIDE-MULTIHOP-205880288
+type Root : LineItem {
+  number STRIDETEST_BANDWIDTH = [];
+  number STRIDETEST_SPEED = [];
+  string STRIDETEST_NOCODE = ["A","B"];
+  constraint (STRIDETEST_BANDWIDTH > 0) { };
+}
