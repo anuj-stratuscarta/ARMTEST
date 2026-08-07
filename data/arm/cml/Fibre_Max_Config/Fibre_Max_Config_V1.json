@@ -1,0 +1,65 @@
+{
+  "developerName": "Fibre_Max_Config_V1",
+  "esdDeveloperName": "Fibre_Max_Config",
+  "versionNumber": 1,
+  "expressionSet": {
+    "apiName": "Fibre_Max_Config",
+    "name": "Fibre Max Config",
+    "description": "Constraint model for TST_FMAX_BUNDLE add-ons (seeded by Stride).",
+    "interfaceSourceType": "Constraint",
+    "resourceInitializationType": "Off",
+    "usageType": "Constraint"
+  },
+  "contextDefinitionApiName": "SalesTransactionContextExt_256",
+  "constraints": [
+    {
+      "refKind": "component",
+      "naturalKey": "TST_FMAX_BUNDLE|TST_FMAX_INSTALL||Bundle to Bundle Component Relationship|30",
+      "constraintModelTag": "fibremaxinstall",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "component",
+      "naturalKey": "TST_FMAX_BUNDLE|TST_FMAX_MESH||Bundle to Bundle Component Relationship|20",
+      "constraintModelTag": "fibremaxmesh",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "component",
+      "naturalKey": "TST_FMAX_BUNDLE|TST_FMAX_ROUTER||Bundle to Bundle Component Relationship|10",
+      "constraintModelTag": "fibremaxrouter",
+      "constraintModelTagType": "Port"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "TST_FMAX_BUNDLE",
+      "constraintModelTag": "FibreMaxBundle",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "TST_FMAX_INSTALL",
+      "constraintModelTag": "FibreMaxInstall",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "TST_FMAX_MESH",
+      "constraintModelTag": "FibreMaxMesh",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "TST_FMAX_ROUTER",
+      "constraintModelTag": "FibreMaxRouter",
+      "constraintModelTagType": "Type"
+    }
+  ],
+  "attributeRefs": [
+    {
+      "developerName": "CONTRACT_TERM",
+      "code": "CCC_ATT_CONTRACT_TERM",
+      "globalKey": "947da169-df76-4e4a-abb6-bf5af6052b1c"
+    }
+  ]
+}
