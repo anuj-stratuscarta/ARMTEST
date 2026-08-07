@@ -1,0 +1,67 @@
+{
+  "slug": "fmax-5lane-8970",
+  "name": "fmax-5lane-8970",
+  "createdAt": "2026-08-07T10:38:42.194Z",
+  "updatedAt": "2026-08-07T10:38:42.194Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideFibreMaxUsage"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideFibreMaxRating"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "d003b6a6-970f-47f6-9682-ee44cb278f95"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    },
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "Fibre_Max_Config",
+          "developerName": "Fibre_Max_Config_V1",
+          "version": 1
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "CommsOnCorePricingProcedure_260",
+          "usageType": "DefaultPricing",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "TST_FMAX_Rating_Table",
+          "sourceObject": "PricebookEntry"
+        }
+      ]
+    }
+  },
+  "branch": "feature/fmax-5lane-8970",
+  "baseBranch": "main"
+}
