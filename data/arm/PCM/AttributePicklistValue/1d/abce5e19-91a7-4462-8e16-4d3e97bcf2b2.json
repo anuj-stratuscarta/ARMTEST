@@ -1,0 +1,16 @@
+{
+  "globalKey": "abce5e19-91a7-4462-8e16-4d3e97bcf2b2",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_EVC_CON_T2",
+    "DisplayValue": "T2",
+    "GlobalKey__c": "abce5e19-91a7-4462-8e16-4d3e97bcf2b2",
+    "IsDefault": false,
+    "Name": "Type 2",
+    "Picklist.GlobalKey__c": "c8496233-c80b-4bf5-b2b9-d597d3efb6a5",
+    "Sequence": 10,
+    "Status": "Draft",
+    "Value": "T2"
+  }
+}

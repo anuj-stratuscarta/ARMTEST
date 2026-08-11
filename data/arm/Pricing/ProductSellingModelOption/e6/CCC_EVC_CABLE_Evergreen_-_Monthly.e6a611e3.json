@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_EVC_CABLE|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "2f31d821-ddcb-4f9d-b90b-86a1058575e6",
+    "ProductSellingModel.Name": "Evergreen - Monthly",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "a05893d2-4e2f-4f97-8b69-a961a821e97c",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_EVC_PHASE",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_EVC_PHASE",
+    "GlobalKey__c": "a05893d2-4e2f-4f97-8b69-a961a821e97c",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Supply Phase",
+    "Name": "EVC PHASE",
+    "Picklist.GlobalKey__c": "b33b05be-6d29-4743-ab56-0d4c4b4ab55c",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

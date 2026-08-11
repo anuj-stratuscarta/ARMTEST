@@ -1,0 +1,15 @@
+{
+  "globalKey": "d776e228-8385-4353-b006-9247cf10663c",
+  "object": "ProductComponentGroup",
+  "record": {
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "d776e228-8385-4353-b006-9247cf10663c",
+    "MaxBundleComponents": 10,
+    "MinBundleComponents": 0,
+    "Name": "Charging Components",
+    "ParentGroup": null,
+    "ParentProduct.GlobalKey__c": "ffb37f3b-5f35-4f9e-b528-c050319fefef",
+    "Sequence": 10
+  }
+}
