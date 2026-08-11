@@ -1,0 +1,29 @@
+{
+  "slug": "e2e-arm-set-054735",
+  "name": "E2E ARM Set 054735",
+  "createdAt": "2026-08-11T14:54:16.068Z",
+  "updatedAt": "2026-08-11T14:54:16.068Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "Widget"
+        }
+      ]
+    },
+    "arm": {
+      "selections": [],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2",
+          "ProductClassification"
+        ]
+      }
+    }
+  },
+  "branch": "feature/e2e-arm-set-054735"
+}
