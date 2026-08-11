@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_EVC_CHARGER|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "9fc31cae-b002-40c6-8601-0659ba1745a7",
+    "ProductSellingModel.Name": "Evergreen - Monthly",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

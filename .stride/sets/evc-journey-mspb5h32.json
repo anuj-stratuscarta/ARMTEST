@@ -1,0 +1,29 @@
+{
+  "slug": "evc-journey-mspb5h32",
+  "name": "evc-journey-mspb5h32",
+  "createdAt": "2026-08-11T23:46:40.715Z",
+  "updatedAt": "2026-08-11T23:46:40.715Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "ffb37f3b-5f35-4f9e-b528-c050319fefef"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/evc-journey-mspb5h32",
+  "baseBranch": "main"
+}

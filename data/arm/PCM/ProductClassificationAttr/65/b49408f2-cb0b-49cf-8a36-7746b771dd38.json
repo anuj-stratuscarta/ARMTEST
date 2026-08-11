@@ -1,0 +1,29 @@
+{
+  "globalKey": "b49408f2-cb0b-49cf-8a36-7746b771dd38",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "a2d9504f-088a-4304-ac2b-3eed79cdccdf",
+    "AttributeNameOverride": "EVC CONNECTOR",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "b49408f2-cb0b-49cf-8a36-7746b771dd38",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "EVC CONNECTOR",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "7b951867-cfc6-4a95-b492-2c276974b668",
+    "Sequence": 10,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
