@@ -1,0 +1,13 @@
+{
+  "globalKey": "c8496233-c80b-4bf5-b2b9-d597d3efb6a5",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_EVC_CONNECTOR",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "c8496233-c80b-4bf5-b2b9-d597d3efb6a5",
+    "Name": "EVC Connector Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

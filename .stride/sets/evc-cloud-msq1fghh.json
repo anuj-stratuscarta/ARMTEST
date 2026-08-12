@@ -1,0 +1,29 @@
+{
+  "slug": "evc-cloud-msq1fghh",
+  "name": "evc-cloud-msq1fghh",
+  "createdAt": "2026-08-12T12:04:19.731Z",
+  "updatedAt": "2026-08-12T12:04:19.731Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "ffb37f3b-5f35-4f9e-b528-c050319fefef"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/evc-cloud-msq1fghh",
+  "baseBranch": "main"
+}

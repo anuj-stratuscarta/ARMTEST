@@ -1,0 +1,13 @@
+{
+  "globalKey": "1ff4008e-556e-40c8-bf4d-56e3c30a1b76",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": "CCC_EVC_CATALOG",
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "1ff4008e-556e-40c8-bf4d-56e3c30a1b76",
+    "Name": "EV Charging Catalog"
+  }
+}

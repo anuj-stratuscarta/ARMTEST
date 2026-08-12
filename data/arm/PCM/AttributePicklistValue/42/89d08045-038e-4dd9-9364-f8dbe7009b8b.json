@@ -1,0 +1,16 @@
+{
+  "globalKey": "89d08045-038e-4dd9-9364-f8dbe7009b8b",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_EVC_PHS_3P",
+    "DisplayValue": "3P",
+    "GlobalKey__c": "89d08045-038e-4dd9-9364-f8dbe7009b8b",
+    "IsDefault": false,
+    "Name": "Three Phase",
+    "Picklist.GlobalKey__c": "b33b05be-6d29-4743-ab56-0d4c4b4ab55c",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "3P"
+  }
+}
