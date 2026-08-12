@@ -1,0 +1,29 @@
+{
+  "globalKey": "a4f13195-5b04-42d4-9ce2-e76b86b64b6e",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory": null,
+    "AttributeDefinition.GlobalKey__c": "bf83241a-ebd0-4d85-bc31-59eaff295371",
+    "AttributeNameOverride": "EVC POWER KW",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "a4f13195-5b04-42d4-9ce2-e76b86b64b6e",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "EVC POWER KW",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "7b951867-cfc6-4a95-b492-2c276974b668",
+    "Sequence": 20,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
