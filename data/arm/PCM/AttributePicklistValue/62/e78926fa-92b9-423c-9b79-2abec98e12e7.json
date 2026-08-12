@@ -1,0 +1,16 @@
+{
+  "globalKey": "e78926fa-92b9-423c-9b79-2abec98e12e7",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_EVC_PHS_1P",
+    "DisplayValue": "1P",
+    "GlobalKey__c": "e78926fa-92b9-423c-9b79-2abec98e12e7",
+    "IsDefault": false,
+    "Name": "Single Phase",
+    "Picklist.GlobalKey__c": "b33b05be-6d29-4743-ab56-0d4c4b4ab55c",
+    "Sequence": 10,
+    "Status": "Draft",
+    "Value": "1P"
+  }
+}

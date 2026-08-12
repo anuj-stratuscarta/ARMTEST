@@ -1,0 +1,600 @@
+{
+  "component": "ev-home-charging-bundle",
+  "componentGlobalKey": "ffb37f3b-5f35-4f9e-b528-c050319fefef",
+  "componentObject": "Product2",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:a05893d2-4e2f-4f97-8b69-a961a821e97c",
+      "required": false,
+      "to": "AttributePicklist:b33b05be-6d29-4743-ab56-0d4c4b4ab55c"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:a2d9504f-088a-4304-ac2b-3eed79cdccdf",
+      "required": false,
+      "to": "AttributePicklist:c8496233-c80b-4bf5-b2b9-d597d3efb6a5"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:04c3a501-4c35-4d85-a93d-e0e2c3de4563",
+      "required": true,
+      "to": "AttributePicklist:c8496233-c80b-4bf5-b2b9-d597d3efb6a5"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:04c3a501-4c35-4d85-a93d-e0e2c3de4563",
+      "required": true,
+      "to": "AttributePicklist:c8496233-c80b-4bf5-b2b9-d597d3efb6a5"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:89d08045-038e-4dd9-9364-f8dbe7009b8b",
+      "required": true,
+      "to": "AttributePicklist:b33b05be-6d29-4743-ab56-0d4c4b4ab55c"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:89d08045-038e-4dd9-9364-f8dbe7009b8b",
+      "required": true,
+      "to": "AttributePicklist:b33b05be-6d29-4743-ab56-0d4c4b4ab55c"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:abce5e19-91a7-4462-8e16-4d3e97bcf2b2",
+      "required": true,
+      "to": "AttributePicklist:c8496233-c80b-4bf5-b2b9-d597d3efb6a5"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:abce5e19-91a7-4462-8e16-4d3e97bcf2b2",
+      "required": true,
+      "to": "AttributePicklist:c8496233-c80b-4bf5-b2b9-d597d3efb6a5"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:e78926fa-92b9-423c-9b79-2abec98e12e7",
+      "required": true,
+      "to": "AttributePicklist:b33b05be-6d29-4743-ab56-0d4c4b4ab55c"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:e78926fa-92b9-423c-9b79-2abec98e12e7",
+      "required": true,
+      "to": "AttributePicklist:b33b05be-6d29-4743-ab56-0d4c4b4ab55c"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f95905f8-d0db-4848-bfe1-e753c19f7411",
+      "required": true,
+      "to": "AttributePicklist:c8496233-c80b-4bf5-b2b9-d597d3efb6a5"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:f95905f8-d0db-4848-bfe1-e753c19f7411",
+      "required": true,
+      "to": "AttributePicklist:c8496233-c80b-4bf5-b2b9-d597d3efb6a5"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:203a4935-3d8b-4fbd-ad0c-4f31b60bdfc8",
+      "required": true,
+      "to": "Product2:bc3da7ca-36b6-4e8e-a24f-ff6403e38cde"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:203a4935-3d8b-4fbd-ad0c-4f31b60bdfc8",
+      "required": true,
+      "to": "Product2:bc3da7ca-36b6-4e8e-a24f-ff6403e38cde"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:4def99d0-804d-4a8a-88c7-441aaade1c82",
+      "required": true,
+      "to": "Product2:2f31d821-ddcb-4f9d-b90b-86a1058575e6"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:4def99d0-804d-4a8a-88c7-441aaade1c82",
+      "required": true,
+      "to": "Product2:2f31d821-ddcb-4f9d-b90b-86a1058575e6"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:b28ede24-7cd5-4b67-8aa8-6665ff551f12",
+      "required": true,
+      "to": "Product2:9fc31cae-b002-40c6-8601-0659ba1745a7"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:b28ede24-7cd5-4b67-8aa8-6665ff551f12",
+      "required": true,
+      "to": "Product2:9fc31cae-b002-40c6-8601-0659ba1745a7"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:e6ceb597-21b8-4bf3-9be0-015743b6a303",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:e6ceb597-21b8-4bf3-9be0-015743b6a303",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:2f31d821-ddcb-4f9d-b90b-86a1058575e6",
+      "required": false,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:9fc31cae-b002-40c6-8601-0659ba1745a7",
+      "required": false,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:bc3da7ca-36b6-4e8e-a24f-ff6403e38cde",
+      "required": false,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef",
+      "required": false,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductId",
+      "from": "ProductCategoryProduct:aafd5595-3b7f-422b-942c-08ccc0644679",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductId",
+      "from": "ProductCategoryProduct:aafd5595-3b7f-422b-942c-08ccc0644679",
+      "required": false,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "forward",
+      "field": "CatalogId",
+      "from": "ProductCategoryProduct:aafd5595-3b7f-422b-942c-08ccc0644679",
+      "required": true,
+      "to": "ProductCatalog:1ff4008e-556e-40c8-bf4d-56e3c30a1b76"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductCategoryId",
+      "from": "ProductCategoryProduct:aafd5595-3b7f-422b-942c-08ccc0644679",
+      "required": true,
+      "to": "ProductCategory:35643986-941e-4ce9-a503-ceb97ab3e11a"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:55a75a53-4125-4a27-9022-0648daabb06f",
+      "required": true,
+      "to": "AttributeDefinition:a05893d2-4e2f-4f97-8b69-a961a821e97c"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:55a75a53-4125-4a27-9022-0648daabb06f",
+      "required": true,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:55a75a53-4125-4a27-9022-0648daabb06f",
+      "required": true,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:a4f13195-5b04-42d4-9ce2-e76b86b64b6e",
+      "required": true,
+      "to": "AttributeDefinition:bf83241a-ebd0-4d85-bc31-59eaff295371"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:a4f13195-5b04-42d4-9ce2-e76b86b64b6e",
+      "required": true,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:a4f13195-5b04-42d4-9ce2-e76b86b64b6e",
+      "required": true,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:b49408f2-cb0b-49cf-8a36-7746b771dd38",
+      "required": true,
+      "to": "AttributeDefinition:a2d9504f-088a-4304-ac2b-3eed79cdccdf"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:b49408f2-cb0b-49cf-8a36-7746b771dd38",
+      "required": true,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:b49408f2-cb0b-49cf-8a36-7746b771dd38",
+      "required": true,
+      "to": "ProductClassification:7b951867-cfc6-4a95-b492-2c276974b668"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:d776e228-8385-4353-b006-9247cf10663c",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductComponentGroup:d776e228-8385-4353-b006-9247cf10663c",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:2544c2d2-ce7c-4f0f-bd6a-f70f97c0a758",
+      "required": true,
+      "to": "Product2:9fc31cae-b002-40c6-8601-0659ba1745a7"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:2544c2d2-ce7c-4f0f-bd6a-f70f97c0a758",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:2544c2d2-ce7c-4f0f-bd6a-f70f97c0a758",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:2544c2d2-ce7c-4f0f-bd6a-f70f97c0a758",
+      "required": false,
+      "to": "ProductComponentGroup:d776e228-8385-4353-b006-9247cf10663c"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:8a14c3d9-8b6c-4a0f-aa62-eee06a135006",
+      "required": true,
+      "to": "Product2:2f31d821-ddcb-4f9d-b90b-86a1058575e6"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:8a14c3d9-8b6c-4a0f-aa62-eee06a135006",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:8a14c3d9-8b6c-4a0f-aa62-eee06a135006",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:8a14c3d9-8b6c-4a0f-aa62-eee06a135006",
+      "required": false,
+      "to": "ProductComponentGroup:d776e228-8385-4353-b006-9247cf10663c"
+    },
+    {
+      "direction": "forward",
+      "field": "ChildProductId",
+      "from": "ProductRelatedComponent:f160a33b-af6e-412e-8f93-02a29b40d90c",
+      "required": true,
+      "to": "Product2:bc3da7ca-36b6-4e8e-a24f-ff6403e38cde"
+    },
+    {
+      "direction": "forward",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:f160a33b-af6e-412e-8f93-02a29b40d90c",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "reverse",
+      "field": "ParentProductId",
+      "from": "ProductRelatedComponent:f160a33b-af6e-412e-8f93-02a29b40d90c",
+      "required": true,
+      "to": "Product2:ffb37f3b-5f35-4f9e-b528-c050319fefef"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductComponentGroupId",
+      "from": "ProductRelatedComponent:f160a33b-af6e-412e-8f93-02a29b40d90c",
+      "required": false,
+      "to": "ProductComponentGroup:d776e228-8385-4353-b006-9247cf10663c"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "203a4935-3d8b-4fbd-ad0c-4f31b60bdfc8",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "203a4935-3d8b-4fbd-ad0c-4f31b60bdfc8",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "4def99d0-804d-4a8a-88c7-441aaade1c82",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "4def99d0-804d-4a8a-88c7-441aaade1c82",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "b28ede24-7cd5-4b67-8aa8-6665ff551f12",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "b28ede24-7cd5-4b67-8aa8-6665ff551f12",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "e6ceb597-21b8-4bf3-9be0-015743b6a303",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "e6ceb597-21b8-4bf3-9be0-015743b6a303",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "2544c2d2-ce7c-4f0f-bd6a-f70f97c0a758",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    },
+    {
+      "fromGlobalKey": "8a14c3d9-8b6c-4a0f-aa62-eee06a135006",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    },
+    {
+      "fromGlobalKey": "f160a33b-af6e-412e-8f93-02a29b40d90c",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "a05893d2-4e2f-4f97-8b69-a961a821e97c",
+      "label": "EVC PHASE",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "a2d9504f-088a-4304-ac2b-3eed79cdccdf",
+      "label": "EVC CONNECTOR",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "bf83241a-ebd0-4d85-bc31-59eaff295371",
+      "label": "EVC POWER KW",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "b33b05be-6d29-4743-ab56-0d4c4b4ab55c",
+      "label": "EVC Phase Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "c8496233-c80b-4bf5-b2b9-d597d3efb6a5",
+      "label": "EVC Connector Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "04c3a501-4c35-4d85-a93d-e0e2c3de4563",
+      "label": "CHAdeMO",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "89d08045-038e-4dd9-9364-f8dbe7009b8b",
+      "label": "Three Phase",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "abce5e19-91a7-4462-8e16-4d3e97bcf2b2",
+      "label": "Type 2",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "e78926fa-92b9-423c-9b79-2abec98e12e7",
+      "label": "Single Phase",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "f95905f8-d0db-4848-bfe1-e753c19f7411",
+      "label": "CCS",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "203a4935-3d8b-4fbd-ad0c-4f31b60bdfc8",
+      "label": "Certified EV Installation",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "4def99d0-804d-4a8a-88c7-441aaade1c82",
+      "label": "Type 2 Charging Cable 7m",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "b28ede24-7cd5-4b67-8aa8-6665ff551f12",
+      "label": "EV Wall Charger 22kW",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "e6ceb597-21b8-4bf3-9be0-015743b6a303",
+      "label": "EV Home Charging Bundle",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "2f31d821-ddcb-4f9d-b90b-86a1058575e6",
+      "label": "Type 2 Charging Cable 7m",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "9fc31cae-b002-40c6-8601-0659ba1745a7",
+      "label": "EV Wall Charger 22kW",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "bc3da7ca-36b6-4e8e-a24f-ff6403e38cde",
+      "label": "Certified EV Installation",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "ffb37f3b-5f35-4f9e-b528-c050319fefef",
+      "label": "EV Home Charging Bundle",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "1ff4008e-556e-40c8-bf4d-56e3c30a1b76",
+      "label": "EV Charging Catalog",
+      "object": "ProductCatalog"
+    },
+    {
+      "globalKey": "35643986-941e-4ce9-a503-ceb97ab3e11a",
+      "label": "Home Charging",
+      "object": "ProductCategory"
+    },
+    {
+      "displayLabel": "Home Charging ↔ EV Home Charging Bundle ↔ EV Charging Catalog",
+      "globalKey": "aafd5595-3b7f-422b-942c-08ccc0644679",
+      "label": "00000066",
+      "object": "ProductCategoryProduct"
+    },
+    {
+      "globalKey": "7b951867-cfc6-4a95-b492-2c276974b668",
+      "label": "EV Home Charging",
+      "object": "ProductClassification"
+    },
+    {
+      "globalKey": "55a75a53-4125-4a27-9022-0648daabb06f",
+      "label": "EVC PHASE",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "a4f13195-5b04-42d4-9ce2-e76b86b64b6e",
+      "label": "EVC POWER KW",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "b49408f2-cb0b-49cf-8a36-7746b771dd38",
+      "label": "EVC CONNECTOR",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "d776e228-8385-4353-b006-9247cf10663c",
+      "label": "Charging Components",
+      "object": "ProductComponentGroup"
+    },
+    {
+      "displayLabel": "EV Wall Charger 22kW ↔ EV Home Charging Bundle ↔ Charging Components",
+      "globalKey": "2544c2d2-ce7c-4f0f-bd6a-f70f97c0a758",
+      "label": "PRC-000000124",
+      "object": "ProductRelatedComponent"
+    },
+    {
+      "displayLabel": "Type 2 Charging Cable 7m ↔ EV Home Charging Bundle ↔ Charging Components",
+      "globalKey": "8a14c3d9-8b6c-4a0f-aa62-eee06a135006",
+      "label": "PRC-000000125",
+      "object": "ProductRelatedComponent"
+    },
+    {
+      "displayLabel": "Certified EV Installation ↔ EV Home Charging Bundle ↔ Charging Components",
+      "globalKey": "f160a33b-af6e-412e-8f93-02a29b40d90c",
+      "label": "PRC-000000126",
+      "object": "ProductRelatedComponent"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "ffb37f3b-5f35-4f9e-b528-c050319fefef",
+      "object": "Product2"
+    }
+  ]
+}
