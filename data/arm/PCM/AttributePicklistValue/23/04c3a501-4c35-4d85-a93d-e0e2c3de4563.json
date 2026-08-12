@@ -1,0 +1,16 @@
+{
+  "globalKey": "04c3a501-4c35-4d85-a93d-e0e2c3de4563",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_EVC_CON_CHAD",
+    "DisplayValue": "CHAD",
+    "GlobalKey__c": "04c3a501-4c35-4d85-a93d-e0e2c3de4563",
+    "IsDefault": false,
+    "Name": "CHAdeMO",
+    "Picklist.GlobalKey__c": "c8496233-c80b-4bf5-b2b9-d597d3efb6a5",
+    "Sequence": 30,
+    "Status": "Draft",
+    "Value": "CHAD"
+  }
+}

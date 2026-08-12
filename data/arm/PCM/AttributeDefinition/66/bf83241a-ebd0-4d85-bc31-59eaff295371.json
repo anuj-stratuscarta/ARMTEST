@@ -1,0 +1,21 @@
+{
+  "globalKey": "bf83241a-ebd0-4d85-bc31-59eaff295371",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_EVC_POWERKW",
+    "DataType": "Number",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_EVC_POWERKW",
+    "GlobalKey__c": "bf83241a-ebd0-4d85-bc31-59eaff295371",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Charging Power (kW)",
+    "Name": "EVC POWER KW",
+    "Picklist": null,
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

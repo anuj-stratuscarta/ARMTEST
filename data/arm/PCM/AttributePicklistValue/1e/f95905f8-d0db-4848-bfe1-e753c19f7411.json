@@ -1,0 +1,16 @@
+{
+  "globalKey": "f95905f8-d0db-4848-bfe1-e753c19f7411",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CCC_PKLVAL_EVC_CON_CCS",
+    "DisplayValue": "CCS",
+    "GlobalKey__c": "f95905f8-d0db-4848-bfe1-e753c19f7411",
+    "IsDefault": false,
+    "Name": "CCS",
+    "Picklist.GlobalKey__c": "c8496233-c80b-4bf5-b2b9-d597d3efb6a5",
+    "Sequence": 20,
+    "Status": "Draft",
+    "Value": "CCS"
+  }
+}

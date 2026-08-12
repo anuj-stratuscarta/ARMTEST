@@ -1,0 +1,10 @@
+{
+  "globalKey": "CCC_EVC_BUNDLE|Evergreen - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "ffb37f3b-5f35-4f9e-b528-c050319fefef",
+    "ProductSellingModel.Name": "Evergreen - Monthly",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

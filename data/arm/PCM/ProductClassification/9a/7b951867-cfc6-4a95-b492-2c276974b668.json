@@ -1,0 +1,11 @@
+{
+  "globalKey": "7b951867-cfc6-4a95-b492-2c276974b668",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_EVC",
+    "GlobalKey__c": "7b951867-cfc6-4a95-b492-2c276974b668",
+    "Name": "EV Home Charging",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

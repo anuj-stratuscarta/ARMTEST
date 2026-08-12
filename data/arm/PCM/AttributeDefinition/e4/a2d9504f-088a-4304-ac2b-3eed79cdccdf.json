@@ -1,0 +1,21 @@
+{
+  "globalKey": "a2d9504f-088a-4304-ac2b-3eed79cdccdf",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": "CCC_ATT_EVC_CONNECTOR",
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "CCC_ATT_EVC_CONNECTOR",
+    "GlobalKey__c": "a2d9504f-088a-4304-ac2b-3eed79cdccdf",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Connector Type",
+    "Name": "EVC CONNECTOR",
+    "Picklist.GlobalKey__c": "c8496233-c80b-4bf5-b2b9-d597d3efb6a5",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

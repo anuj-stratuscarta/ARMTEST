@@ -1,0 +1,13 @@
+{
+  "globalKey": "b33b05be-6d29-4743-ab56-0d4c4b4ab55c",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "CCC_PKL_EVC_PHASE",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "b33b05be-6d29-4743-ab56-0d4c4b4ab55c",
+    "Name": "EVC Phase Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
