@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>63.0</apiVersion>
+    <assignments>
+        <name>Stride_Set_Marker</name>
+        <label>Set marker</label>
+        <locationX>176</locationX>
+        <locationY>287</locationY>
+        <assignmentItems>
+            <assignToReference>marker</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <stringValue>wave-a-1</stringValue>
+            </value>
+        </assignmentItems>
+    </assignments>
+    <interviewLabel>Stride_Wave_A_Smoke {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Stride Wave A Smoke</label>
+    <processType>AutoLaunchedFlow</processType>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Stride_Set_Marker</targetReference>
+        </connector>
+    </start>
+    <status>Draft</status>
+    <variables>
+        <name>marker</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>true</isOutput>
+    </variables>
+</Flow>
