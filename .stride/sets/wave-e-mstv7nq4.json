@@ -1,0 +1,19 @@
+{
+  "slug": "wave-e-mstv7nq4",
+  "name": "wave-e-mstv7nq4",
+  "createdAt": "2026-08-15T04:19:28.650Z",
+  "updatedAt": "2026-08-15T04:19:28.650Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "OmniScript",
+          "fullName": "Stride_WaveE_English"
+        }
+      ]
+    }
+  },
+  "branch": "feature/wave-e-mstv7nq4",
+  "baseBranch": "main"
+}
