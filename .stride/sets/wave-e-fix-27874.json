@@ -1,0 +1,19 @@
+{
+  "slug": "wave-e-fix-27874",
+  "name": "wave-e-fix-27874",
+  "createdAt": "2026-08-17T00:53:06.143Z",
+  "updatedAt": "2026-08-17T00:53:06.143Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "OmniScript",
+          "fullName": "Stride_WaveE_English"
+        }
+      ]
+    }
+  },
+  "branch": "feature/wave-e-fix-27874",
+  "baseBranch": "main"
+}
