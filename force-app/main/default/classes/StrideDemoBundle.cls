@@ -1,4 +1,5 @@
 public with sharing class StrideDemoBundle {
+    // wave-g marker: HEAD side edited this line
     // STRIDE demo — promoted through the ARM Release pipeline alongside the
     // Residential Internet bundle config-data (data/arm/*.json).
     public static String bundleCode() {
