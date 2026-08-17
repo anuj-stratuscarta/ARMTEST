@@ -1,0 +1,27 @@
+{
+  "slug": "wave-e-f04929",
+  "name": "wave-e-f04929",
+  "createdAt": "2026-08-17T22:17:24.247Z",
+  "updatedAt": "2026-08-17T22:17:24.247Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "OmniScript",
+          "fullName": "Stride_WaveE_English_1"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideWaveERemote"
+        },
+        {
+          "type": "OmniDataTransform",
+          "fullName": "StrideWaveEMapper_1"
+        }
+      ]
+    }
+  },
+  "branch": "feature/wave-e-f04929",
+  "baseBranch": "main"
+}
