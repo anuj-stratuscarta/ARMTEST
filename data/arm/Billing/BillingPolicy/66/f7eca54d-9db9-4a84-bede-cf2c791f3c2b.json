@@ -7,6 +7,6 @@
     "Description": "Only the HEAD side set this",
     "GlobalKey__c": "f7eca54d-9db9-4a84-bede-cf2c791f3c2b",
     "Name": "Billing Policy - HEAD side wins",
-    "Status": "Active"
+    "Status": "Draft"
   }
 }
