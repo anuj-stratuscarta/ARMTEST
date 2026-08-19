@@ -2,14 +2,18 @@
   "slug": "dep-gate-mt03d6ku",
   "name": "dep-gate-mt03d6ku",
   "createdAt": "2026-08-19T12:53:44.261Z",
-  "updatedAt": "2026-08-19T12:53:44.261Z",
-  "version": 1,
+  "updatedAt": "2026-08-19T12:54:37.006Z",
+  "version": 2,
   "lanes": {
     "metadata": {
       "components": [
         {
           "type": "ApexClass",
           "fullName": "StrideDepCaller"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDepHelper"
         }
       ]
     }
