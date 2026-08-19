@@ -2,14 +2,18 @@
   "slug": "dep-gate-mt03wigc",
   "name": "dep-gate-mt03wigc",
   "createdAt": "2026-08-19T13:08:48.390Z",
-  "updatedAt": "2026-08-19T13:08:48.390Z",
-  "version": 1,
+  "updatedAt": "2026-08-19T13:09:40.508Z",
+  "version": 2,
   "lanes": {
     "metadata": {
       "components": [
         {
           "type": "ApexClass",
           "fullName": "StrideDepCaller"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDepHelper"
         }
       ]
     }
