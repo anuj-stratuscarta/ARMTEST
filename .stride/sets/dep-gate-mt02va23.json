@@ -1,0 +1,19 @@
+{
+  "slug": "dep-gate-mt02va23",
+  "name": "dep-gate-mt02va23",
+  "createdAt": "2026-08-19T12:39:49.565Z",
+  "updatedAt": "2026-08-19T12:39:49.565Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDepCaller"
+        }
+      ]
+    }
+  },
+  "branch": "feature/dep-gate-mt02va23",
+  "baseBranch": "main"
+}
