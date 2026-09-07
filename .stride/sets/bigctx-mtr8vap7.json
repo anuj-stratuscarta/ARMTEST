@@ -1,0 +1,23 @@
+{
+  "slug": "bigctx-mtr8vap7",
+  "name": "bigctx-mtr8vap7",
+  "createdAt": "2026-09-07T12:57:33.926Z",
+  "updatedAt": "2026-09-07T12:57:33.926Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "RLM_SalesTransactionContext"
+        }
+      ]
+    }
+  },
+  "branch": "feature/bigctx-mtr8vap7",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/bigctx-mtr8vap7.json",
+    "force-app/main/default/contextDefinitions/RLM_SalesTransactionContext.contextDefinition-meta.xml"
+  ]
+}
