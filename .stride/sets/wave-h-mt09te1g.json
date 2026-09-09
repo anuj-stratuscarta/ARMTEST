@@ -2,8 +2,8 @@
   "slug": "wave-h-mt09te1g",
   "name": "wave-h-mt09te1g",
   "createdAt": "2026-08-19T15:54:46.840Z",
-  "updatedAt": "2026-09-09T18:43:29.838Z",
-  "version": 2,
+  "updatedAt": "2026-09-09T21:27:38.489Z",
+  "version": 3,
   "lanes": {
     "metadata": {
       "components": [
@@ -14,6 +14,10 @@
         {
           "type": "ApexClass",
           "fullName": "StrideDepHelper"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDepCaller"
         }
       ]
     }
