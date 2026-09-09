@@ -1,14 +1,20 @@
 {
   "slug": "ctx-field-gate-demo",
   "name": "Context field gate demo",
-  "createdAt": "2026-09-09T11:32:23.044Z",
-  "updatedAt": "2026-09-09T11:32:23.045Z",
+  "createdAt": "2026-09-09T11:36:19.774Z",
+  "updatedAt": "2026-09-09T11:36:19.774Z",
   "version": 1,
   "branch": "feature/ctx-field-gate-demo",
   "baseBranch": "main",
   "lanes": {
-    "metadata": {
-      "components": []
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "CtxGateDemo",
+          "developerName": "CtxGateDemo_V1",
+          "version": 1
+        }
+      ]
     }
   }
 }
