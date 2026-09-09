@@ -1,0 +1,14 @@
+{
+  "slug": "ctx-field-gate-demo",
+  "name": "Context field gate demo",
+  "createdAt": "2026-09-09T11:32:23.044Z",
+  "updatedAt": "2026-09-09T11:32:23.045Z",
+  "version": 1,
+  "branch": "feature/ctx-field-gate-demo",
+  "baseBranch": "main",
+  "lanes": {
+    "metadata": {
+      "components": []
+    }
+  }
+}
