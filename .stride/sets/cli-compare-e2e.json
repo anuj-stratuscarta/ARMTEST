@@ -1,8 +1,8 @@
 {
   "slug": "cli-compare-e2e",
   "name": "cli-compare-e2e",
-  "createdAt": "2026-11-06T15:36:48.744Z",
-  "updatedAt": "2026-11-06T15:36:48.744Z",
+  "createdAt": "2026-11-06T15:39:51.120Z",
+  "updatedAt": "2026-11-06T15:39:51.120Z",
   "version": 1,
   "lanes": {
     "metadata": {
@@ -17,11 +17,13 @@
         },
         {
           "type": "ApexClass",
-          "fullName": "CommsDemoBundle672979"
+          "fullName": "CommsDemoBundle672979",
+          "changeKind": "delete"
         },
         {
           "type": "ApexClass",
-          "fullName": "StrideMergeDemo"
+          "fullName": "StrideMergeDemo",
+          "changeKind": "delete"
         }
       ]
     }
