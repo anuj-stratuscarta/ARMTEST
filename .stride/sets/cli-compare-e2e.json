@@ -1,0 +1,44 @@
+{
+  "slug": "cli-compare-e2e",
+  "name": "cli-compare-e2e",
+  "createdAt": "2026-11-06T15:39:51.120Z",
+  "updatedAt": "2026-11-06T15:39:51.120Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDemoPricingUtilTest"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDemoPricingUtil"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "CommsDemoBundle672979",
+          "changeKind": "delete"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideMergeDemo",
+          "changeKind": "delete"
+        }
+      ]
+    }
+  },
+  "branch": "feature/cli-compare-e2e",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/cli-compare-e2e.json",
+    "force-app/main/default/classes/CommsDemoBundle672979.cls",
+    "force-app/main/default/classes/CommsDemoBundle672979.cls-meta.xml",
+    "force-app/main/default/classes/StrideDemoPricingUtil.cls",
+    "force-app/main/default/classes/StrideDemoPricingUtil.cls-meta.xml",
+    "force-app/main/default/classes/StrideDemoPricingUtilTest.cls",
+    "force-app/main/default/classes/StrideDemoPricingUtilTest.cls-meta.xml",
+    "force-app/main/default/classes/StrideMergeDemo.cls",
+    "force-app/main/default/classes/StrideMergeDemo.cls-meta.xml"
+  ]
+}
