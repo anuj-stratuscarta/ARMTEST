@@ -1,0 +1,23 @@
+{
+  "slug": "cli-capture-e2e",
+  "name": "cli-capture-e2e",
+  "createdAt": "2026-11-06T10:47:06.029Z",
+  "updatedAt": "2026-11-06T10:47:38.456Z",
+  "version": 2,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideDepHelper"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideWaveAHelper"
+        }
+      ]
+    }
+  },
+  "branch": "feature/cli-capture-e2e",
+  "baseBranch": "main"
+}
