@@ -1,0 +1,23 @@
+{
+  "slug": "guide-field-split",
+  "name": "guide-field-split",
+  "createdAt": "2026-11-09T15:39:43.783Z",
+  "updatedAt": "2026-11-09T15:39:43.783Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomField",
+          "fullName": "Account.Guide_Tier__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/guide-field-split",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/guide-field-split.json",
+    "force-app/main/default/objects/Account/fields/Guide_Tier__c.field-meta.xml"
+  ]
+}
