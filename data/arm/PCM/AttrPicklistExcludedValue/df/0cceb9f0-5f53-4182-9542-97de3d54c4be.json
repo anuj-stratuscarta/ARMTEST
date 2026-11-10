@@ -1,0 +1,13 @@
+{
+  "globalKey": "0cceb9f0-5f53-4182-9542-97de3d54c4be",
+  "object": "AttrPicklistExcludedValue",
+  "record": {
+    "AttributeId": {
+      "__polyType": "ProductClassificationAttr",
+      "GlobalKey__c": "a21803ba-c565-4d4a-a242-5d9d7df54a13"
+    },
+    "AttributePicklistValue.GlobalKey__c": "100b4ffe-dd7a-4060-94bd-dc55424ff7b9",
+    "GlobalKey__c": "0cceb9f0-5f53-4182-9542-97de3d54c4be",
+    "Name": "STRIDETEST Excl"
+  }
+}
