@@ -7,4 +7,11 @@
         <shortDescription>STRIDE Phase 2 demo</shortDescription>
         <value>Promoted Dev to SIT by STRIDE</value>
     </labels>
+    <labels>
+        <fullName>Stride_Split_Other</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride Split Other</shortDescription>
+        <value>Must NOT travel with alpha</value>
+    </labels>
 </CustomLabels>
