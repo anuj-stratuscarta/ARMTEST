@@ -1,0 +1,24 @@
+{
+  "slug": "guide-welcome-label",
+  "name": "guide-welcome-label",
+  "createdAt": "2026-11-10T23:50:32.689Z",
+  "updatedAt": "2026-11-10T23:50:32.689Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Guide_Welcome"
+        }
+      ]
+    }
+  },
+  "branch": "feature/guide-welcome-label",
+  "baseBranch": "main",
+  "description": "Guide example: one custom label",
+  "writtenPaths": [
+    ".stride/sets/guide-welcome-label.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
