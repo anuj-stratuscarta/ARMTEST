@@ -1,0 +1,24 @@
+{
+  "slug": "label-split-welcome",
+  "name": "label-split-welcome",
+  "createdAt": "2026-11-10T11:20:55.611Z",
+  "updatedAt": "2026-11-10T11:20:55.611Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Guide_Welcome"
+        }
+      ]
+    }
+  },
+  "branch": "feature/label-split-welcome",
+  "baseBranch": "main",
+  "description": "Target-only label for the merge-on-land test",
+  "writtenPaths": [
+    ".stride/sets/label-split-welcome.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
