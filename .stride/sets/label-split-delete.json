@@ -1,0 +1,25 @@
+{
+  "slug": "label-split-delete",
+  "name": "label-split-delete",
+  "createdAt": "2026-11-10T11:23:33.274Z",
+  "updatedAt": "2026-11-10T11:23:33.274Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Guide_Welcome",
+          "changeKind": "delete"
+        }
+      ]
+    }
+  },
+  "branch": "feature/label-split-delete",
+  "baseBranch": "main",
+  "description": "Delete one CustomLabel",
+  "writtenPaths": [
+    ".stride/sets/label-split-delete.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
