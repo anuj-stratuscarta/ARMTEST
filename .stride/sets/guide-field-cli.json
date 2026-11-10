@@ -1,0 +1,24 @@
+{
+  "slug": "guide-field-cli",
+  "name": "guide-field-cli",
+  "createdAt": "2026-11-10T11:09:57.270Z",
+  "updatedAt": "2026-11-10T11:09:57.270Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomField",
+          "fullName": "Account.Guide_Tier__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/guide-field-cli",
+  "baseBranch": "main",
+  "description": "Guide example: the Guide Tier field",
+  "writtenPaths": [
+    ".stride/sets/guide-field-cli.json",
+    "force-app/main/default/objects/Account/fields/Guide_Tier__c.field-meta.xml"
+  ]
+}
