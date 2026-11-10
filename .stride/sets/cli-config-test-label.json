@@ -1,0 +1,23 @@
+{
+  "slug": "cli-config-test-label",
+  "name": "cli-config-test-label",
+  "createdAt": "2026-11-10T16:25:10.896Z",
+  "updatedAt": "2026-11-10T16:25:10.896Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Guide_Welcome"
+        }
+      ]
+    }
+  },
+  "branch": "feature/cli-config-test-label",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/cli-config-test-label.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}

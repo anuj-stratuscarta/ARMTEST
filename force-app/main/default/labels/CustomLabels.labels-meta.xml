@@ -7,4 +7,11 @@
         <shortDescription>STRIDE Phase 2 demo</shortDescription>
         <value>Promoted Dev to SIT by STRIDE</value>
     </labels>
+    <labels>
+        <fullName>Stride_Guide_Welcome</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride Guide Welcome</shortDescription>
+        <value>Welcome to the loyalty programme!</value>
+    </labels>
 </CustomLabels>
