@@ -14,4 +14,11 @@
         <shortDescription>Stride Guide Welcome</shortDescription>
         <value>Welcome to the loyalty programme!</value>
     </labels>
+    <labels>
+        <fullName>Stride_Split_Alpha</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride Split Alpha</shortDescription>
+        <value>Single-label capture test (alpha)</value>
+    </labels>
 </CustomLabels>
