@@ -14,4 +14,11 @@
         <shortDescription>Stride Split Alpha</shortDescription>
         <value>Single-label capture test (alpha)</value>
     </labels>
+    <labels>
+        <fullName>Stride_Split_Other</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride Split Other</shortDescription>
+        <value>Must NOT travel with alpha</value>
+    </labels>
 </CustomLabels>
