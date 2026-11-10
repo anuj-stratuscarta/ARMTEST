@@ -1,0 +1,35 @@
+{
+  "slug": "guide-discount-apex",
+  "name": "guide-discount-apex",
+  "createdAt": "2026-11-10T11:06:06.816Z",
+  "updatedAt": "2026-11-10T11:06:06.816Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideGuideDiscountTest"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideGuideDiscount"
+        },
+        {
+          "type": "PermissionSet",
+          "fullName": "Stride_Guide_Access"
+        }
+      ]
+    }
+  },
+  "branch": "feature/guide-discount-apex",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/guide-discount-apex.json",
+    "force-app/main/default/classes/StrideGuideDiscount.cls",
+    "force-app/main/default/classes/StrideGuideDiscount.cls-meta.xml",
+    "force-app/main/default/classes/StrideGuideDiscountTest.cls",
+    "force-app/main/default/classes/StrideGuideDiscountTest.cls-meta.xml",
+    "force-app/main/default/permissionsets/Stride_Guide_Access.permissionset-meta.xml"
+  ]
+}
