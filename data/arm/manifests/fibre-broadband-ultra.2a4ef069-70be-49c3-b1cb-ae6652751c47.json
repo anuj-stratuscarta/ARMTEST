@@ -369,10 +369,24 @@
     },
     {
       "direction": "forward",
-      "field": "Pricebook2Id",
-      "from": "PricebookEntry:021d887b-3359-43c9-8236-de949093a082",
+      "field": "AttributePicklistValueId",
+      "from": "AttrPicklistExcludedValue:0cceb9f0-5f53-4182-9542-97de3d54c4be",
       "required": true,
-      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
+      "to": "AttributePicklistValue:100b4ffe-dd7a-4060-94bd-dc55424ff7b9"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributePicklistValueId",
+      "from": "AttrPicklistExcludedValue:0cceb9f0-5f53-4182-9542-97de3d54c4be",
+      "required": true,
+      "to": "AttributePicklistValue:100b4ffe-dd7a-4060-94bd-dc55424ff7b9"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeId",
+      "from": "AttrPicklistExcludedValue:0cceb9f0-5f53-4182-9542-97de3d54c4be",
+      "required": true,
+      "to": "ProductClassificationAttr:a21803ba-c565-4d4a-a242-5d9d7df54a13"
     },
     {
       "direction": "forward",
@@ -390,20 +404,6 @@
     },
     {
       "direction": "forward",
-      "field": "ProductSellingModelId",
-      "from": "PricebookEntry:021d887b-3359-43c9-8236-de949093a082",
-      "required": false,
-      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
-    },
-    {
-      "direction": "forward",
-      "field": "Pricebook2Id",
-      "from": "PricebookEntry:700784ef-5b7d-40d9-88df-a9c89b831c8f",
-      "required": true,
-      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
-    },
-    {
-      "direction": "forward",
       "field": "Product2Id",
       "from": "PricebookEntry:700784ef-5b7d-40d9-88df-a9c89b831c8f",
       "required": true,
@@ -415,20 +415,6 @@
       "from": "PricebookEntry:700784ef-5b7d-40d9-88df-a9c89b831c8f",
       "required": true,
       "to": "Product2:2a4ef069-70be-49c3-b1cb-ae6652751c47"
-    },
-    {
-      "direction": "forward",
-      "field": "ProductSellingModelId",
-      "from": "PricebookEntry:700784ef-5b7d-40d9-88df-a9c89b831c8f",
-      "required": false,
-      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
-    },
-    {
-      "direction": "forward",
-      "field": "Pricebook2Id",
-      "from": "PricebookEntry:ca7164e2-9519-496c-b563-90466a2312b7",
-      "required": true,
-      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
     },
     {
       "direction": "forward",
@@ -446,20 +432,6 @@
     },
     {
       "direction": "forward",
-      "field": "ProductSellingModelId",
-      "from": "PricebookEntry:ca7164e2-9519-496c-b563-90466a2312b7",
-      "required": false,
-      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
-    },
-    {
-      "direction": "forward",
-      "field": "Pricebook2Id",
-      "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
-      "required": true,
-      "to": "Pricebook2:1ad2960f-1b02-4c7d-bd15-e15d4ce22602"
-    },
-    {
-      "direction": "forward",
       "field": "Product2Id",
       "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
       "required": true,
@@ -471,13 +443,6 @@
       "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
       "required": true,
       "to": "Product2:cf65273c-07a1-4dc8-b5df-676834c06b6e"
-    },
-    {
-      "direction": "forward",
-      "field": "ProductSellingModelId",
-      "from": "PricebookEntry:d50c77a8-917b-4647-b01a-f8bf88510655",
-      "required": false,
-      "to": "ProductSellingModel:4e950fd4-e6ff-4984-8aff-b4d560c7b840"
     },
     {
       "direction": "forward",
@@ -999,13 +964,6 @@
     },
     {
       "direction": "forward",
-      "field": "ProductRelationshipTypeId",
-      "from": "ProductRelatedComponent:04dbf8eb-1a7d-4f14-910b-b24beb4975dd",
-      "required": true,
-      "to": "ProductRelationshipType:a9f85fef-9ccf-41c7-808c-8f89c77a0835"
-    },
-    {
-      "direction": "forward",
       "field": "ChildProductId",
       "from": "ProductRelatedComponent:b46ade34-16f5-49d8-a1dc-c774c46e8dc7",
       "required": true,
@@ -1034,13 +992,6 @@
     },
     {
       "direction": "forward",
-      "field": "ProductRelationshipTypeId",
-      "from": "ProductRelatedComponent:b46ade34-16f5-49d8-a1dc-c774c46e8dc7",
-      "required": true,
-      "to": "ProductRelationshipType:a9f85fef-9ccf-41c7-808c-8f89c77a0835"
-    },
-    {
-      "direction": "forward",
       "field": "ParentProductId",
       "from": "ProductRelatedComponent:c52831af-91fb-4817-a9ef-9809846b0d9c",
       "required": true,
@@ -1066,16 +1017,87 @@
       "from": "ProductRelatedComponent:c52831af-91fb-4817-a9ef-9809846b0d9c",
       "required": false,
       "to": "ProductComponentGroup:e360bed7-f105-4a0e-b926-1910b0651ed1"
-    },
-    {
-      "direction": "forward",
-      "field": "ProductRelationshipTypeId",
-      "from": "ProductRelatedComponent:c52831af-91fb-4817-a9ef-9809846b0d9c",
-      "required": true,
-      "to": "ProductRelationshipType:a9f85fef-9ccf-41c7-808c-8f89c77a0835"
     }
   ],
-  "leaves": [],
+  "leaves": [
+    {
+      "fromGlobalKey": "021d887b-3359-43c9-8236-de949093a082",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "021d887b-3359-43c9-8236-de949093a082",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "700784ef-5b7d-40d9-88df-a9c89b831c8f",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "700784ef-5b7d-40d9-88df-a9c89b831c8f",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "ca7164e2-9519-496c-b563-90466a2312b7",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "ca7164e2-9519-496c-b563-90466a2312b7",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "d50c77a8-917b-4647-b01a-f8bf88510655",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Evergreen - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "d50c77a8-917b-4647-b01a-f8bf88510655",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "04dbf8eb-1a7d-4f14-910b-b24beb4975dd",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    },
+    {
+      "fromGlobalKey": "b46ade34-16f5-49d8-a1dc-c774c46e8dc7",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    },
+    {
+      "fromGlobalKey": "c52831af-91fb-4817-a9ef-9809846b0d9c",
+      "fromObject": "ProductRelatedComponent",
+      "reason": "byName",
+      "ref": "Bundle to Bundle Component Relationship",
+      "targetObject": "ProductRelationshipType"
+    }
+  ],
   "nodes": [
     {
       "globalKey": "ae19a714-8418-4502-9f2d-f15df7a55778",
@@ -1267,9 +1289,9 @@
       "object": "AttributePicklistValue"
     },
     {
-      "globalKey": "1ad2960f-1b02-4c7d-bd15-e15d4ce22602",
-      "label": "Standard Price Book",
-      "object": "Pricebook2"
+      "globalKey": "0cceb9f0-5f53-4182-9542-97de3d54c4be",
+      "label": "STRIDETEST Excl",
+      "object": "AttrPicklistExcludedValue"
     },
     {
       "globalKey": "021d887b-3359-43c9-8236-de949093a082",
@@ -1486,82 +1508,62 @@
       "object": "ProductComponentGroup"
     },
     {
-      "displayLabel": "Whole-Home Mesh WiFi ↔ Fibre Broadband Ultra ↔ Ultra Add-ons ↔ Bundle to Bundle Component Relationship",
+      "displayLabel": "Whole-Home Mesh WiFi ↔ Fibre Broadband Ultra ↔ Ultra Add-ons",
       "globalKey": "04dbf8eb-1a7d-4f14-910b-b24beb4975dd",
       "label": "PRC-000000085",
       "object": "ProductRelatedComponent"
     },
     {
-      "displayLabel": "10Gbps Speed Tier ↔ Fibre Broadband Ultra ↔ Ultra Add-ons ↔ Bundle to Bundle Component Relationship",
+      "displayLabel": "10Gbps Speed Tier ↔ Fibre Broadband Ultra ↔ Ultra Add-ons",
       "globalKey": "b46ade34-16f5-49d8-a1dc-c774c46e8dc7",
       "label": "PRC-000000084",
       "object": "ProductRelatedComponent"
     },
     {
-      "displayLabel": "Priority Support ↔ Fibre Broadband Ultra ↔ Ultra Add-ons ↔ Bundle to Bundle Component Relationship",
+      "displayLabel": "Priority Support ↔ Fibre Broadband Ultra ↔ Ultra Add-ons",
       "globalKey": "c52831af-91fb-4817-a9ef-9809846b0d9c",
       "label": "PRC-000000086",
       "object": "ProductRelatedComponent"
+    }
+  ],
+  "replaceScopeWindows": [
+    {
+      "complete": [
+        "ae19a714-8418-4502-9f2d-f15df7a55778",
+        "cce3052b-7e73-4e31-916e-cb83dac51870"
+      ],
+      "object": "AttributeCategoryAttribute",
+      "viaField": "AttributeCategoryId"
     },
     {
-      "globalKey": "a9f85fef-9ccf-41c7-808c-8f89c77a0835",
-      "label": "Bundle to Bundle Component Relationship",
-      "object": "ProductRelationshipType"
+      "complete": [
+        "a21803ba-c565-4d4a-a242-5d9d7df54a13"
+      ],
+      "object": "AttrPicklistExcludedValue",
+      "viaField": "AttributeId"
     },
     {
-      "globalKey": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
-      "label": "Evergreen - Monthly",
-      "object": "ProductSellingModel"
+      "complete": [
+        "11ab7523-00dc-4f20-95d9-e40190c4cd6b",
+        "2a4ef069-70be-49c3-b1cb-ae6652751c47",
+        "cf65273c-07a1-4dc8-b5df-676834c06b6e",
+        "fbcc384e-f40e-4fcc-98f1-3107dbdfc97f"
+      ],
+      "object": "ProductCategoryProduct",
+      "viaField": "ProductId"
+    },
+    {
+      "complete": [
+        "2a4ef069-70be-49c3-b1cb-ae6652751c47"
+      ],
+      "object": "ProductRelatedComponent",
+      "viaField": "ParentProductId"
     }
   ],
   "roots": [
     {
       "globalKey": "2a4ef069-70be-49c3-b1cb-ae6652751c47",
       "object": "Product2"
-    },
-    {
-      "globalKey": "00927dec-1cca-47b3-81f9-9418557c670d",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "22c68607-cc62-47da-abf2-4c6c0e153ea9",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "39f49dc0-ca77-4909-b422-dc1c792f8df2",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "4893110c-2327-465b-8d45-ea688e0097c2",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "841238e3-f8bb-4295-9f5a-da0f707ee560",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "a830256d-45d9-4841-87c2-5384b93da7b2",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "b19a0c30-a486-4194-9865-c35a564dc512",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "c508eb03-9740-4749-8c47-ff3a5e764fd9",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "f4f157c4-c686-465d-b7fc-23c267f1ecd4",
-      "object": "ProductCategoryProduct"
-    },
-    {
-      "globalKey": "161f4eb2-201c-478e-bf37-5252b6489ea8",
-      "object": "ProductClassification"
-    },
-    {
-      "globalKey": "4e950fd4-e6ff-4984-8aff-b4d560c7b840",
-      "object": "ProductSellingModel"
     }
   ]
 }
