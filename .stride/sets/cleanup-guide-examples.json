@@ -1,0 +1,63 @@
+{
+  "slug": "cleanup-guide-examples",
+  "name": "cleanup-guide-examples",
+  "createdAt": "2026-11-11T21:01:18.758Z",
+  "updatedAt": "2026-11-11T21:01:18.758Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "StrideGuideDiscountTest",
+          "changeKind": "delete"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "StrideGuideDiscount",
+          "changeKind": "delete"
+        },
+        {
+          "type": "PermissionSet",
+          "fullName": "Stride_Guide_Access",
+          "changeKind": "delete"
+        },
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Guide_Welcome",
+          "changeKind": "delete"
+        },
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Split_Alpha",
+          "changeKind": "delete"
+        },
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Split_Other",
+          "changeKind": "delete"
+        },
+        {
+          "type": "CustomField",
+          "fullName": "Account.Guide_Tier__c",
+          "changeKind": "delete"
+        }
+      ]
+    }
+  },
+  "branch": "feature/cleanup-guide-examples",
+  "baseBranch": "main",
+  "description": "Remove the user-guide example components from SIT (test cleanup)",
+  "writtenPaths": [
+    ".stride/sets/cleanup-guide-examples.json",
+    "force-app/main/default/classes/StrideGuideDiscount.cls",
+    "force-app/main/default/classes/StrideGuideDiscount.cls-meta.xml",
+    "force-app/main/default/classes/StrideGuideDiscountTest.cls",
+    "force-app/main/default/classes/StrideGuideDiscountTest.cls-meta.xml",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml",
+    "force-app/main/default/objects/Account/fields/Guide_Tier__c.field-meta.xml",
+    "force-app/main/default/permissionsets/Stride_Guide_Access.permissionset-meta.xml"
+  ]
+}
