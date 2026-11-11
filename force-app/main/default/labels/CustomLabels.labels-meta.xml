@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Stride_Del_Test_1455</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Stride_Del_Test_1455</shortDescription>
-        <value>Throwaway label for the deletion-promotion test</value>
-    </labels>
-    <labels>
         <fullName>STRIDE_Demo_Label</fullName>
         <language>en_US</language>
         <protected>false</protected>
