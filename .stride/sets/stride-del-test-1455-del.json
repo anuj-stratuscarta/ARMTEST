@@ -1,0 +1,24 @@
+{
+  "slug": "stride-del-test-1455-del",
+  "name": "stride-del-test-1455-del",
+  "createdAt": "2026-11-11T15:00:10.816Z",
+  "updatedAt": "2026-11-11T15:00:10.816Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Del_Test_1455",
+          "changeKind": "delete"
+        }
+      ]
+    }
+  },
+  "branch": "feature/stride-del-test-1455-del",
+  "baseBranch": "org/commsdemo-source",
+  "writtenPaths": [
+    ".stride/sets/stride-del-test-1455-del.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
