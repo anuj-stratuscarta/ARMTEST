@@ -8,6 +8,13 @@
         <value>Stride auto-promotion test Stride_Auto_Test_1111</value>
     </labels>
     <labels>
+        <fullName>Stride_Auto_Test_2222</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride_Auto_Test_2222</shortDescription>
+        <value>Stride auto-promotion test Stride_Auto_Test_2222</value>
+    </labels>
+    <labels>
         <fullName>STRIDE_Demo_Label</fullName>
         <language>en_US</language>
         <protected>false</protected>
