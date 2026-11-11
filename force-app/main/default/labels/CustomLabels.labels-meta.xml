@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Stride_Del_Test_1455b</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Stride_Del_Test_1455b</shortDescription>
-        <value>Throwaway label b for the per-label drift test</value>
-    </labels>
-    <labels>
-        <fullName>Stride_Del_Test_1455c</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Stride_Del_Test_1455c</shortDescription>
-        <value>Throwaway label c for the per-label drift test</value>
-    </labels>
-    <labels>
         <fullName>STRIDE_Demo_Label</fullName>
         <language>en_US</language>
         <protected>false</protected>

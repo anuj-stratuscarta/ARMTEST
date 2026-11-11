@@ -1,0 +1,30 @@
+{
+  "slug": "stride-del-test-1455bc-del",
+  "name": "stride-del-test-1455bc-del",
+  "createdAt": "2026-11-11T15:04:53.132Z",
+  "updatedAt": "2026-11-11T15:04:53.132Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Del_Test_1455b",
+          "changeKind": "delete"
+        },
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Del_Test_1455c",
+          "changeKind": "delete"
+        }
+      ]
+    }
+  },
+  "branch": "feature/stride-del-test-1455bc-del",
+  "baseBranch": "org/commsdemo-source",
+  "writtenPaths": [
+    ".stride/sets/stride-del-test-1455bc-del.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
