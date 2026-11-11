@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Stride_Auto_Test_1111</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride_Auto_Test_1111</shortDescription>
+        <value>Stride auto-promotion test Stride_Auto_Test_1111</value>
+    </labels>
+    <labels>
         <fullName>STRIDE_Demo_Label</fullName>
         <language>en_US</language>
         <protected>false</protected>
