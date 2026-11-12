@@ -1,0 +1,25 @@
+{
+  "slug": "cleanup-guide-welcome-2611",
+  "name": "cleanup-guide-welcome-2611",
+  "createdAt": "2026-11-12T11:23:10.698Z",
+  "updatedAt": "2026-11-12T11:23:10.698Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "Stride_Guide_Welcome",
+          "changeKind": "delete"
+        }
+      ]
+    }
+  },
+  "branch": "feature/cleanup-guide-welcome-2611",
+  "baseBranch": "main",
+  "description": "Remove the guide screenshot label from SIT",
+  "writtenPaths": [
+    ".stride/sets/cleanup-guide-welcome-2611.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
