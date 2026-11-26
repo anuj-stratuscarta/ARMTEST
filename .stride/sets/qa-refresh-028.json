@@ -2,8 +2,8 @@
   "slug": "qa-refresh-028",
   "name": "qa-refresh-028",
   "createdAt": "2026-11-26T11:42:31.987Z",
-  "updatedAt": "2026-11-26T11:42:31.987Z",
-  "version": 1,
+  "updatedAt": "2026-11-26T11:43:13.585Z",
+  "version": 2,
   "lanes": {
     "metadata": {
       "components": [
@@ -15,9 +15,5 @@
     }
   },
   "branch": "feature/qa-refresh-028",
-  "baseBranch": "main",
-  "writtenPaths": [
-    ".stride/sets/qa-refresh-028.json",
-    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
-  ]
+  "baseBranch": "main"
 }
