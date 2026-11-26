@@ -1,0 +1,23 @@
+{
+  "slug": "qa-refresh-028",
+  "name": "qa-refresh-028",
+  "createdAt": "2026-11-26T11:42:31.987Z",
+  "updatedAt": "2026-11-26T11:43:55.342Z",
+  "version": 3,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "STRIDE_Demo_Label"
+        },
+        {
+          "type": "DecisionMatrixDefinition",
+          "fullName": "TEST_Decision_Matrix"
+        }
+      ]
+    }
+  },
+  "branch": "feature/qa-refresh-028",
+  "baseBranch": "main"
+}
