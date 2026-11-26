@@ -1,0 +1,29 @@
+{
+  "globalKey": "838891ca-b5c7-4dca-86c5-7f0204a066a3",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "84e30128-873a-4577-919b-959c8a413b8f",
+    "AttributeDefinition.GlobalKey__c": "c5a43597-3a8d-4bc1-9123-9306ee7206e3",
+    "AttributeNameOverride": "STATIC IP",
+    "DefaultValue": null,
+    "Description": "Static IP is a permanent IP address that doesn't change, allowing it to be used for hosting and remote access solutions",
+    "DisplayType": null,
+    "GlobalKey__c": "838891ca-b5c7-4dca-86c5-7f0204a066a3",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "STATIC IP",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "29fd79ee-0bd9-42e4-b96a-70d494b73b87",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

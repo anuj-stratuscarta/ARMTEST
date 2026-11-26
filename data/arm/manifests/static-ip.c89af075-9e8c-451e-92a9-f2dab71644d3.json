@@ -1,0 +1,404 @@
+{
+  "component": "static-ip",
+  "componentGlobalKey": "c89af075-9e8c-451e-92a9-f2dab71644d3",
+  "componentObject": "Product2",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "required": true,
+      "to": "AttributeCategory:84e30128-873a-4577-919b-959c8a413b8f"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "required": true,
+      "to": "AttributeCategory:84e30128-873a-4577-919b-959c8a413b8f"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "required": true,
+      "to": "AttributeDefinition:c5a43597-3a8d-4bc1-9123-9306ee7206e3"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:ac814d7a-f47c-41ed-9d63-0a219f822f7c",
+      "required": true,
+      "to": "AttributeCategory:dbe445af-5fbb-4fb9-b5c1-60d0111d9e90"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:ac814d7a-f47c-41ed-9d63-0a219f822f7c",
+      "required": true,
+      "to": "AttributeCategory:dbe445af-5fbb-4fb9-b5c1-60d0111d9e90"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:ac814d7a-f47c-41ed-9d63-0a219f822f7c",
+      "required": true,
+      "to": "AttributeDefinition:f1de3c2a-20f7-491a-9161-0edc8d02f997"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:f1de3c2a-20f7-491a-9161-0edc8d02f997",
+      "required": false,
+      "to": "AttributePicklist:55441a76-0a75-4139-a7b5-06ed363d17ff"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:2113766c-47c1-47e3-b79a-be9cb7db3156",
+      "required": true,
+      "to": "AttributePicklist:55441a76-0a75-4139-a7b5-06ed363d17ff"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:2113766c-47c1-47e3-b79a-be9cb7db3156",
+      "required": true,
+      "to": "AttributePicklist:55441a76-0a75-4139-a7b5-06ed363d17ff"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:6047f736-41f2-45c6-bb7c-5e7f6ad4d774",
+      "required": true,
+      "to": "AttributePicklist:55441a76-0a75-4139-a7b5-06ed363d17ff"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:6047f736-41f2-45c6-bb7c-5e7f6ad4d774",
+      "required": true,
+      "to": "AttributePicklist:55441a76-0a75-4139-a7b5-06ed363d17ff"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:7d3a93c8-6745-453b-8798-d1b80a6df6e3",
+      "required": true,
+      "to": "Product2:3f424c82-73bb-4ace-a836-465ac13e98e1"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:7d3a93c8-6745-453b-8798-d1b80a6df6e3",
+      "required": true,
+      "to": "Product2:3f424c82-73bb-4ace-a836-465ac13e98e1"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "PricebookEntry:b9953e8c-315a-4156-89a4-bf805fb15d46",
+      "required": true,
+      "to": "Product2:c89af075-9e8c-451e-92a9-f2dab71644d3"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "PricebookEntry:b9953e8c-315a-4156-89a4-bf805fb15d46",
+      "required": true,
+      "to": "Product2:c89af075-9e8c-451e-92a9-f2dab71644d3"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:3f424c82-73bb-4ace-a836-465ac13e98e1",
+      "required": false,
+      "to": "ProductClassification:45129ca0-e788-4a40-928f-e532c41db8e0"
+    },
+    {
+      "direction": "forward",
+      "field": "TaxPolicyId",
+      "from": "Product2:3f424c82-73bb-4ace-a836-465ac13e98e1",
+      "required": false,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    },
+    {
+      "direction": "forward",
+      "field": "BasedOnId",
+      "from": "Product2:c89af075-9e8c-451e-92a9-f2dab71644d3",
+      "required": false,
+      "to": "ProductClassification:29fd79ee-0bd9-42e4-b96a-70d494b73b87"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:a82daf56-eec9-4909-bb47-b410e68f8916",
+      "required": false,
+      "to": "AttributeCategory:dbe445af-5fbb-4fb9-b5c1-60d0111d9e90"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:a82daf56-eec9-4909-bb47-b410e68f8916",
+      "required": true,
+      "to": "AttributeDefinition:f1de3c2a-20f7-491a-9161-0edc8d02f997"
+    },
+    {
+      "direction": "forward",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:a82daf56-eec9-4909-bb47-b410e68f8916",
+      "required": true,
+      "to": "Product2:3f424c82-73bb-4ace-a836-465ac13e98e1"
+    },
+    {
+      "direction": "reverse",
+      "field": "Product2Id",
+      "from": "ProductAttributeDefinition:a82daf56-eec9-4909-bb47-b410e68f8916",
+      "required": true,
+      "to": "Product2:3f424c82-73bb-4ace-a836-465ac13e98e1"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:a82daf56-eec9-4909-bb47-b410e68f8916",
+      "required": true,
+      "to": "ProductClassificationAttr:8c7c18e7-8cf6-4b2f-b410-c5b5299060f0"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": false,
+      "to": "AttributeCategory:84e30128-873a-4577-919b-959c8a413b8f"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": true,
+      "to": "AttributeDefinition:c5a43597-3a8d-4bc1-9123-9306ee7206e3"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": true,
+      "to": "ProductClassification:29fd79ee-0bd9-42e4-b96a-70d494b73b87"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "required": true,
+      "to": "ProductClassification:29fd79ee-0bd9-42e4-b96a-70d494b73b87"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:8c7c18e7-8cf6-4b2f-b410-c5b5299060f0",
+      "required": false,
+      "to": "AttributeCategory:dbe445af-5fbb-4fb9-b5c1-60d0111d9e90"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:8c7c18e7-8cf6-4b2f-b410-c5b5299060f0",
+      "required": true,
+      "to": "AttributeDefinition:f1de3c2a-20f7-491a-9161-0edc8d02f997"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:8c7c18e7-8cf6-4b2f-b410-c5b5299060f0",
+      "required": true,
+      "to": "ProductClassification:45129ca0-e788-4a40-928f-e532c41db8e0"
+    },
+    {
+      "direction": "reverse",
+      "field": "ProductClassificationId",
+      "from": "ProductClassificationAttr:8c7c18e7-8cf6-4b2f-b410-c5b5299060f0",
+      "required": true,
+      "to": "ProductClassification:45129ca0-e788-4a40-928f-e532c41db8e0"
+    },
+    {
+      "direction": "forward",
+      "field": "LegalEntityId",
+      "from": "TaxTreatment:5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "required": false,
+      "to": "LegalEntity:360b1a10-9513-48cc-ab05-ecdeff28bdd9"
+    },
+    {
+      "direction": "forward",
+      "field": "TaxPolicyId",
+      "from": "TaxTreatment:5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "required": false,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    },
+    {
+      "direction": "reverse",
+      "field": "TaxPolicyId",
+      "from": "TaxTreatment:5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "required": true,
+      "to": "TaxPolicy:ad663bba-ef96-4920-b586-8b24a3fab3dd"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "7d3a93c8-6745-453b-8798-d1b80a6df6e3",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "b9953e8c-315a-4156-89a4-bf805fb15d46",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "One-Time",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "b9953e8c-315a-4156-89a4-bf805fb15d46",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "ad663bba-ef96-4920-b586-8b24a3fab3dd",
+      "fromObject": "TaxPolicy",
+      "reason": "unkeyed-required",
+      "ref": "DefaultTaxTreatmentId",
+      "targetObject": "TaxTreatment"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "84e30128-873a-4577-919b-959c8a413b8f",
+      "label": "STATIC IP",
+      "object": "AttributeCategory"
+    },
+    {
+      "globalKey": "dbe445af-5fbb-4fb9-b5c1-60d0111d9e90",
+      "label": "Paper",
+      "object": "AttributeCategory"
+    },
+    {
+      "displayLabel": "STATIC IP",
+      "globalKey": "5f17cdfe-845f-4baa-a8b7-ee0ba19a3806",
+      "label": "ACA-0000001",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "displayLabel": "Paper ↔ Paper Size",
+      "globalKey": "ac814d7a-f47c-41ed-9d63-0a219f822f7c",
+      "label": "ACA-0000017",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "globalKey": "c5a43597-3a8d-4bc1-9123-9306ee7206e3",
+      "label": "STATIC IP",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "f1de3c2a-20f7-491a-9161-0edc8d02f997",
+      "label": "Paper Size",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "55441a76-0a75-4139-a7b5-06ed363d17ff",
+      "label": "Paper Size Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "2113766c-47c1-47e3-b79a-be9cb7db3156",
+      "label": "Letter",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "6047f736-41f2-45c6-bb7c-5e7f6ad4d774",
+      "label": "A4",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "360b1a10-9513-48cc-ab05-ecdeff28bdd9",
+      "label": "Default Legal Entity - US",
+      "object": "LegalEntity"
+    },
+    {
+      "globalKey": "7d3a93c8-6745-453b-8798-d1b80a6df6e3",
+      "label": "Printer Paper",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "b9953e8c-315a-4156-89a4-bf805fb15d46",
+      "label": "Static IP",
+      "object": "PricebookEntry"
+    },
+    {
+      "globalKey": "3f424c82-73bb-4ace-a836-465ac13e98e1",
+      "label": "Printer Paper",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "c89af075-9e8c-451e-92a9-f2dab71644d3",
+      "label": "Static IP",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "a82daf56-eec9-4909-bb47-b410e68f8916",
+      "label": "Paper Size",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "29fd79ee-0bd9-42e4-b96a-70d494b73b87",
+      "label": "Static IP",
+      "object": "ProductClassification"
+    },
+    {
+      "globalKey": "45129ca0-e788-4a40-928f-e532c41db8e0",
+      "label": "Paper",
+      "object": "ProductClassification"
+    },
+    {
+      "globalKey": "838891ca-b5c7-4dca-86c5-7f0204a066a3",
+      "label": "STATIC IP",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "8c7c18e7-8cf6-4b2f-b410-c5b5299060f0",
+      "label": "Paper Size",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "globalKey": "ad663bba-ef96-4920-b586-8b24a3fab3dd",
+      "label": "Tax Policy for LE",
+      "object": "TaxPolicy"
+    },
+    {
+      "globalKey": "5c5e336b-72f8-4cc6-8ae8-af6fe9e17056",
+      "label": "Tax Treatment for US LE",
+      "object": "TaxTreatment"
+    }
+  ],
+  "replaceScopeWindows": [
+    {
+      "complete": [
+        "84e30128-873a-4577-919b-959c8a413b8f",
+        "dbe445af-5fbb-4fb9-b5c1-60d0111d9e90"
+      ],
+      "object": "AttributeCategoryAttribute",
+      "viaField": "AttributeCategoryId"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "3f424c82-73bb-4ace-a836-465ac13e98e1",
+      "object": "Product2"
+    },
+    {
+      "globalKey": "c89af075-9e8c-451e-92a9-f2dab71644d3",
+      "object": "Product2"
+    }
+  ]
+}

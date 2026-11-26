@@ -1,0 +1,10 @@
+{
+  "globalKey": "84e30128-873a-4577-919b-959c8a413b8f",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "CCC_ATTRCAT_STATIC_IP",
+    "Description": "STATIC IP",
+    "GlobalKey__c": "84e30128-873a-4577-919b-959c8a413b8f",
+    "Name": "STATIC IP"
+  }
+}

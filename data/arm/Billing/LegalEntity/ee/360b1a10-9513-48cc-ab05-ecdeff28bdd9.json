@@ -1,0 +1,19 @@
+{
+  "globalKey": "360b1a10-9513-48cc-ab05-ecdeff28bdd9",
+  "object": "LegalEntity",
+  "record": {
+    "CompanyName": null,
+    "Description": null,
+    "GlobalKey__c": "360b1a10-9513-48cc-ab05-ecdeff28bdd9",
+    "LegalEntityCity": null,
+    "LegalEntityCountry": null,
+    "LegalEntityGeocodeAccuracy": null,
+    "LegalEntityLatitude": null,
+    "LegalEntityLongitude": null,
+    "LegalEntityPostalCode": null,
+    "LegalEntityState": null,
+    "LegalEntityStreet": null,
+    "Name": "Default Legal Entity - US",
+    "Status": "Active"
+  }
+}

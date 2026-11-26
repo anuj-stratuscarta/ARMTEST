@@ -1,0 +1,12 @@
+{
+  "globalKey": "ad663bba-ef96-4920-b586-8b24a3fab3dd",
+  "object": "TaxPolicy",
+  "record": {
+    "DefaultTaxTreatment": null,
+    "Description": null,
+    "GlobalKey__c": "ad663bba-ef96-4920-b586-8b24a3fab3dd",
+    "Name": "Tax Policy for LE",
+    "Status": "Draft",
+    "TreatmentSelection": "LegalEntity"
+  }
+}

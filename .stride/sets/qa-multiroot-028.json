@@ -1,0 +1,56 @@
+{
+  "slug": "qa-multiroot-028",
+  "name": "qa-multiroot-028",
+  "createdAt": "2026-11-26T11:27:52.214Z",
+  "updatedAt": "2026-11-26T11:27:52.214Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "c89af075-9e8c-451e-92a9-f2dab71644d3",
+            "3f424c82-73bb-4ace-a836-465ac13e98e1"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "Product2"
+        ]
+      }
+    }
+  },
+  "branch": "feature/qa-multiroot-028",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/qa-multiroot-028.json",
+    "data/arm/Billing/LegalEntity/ee/360b1a10-9513-48cc-ab05-ecdeff28bdd9.json",
+    "data/arm/Billing/TaxPolicy/d9/ad663bba-ef96-4920-b586-8b24a3fab3dd.json",
+    "data/arm/Billing/TaxTreatment/17/5c5e336b-72f8-4cc6-8ae8-af6fe9e17056.json",
+    "data/arm/PCM/AttributeCategory/7b/dbe445af-5fbb-4fb9-b5c1-60d0111d9e90.json",
+    "data/arm/PCM/AttributeCategory/ec/84e30128-873a-4577-919b-959c8a413b8f.json",
+    "data/arm/PCM/AttributeCategoryAttribute/11/ac814d7a-f47c-41ed-9d63-0a219f822f7c.json",
+    "data/arm/PCM/AttributeCategoryAttribute/20/5f17cdfe-845f-4baa-a8b7-ee0ba19a3806.json",
+    "data/arm/PCM/AttributeDefinition/62/f1de3c2a-20f7-491a-9161-0edc8d02f997.json",
+    "data/arm/PCM/AttributeDefinition/b2/c5a43597-3a8d-4bc1-9123-9306ee7206e3.json",
+    "data/arm/PCM/AttributePicklist/f2/55441a76-0a75-4139-a7b5-06ed363d17ff.json",
+    "data/arm/PCM/AttributePicklistValue/1c/2113766c-47c1-47e3-b79a-be9cb7db3156.json",
+    "data/arm/PCM/AttributePicklistValue/ba/6047f736-41f2-45c6-bb7c-5e7f6ad4d774.json",
+    "data/arm/PCM/Product2/b9/3f424c82-73bb-4ace-a836-465ac13e98e1.json",
+    "data/arm/PCM/Product2/c2/c89af075-9e8c-451e-92a9-f2dab71644d3.json",
+    "data/arm/PCM/ProductAttributeDefinition/91/a82daf56-eec9-4909-bb47-b410e68f8916.json",
+    "data/arm/PCM/ProductClassification/76/45129ca0-e788-4a40-928f-e532c41db8e0.json",
+    "data/arm/PCM/ProductClassification/df/29fd79ee-0bd9-42e4-b96a-70d494b73b87.json",
+    "data/arm/PCM/ProductClassificationAttr/24/8c7c18e7-8cf6-4b2f-b410-c5b5299060f0.json",
+    "data/arm/PCM/ProductClassificationAttr/50/838891ca-b5c7-4dca-86c5-7f0204a066a3.json",
+    "data/arm/Pricing/PricebookEntry/4a/7d3a93c8-6745-453b-8798-d1b80a6df6e3.json",
+    "data/arm/Pricing/PricebookEntry/70/b9953e8c-315a-4156-89a4-bf805fb15d46.json",
+    "data/arm/Pricing/ProductSellingModelOption/da/CCC_STATIC_IP_One-Time.dacb0a36.json",
+    "data/arm/manifests/static-ip.c89af075-9e8c-451e-92a9-f2dab71644d3.json"
+  ]
+}

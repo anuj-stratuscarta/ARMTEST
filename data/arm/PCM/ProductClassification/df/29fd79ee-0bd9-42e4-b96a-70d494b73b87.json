@@ -1,0 +1,11 @@
+{
+  "globalKey": "29fd79ee-0bd9-42e4-b96a-70d494b73b87",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CCC_CLASS_STATIC_IP",
+    "GlobalKey__c": "29fd79ee-0bd9-42e4-b96a-70d494b73b87",
+    "Name": "Static IP",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

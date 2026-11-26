@@ -1,0 +1,16 @@
+{
+  "globalKey": "6047f736-41f2-45c6-bb7c-5e7f6ad4d774",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "A4",
+    "DisplayValue": "A4",
+    "GlobalKey__c": "6047f736-41f2-45c6-bb7c-5e7f6ad4d774",
+    "IsDefault": false,
+    "Name": "A4",
+    "Picklist.GlobalKey__c": "55441a76-0a75-4139-a7b5-06ed363d17ff",
+    "Sequence": 2,
+    "Status": "Draft",
+    "Value": "A4"
+  }
+}
