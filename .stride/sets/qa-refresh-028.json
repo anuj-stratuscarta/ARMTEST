@@ -1,0 +1,23 @@
+{
+  "slug": "qa-refresh-028",
+  "name": "qa-refresh-028",
+  "createdAt": "2026-11-26T11:42:31.987Z",
+  "updatedAt": "2026-11-26T11:42:31.987Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "STRIDE_Demo_Label"
+        }
+      ]
+    }
+  },
+  "branch": "feature/qa-refresh-028",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/qa-refresh-028.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
